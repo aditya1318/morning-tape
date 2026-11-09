@@ -1,0 +1,371 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The Morning Tape</title>
+<meta name="description" content="A daily newspaper of world markets, stocks, deals, hedge funds and business news.">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Morning Tape">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="theme-color" content="#f3efe4" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#17171a" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="icons/favicon-32.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a phone-first broadsheet — compact masthead, swipeable ticker tape, lead story, briefs, five section desks, and a bottom bar to switch between Today and the Archive. */
+:root {
+  --paper: #f3efe4;
+  --paper-2: #e9e3d3;
+  --ink: #1b1a17;
+  --ink-soft: #4a463d;
+  --rule: #1b1a17;
+  --hair: #c3bba6;
+  --up: #1f6b3a;
+  --down: #a3271f;
+  --f-mast: "UnifrakturMaguntia", "Old English Text MT", Georgia, serif;
+  --f-head: "Old Standard TT", "Times New Roman", Georgia, serif;
+  --f-body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --f-data: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --bar-h: 56px;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #17171a; --paper-2: #222226; --ink: #e8e3d6; --ink-soft: #b3ad9e;
+    --rule: #e8e3d6; --hair: #46433b; --up: #6fc28f; --down: #f08a7e; color-scheme: dark;
+  }
+}
+
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--f-body);
+  font-size: 17px;
+  line-height: 1.5;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-top: env(safe-area-inset-top, 0px);
+  padding-bottom: calc(var(--bar-h) + env(safe-area-inset-bottom, 0px) + 24px);
+}
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); background: var(--paper); z-index: 20; }
+.sheet { max-width: 1100px; margin: 0 auto; }
+[hidden] { display: none !important; }
+button { font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; }
+:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+
+/* Masthead */
+.ears { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding-top: 12px; font-family: var(--f-data); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-soft); }
+.refresh { display: inline-flex; align-items: center; gap: 6px; font-family: var(--f-data); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; padding: 6px 0 6px 8px; }
+.refresh svg { width: 14px; height: 14px; }
+.refresh.spin svg { animation: spin .8s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.mast { text-align: center; margin: 4px 0 2px; }
+.mast h1 { font-family: var(--f-mast); font-weight: 400; font-size: clamp(42px, 12vw, 96px); line-height: 1; margin: 0; }
+.motto { font-family: var(--f-head); font-style: italic; font-size: 13px; color: var(--ink-soft); margin-top: 2px; }
+.dateline { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 2px 12px; border-top: 3px double var(--rule); border-bottom: 1px solid var(--rule); padding-block: 6px; margin-top: 10px; font-family: var(--f-data); font-size: 11.5px; letter-spacing: .06em; text-transform: uppercase; }
+.notice { margin-top: 8px; padding: 8px 10px; border: 1px solid var(--rule); font-family: var(--f-data); font-size: 12px; display: flex; gap: 10px; justify-content: space-between; align-items: center; }
+.notice button { text-decoration: underline; text-underline-offset: 3px; white-space: nowrap; }
+
+/* Ticker */
+.tape { overflow-x: auto; border-bottom: 3px double var(--rule); scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+.tape::-webkit-scrollbar { display: none; }
+.tape ul { list-style: none; margin: 0; padding: 8px 0; display: flex; min-width: max-content; }
+.tape li { display: flex; align-items: baseline; gap: 7px; padding: 0 14px; border-right: 1px solid var(--hair); font-family: var(--f-data); font-size: 13px; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.tape li:first-child { padding-left: 0; }
+.tape li:last-child { border-right: 0; }
+.tape .nm { text-transform: uppercase; letter-spacing: .06em; font-size: 10.5px; color: var(--ink-soft); }
+.up { color: var(--up); } .down { color: var(--down); }
+
+/* Front */
+.front { display: grid; grid-template-columns: minmax(0, 2.1fr) minmax(0, 1fr); margin-top: 18px; border-bottom: 1px solid var(--rule); padding-bottom: 18px; }
+.lead { padding-right: 24px; border-right: 1px solid var(--hair); min-width: 0; }
+.kicker { font-family: var(--f-data); font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--ink-soft); }
+.lead h2 { font-family: var(--f-head); font-weight: 700; font-size: clamp(30px, 7.4vw, 52px); line-height: 1.05; margin: 6px 0 10px; text-wrap: balance; letter-spacing: -.01em; }
+.deck { font-family: var(--f-head); font-style: italic; font-size: 19px; line-height: 1.35; color: var(--ink-soft); margin: 0 0 14px; text-wrap: balance; }
+.lead .body { columns: 2 15em; column-gap: 24px; column-rule: 1px solid var(--hair); }
+.lead .body p { margin: 0 0 12px; break-inside: avoid-column; hyphens: auto; }
+.lead .body p:first-child::first-letter { font-family: var(--f-head); font-weight: 700; float: left; font-size: 3.3em; line-height: .85; padding: 4px 6px 0 0; }
+.rail { padding-left: 24px; min-width: 0; }
+.rail h3 { font-family: var(--f-head); font-size: 22px; margin: 0 0 6px; padding-bottom: 6px; border-bottom: 2px solid var(--rule); }
+.rail ol { list-style: none; margin: 0; padding: 0; counter-reset: b; }
+.rail li { counter-increment: b; display: grid; grid-template-columns: 24px 1fr; gap: 8px; padding: 10px 0; border-bottom: 1px solid var(--hair); font-size: 15.5px; line-height: 1.4; }
+.rail li:last-child { border-bottom: 0; }
+.rail li::before { content: counter(b); font-family: var(--f-head); font-weight: 700; font-size: 20px; line-height: 1; }
+
+/* Desks */
+.desks { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 200px), 1fr)); margin-top: 18px; }
+.desk { padding: 0 16px; border-right: 1px solid var(--hair); min-width: 0; }
+.desk:first-child { padding-left: 0; }
+.desk:last-child { border-right: 0; padding-right: 0; }
+.desk > h3 { font-family: var(--f-data); font-weight: 500; font-size: 12px; letter-spacing: .14em; text-transform: uppercase; margin: 0 0 10px; padding-block: 6px; border-top: 2px solid var(--rule); border-bottom: 1px solid var(--rule); }
+.story { padding-bottom: 12px; margin-bottom: 12px; border-bottom: 1px solid var(--hair); }
+.story:last-child { border-bottom: 0; margin-bottom: 0; }
+.story h4 { font-family: var(--f-head); font-weight: 700; font-size: 19px; line-height: 1.18; margin: 0 0 4px; text-wrap: balance; }
+.story p { margin: 0; font-size: 15.5px; line-height: 1.45; hyphens: auto; }
+.story .fig { font-family: var(--f-data); font-size: 12px; font-variant-numeric: tabular-nums; color: var(--ink-soft); display: block; margin-bottom: 3px; }
+.empty { font-style: italic; color: var(--ink-soft); font-size: 15px; margin: 0; }
+
+/* Sources */
+.sources { margin-top: 22px; border-top: 3px double var(--rule); padding-top: 10px; }
+.sources h3 { font-family: var(--f-data); font-weight: 500; font-size: 12px; letter-spacing: .14em; text-transform: uppercase; margin: 0 0 8px; }
+.sources ol { margin: 0; padding-left: 20px; columns: 3 16em; column-gap: 24px; font-size: 14px; color: var(--ink-soft); }
+.sources li { break-inside: avoid; margin-bottom: 6px; }
+.sources a, .issue a { color: var(--ink); text-decoration-color: var(--hair); text-underline-offset: 3px; }
+.colophon { margin-top: 14px; font-family: var(--f-data); font-size: 11px; color: var(--ink-soft); text-align: center; }
+
+/* Archive */
+.archive h2 { font-family: var(--f-head); font-size: 30px; margin: 18px 0 4px; }
+.archive .sub { font-family: var(--f-data); font-size: 12px; color: var(--ink-soft); margin: 0 0 12px; text-transform: uppercase; letter-spacing: .06em; }
+.archive ol { list-style: none; margin: 0; padding: 0; border-top: 2px solid var(--rule); }
+.issue a { display: grid; grid-template-columns: 64px 1fr; gap: 12px; padding: 14px 0; border-bottom: 1px solid var(--hair); text-decoration: none; }
+.issue .no { font-family: var(--f-data); font-size: 12px; color: var(--ink-soft); padding-top: 3px; }
+.issue .dt { font-family: var(--f-data); font-size: 11.5px; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-soft); display: block; }
+.issue .hl { font-family: var(--f-head); font-weight: 700; font-size: 19px; line-height: 1.2; display: block; margin-top: 2px; }
+
+/* Bottom bar */
+.bar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 30; background: var(--paper); border-top: 3px double var(--rule); padding-bottom: env(safe-area-inset-bottom, 0px); padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.bar nav { max-width: 520px; margin: 0 auto; height: var(--bar-h); display: grid; grid-template-columns: 1fr 1fr; }
+.bar a { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px; font-family: var(--f-data); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-soft); text-decoration: none; }
+.bar a svg { width: 20px; height: 20px; }
+.bar a[aria-current="page"] { color: var(--ink); font-weight: 500; }
+
+.state { text-align: center; padding: 48px 0; font-family: var(--f-head); font-style: italic; color: var(--ink-soft); }
+
+@media (max-width: 760px) {
+  .front { grid-template-columns: 1fr; }
+  .lead { padding-right: 0; border-right: 0; }
+  .lead .body { columns: 1; }
+  .rail { padding-left: 0; margin-top: 16px; padding-top: 14px; border-top: 2px solid var(--rule); }
+  .desk { padding: 0 !important; border-right: 0; margin-bottom: 18px; }
+}
+@media (prefers-reduced-motion: reduce) { .refresh.spin svg { animation: none; } }
+</style>
+</head>
+<body>
+<div class="sheet">
+  <header>
+    <div class="ears">
+      <span id="ear">Vol. I</span>
+      <button class="refresh" id="refresh" type="button" aria-label="Check for a new edition">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 4v5h-5"/></svg>
+        <span id="refresh-label">Refresh</span>
+      </button>
+    </div>
+    <div class="mast">
+      <h1>The Morning Tape</h1>
+      <div class="motto">All the market news that moved overnight</div>
+    </div>
+    <div class="dateline"><span id="dl-date">&nbsp;</span><span id="dl-edition"></span></div>
+    <div class="notice" id="install" hidden>
+      <span>Install: tap Share, then “Add to Home Screen”.</span>
+      <button type="button" id="install-close">Dismiss</button>
+    </div>
+    <div class="notice" id="offline" hidden><span>You're offline. Showing the last saved edition.</span></div>
+  </header>
+
+  <main id="today">
+    <nav class="tape" aria-label="Market levels"><ul id="tape"></ul></nav>
+    <div class="state" id="loading">Fetching this morning's edition…</div>
+    <div id="paper" hidden>
+      <section class="front">
+        <article class="lead" id="lead"></article>
+        <aside class="rail"><h3>Top of the Day</h3><ol id="top"></ol></aside>
+      </section>
+      <section class="desks" id="desks"></section>
+      <footer class="sources">
+        <h3>Sources</h3>
+        <ol id="sources"></ol>
+        <p class="colophon">Compiled each morning from published reports. News only, not investment advice.</p>
+      </footer>
+    </div>
+  </main>
+
+  <main id="archive" class="archive" hidden>
+    <h2>Back Issues</h2>
+    <p class="sub" id="archive-count"></p>
+    <ol id="issues"></ol>
+  </main>
+</div>
+
+<div class="bar">
+  <nav aria-label="Sections">
+    <a href="#" id="nav-today" aria-current="page">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="M4 5h13v14H6a2 2 0 0 1-2-2V5z"/><path d="M17 9h3v8a2 2 0 0 1-2 2"/><path d="M7 9h7M7 12h7M7 15h4"/></svg>
+      Today
+    </a>
+    <a href="#archive" id="nav-archive">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="M3 5h18v4H3z"/><path d="M5 9v10h14V9"/><path d="M10 13h4"/></svg>
+      Archive
+    </a>
+  </nav>
+</div>
+
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var index = null, current = null;
+
+  function el(tag, cls, text) {
+    var n = document.createElement(tag);
+    if (cls) n.className = cls;
+    if (text != null && text !== '') n.textContent = text;
+    return n;
+  }
+  function clear(n) { while (n.firstChild) n.removeChild(n.firstChild); }
+  function getJSON(url, fresh) {
+    return fetch(url + (fresh ? (url.indexOf('?') < 0 ? '?' : '&') + 't=' + Date.now() : ''), { cache: fresh ? 'no-store' : 'default' })
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); });
+  }
+
+  function render(d) {
+    current = d;
+    $('ear').textContent = 'Vol. I · No. ' + (d.issue || 1);
+    $('dl-date').textContent = d.date || '';
+    $('dl-edition').textContent = d.edition || '';
+    document.title = 'The Morning Tape · ' + (d.date || '');
+
+    var tape = $('tape'); clear(tape);
+    (d.ticker || []).forEach(function (t) {
+      var li = el('li');
+      li.appendChild(el('span', 'nm', t.name));
+      if (t.value) li.appendChild(el('span', null, t.value));
+      if (t.change) li.appendChild(el('span', t.dir || '', (t.dir === 'up' ? '▲ ' : t.dir === 'down' ? '▼ ' : '') + t.change));
+      tape.appendChild(li);
+    });
+    if (d.tickerNote) { var n = el('li'); n.appendChild(el('span', 'nm', d.tickerNote)); tape.appendChild(n); }
+
+    var lead = $('lead'), L = d.lead || {}; clear(lead);
+    lead.appendChild(el('div', 'kicker', L.kicker));
+    lead.appendChild(el('h2', null, L.headline));
+    if (L.deck) lead.appendChild(el('p', 'deck', L.deck));
+    var body = el('div', 'body');
+    (L.body || []).forEach(function (p) { body.appendChild(el('p', null, p)); });
+    lead.appendChild(body);
+
+    var top = $('top'); clear(top);
+    (d.top || []).forEach(function (t) { top.appendChild(el('li', null, t)); });
+
+    var desks = $('desks'); clear(desks);
+    (d.sections || []).forEach(function (s) {
+      var desk = el('section', 'desk');
+      desk.appendChild(el('h3', null, s.title));
+      if (!s.items || !s.items.length) desk.appendChild(el('p', 'empty', 'Nothing significant in the last 24 hours.'));
+      (s.items || []).forEach(function (it) {
+        var a = el('article', 'story');
+        if (it.fig) a.appendChild(el('span', 'fig', it.fig));
+        a.appendChild(el('h4', null, it.headline));
+        a.appendChild(el('p', null, it.body));
+        desk.appendChild(a);
+      });
+      desks.appendChild(desk);
+    });
+
+    var src = $('sources'); clear(src);
+    (d.sources || []).forEach(function (s) {
+      var li = el('li'), a = el('a', null, s.title);
+      a.href = s.url; a.target = '_blank'; a.rel = 'noopener';
+      li.appendChild(a); src.appendChild(li);
+    });
+
+    $('loading').hidden = true;
+    $('paper').hidden = false;
+  }
+
+  function renderArchive() {
+    var list = $('issues'); clear(list);
+    var eds = (index && index.editions) || [];
+    $('archive-count').textContent = eds.length + (eds.length === 1 ? ' issue' : ' issues');
+    eds.forEach(function (e) {
+      var li = el('li', 'issue'), a = el('a');
+      a.href = '#' + e.id;
+      a.appendChild(el('span', 'no', 'No. ' + e.issue));
+      var t = el('span');
+      t.appendChild(el('span', 'dt', e.date + (e.edition ? ' · ' + e.edition : '')));
+      t.appendChild(el('span', 'hl', e.headline));
+      a.appendChild(t); li.appendChild(a); list.appendChild(li);
+    });
+  }
+
+  function showEdition(id, fresh) {
+    if (!id) return Promise.resolve();
+    if (current && current.id === id && !fresh) { route(true); return Promise.resolve(); }
+    return getJSON('editions/' + id + '.json', fresh).then(render).catch(function () {
+      if (!current) { $('loading').textContent = 'This edition is not available offline yet.'; }
+    });
+  }
+
+  function loadIndex(fresh) {
+    return getJSON('editions/index.json', fresh).then(function (j) { index = j; renderArchive(); return j; });
+  }
+
+  function route(skipLoad) {
+    var h = location.hash.replace('#', '');
+    var isArchive = h === 'archive';
+    $('today').hidden = isArchive;
+    $('archive').hidden = !isArchive;
+    $('nav-today').setAttribute('aria-current', isArchive ? 'false' : 'page');
+    $('nav-archive').setAttribute('aria-current', isArchive ? 'page' : 'false');
+    if (isArchive || skipLoad) { window.scrollTo(0, 0); return; }
+    var id = /^\d{4}-\d{2}-\d{2}$/.test(h) ? h : (index && index.editions[0] && index.editions[0].id);
+    showEdition(id).then(function () { window.scrollTo(0, 0); });
+  }
+
+  function refresh() {
+    var b = $('refresh'); b.classList.add('spin'); $('refresh-label').textContent = 'Checking';
+    var before = index && index.editions[0] && index.editions[0].id;
+    return loadIndex(true).then(function (j) {
+      var latest = j.editions[0] && j.editions[0].id;
+      var h = location.hash.replace('#', '');
+      if (!h || h === latest || latest !== before) {
+        if (h && h !== 'archive' && latest !== before) location.hash = '';
+        return showEdition(latest, true);
+      }
+    }).catch(function () {}).then(function () {
+      b.classList.remove('spin'); $('refresh-label').textContent = 'Refresh';
+    });
+  }
+
+  window.addEventListener('hashchange', function () { route(false); });
+  $('refresh').addEventListener('click', refresh);
+
+  function setOffline() { $('offline').hidden = navigator.onLine; }
+  window.addEventListener('online', function () { setOffline(); refresh(); });
+  window.addEventListener('offline', setOffline);
+  setOffline();
+
+  // Fetch a fresh edition whenever the app comes back to the foreground.
+  document.addEventListener('visibilitychange', function () { if (document.visibilityState === 'visible') refresh(); });
+
+  // Install hint for iPhone Safari (not shown once installed).
+  try {
+    var ios = /iphone|ipad|ipod/i.test(navigator.userAgent);
+    var standalone = window.navigator.standalone || window.matchMedia('(display-mode: standalone)').matches;
+    var dismissed = false;
+    try { dismissed = localStorage.getItem('mt-install-dismissed') === '1'; } catch (e) {}
+    if (ios && !standalone && !dismissed) $('install').hidden = false;
+    $('install-close').addEventListener('click', function () {
+      $('install').hidden = true;
+      try { localStorage.setItem('mt-install-dismissed', '1'); } catch (e) {}
+    });
+  } catch (e) {}
+
+  loadIndex(true).catch(function () { return loadIndex(false); })
+    .then(function () { route(false); })
+    .catch(function () { $('loading').textContent = 'Could not load the paper. Check your connection and tap Refresh.'; });
+
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function () { navigator.serviceWorker.register('sw.js').catch(function () {}); });
+  }
+})();
+</script>
+</body>
+</html>

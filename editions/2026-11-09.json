@@ -1,0 +1,234 @@
+{
+  "issue": 1,
+  "date": "Monday, 9 November 2026",
+  "edition": "Week-in-Review Edition",
+  "ticker": [
+    {
+      "name": "S&P 500",
+      "value": "7,376.86",
+      "change": "+0.3%",
+      "dir": "up"
+    },
+    {
+      "name": "Dow",
+      "value": "51,285.73",
+      "change": "−0.5%",
+      "dir": "down"
+    },
+    {
+      "name": "Nasdaq",
+      "value": "24,579.42",
+      "change": "+1.1%",
+      "dir": "up"
+    },
+    {
+      "name": "Russell 2000",
+      "value": "2,754.11",
+      "change": "+0.9%",
+      "dir": "up"
+    },
+    {
+      "name": "Nifty 50",
+      "value": "≈24,986",
+      "change": "−44 pts",
+      "dir": "down"
+    },
+    {
+      "name": "Sensex",
+      "value": "",
+      "change": "−29 pts",
+      "dir": "down"
+    },
+    {
+      "name": "USD/INR",
+      "value": "≈93.9",
+      "change": "",
+      "dir": ""
+    }
+  ],
+  "tickerNote": "US closes Fri 6 Nov · India: Muhurat session, Sun 8 Nov",
+  "lead": {
+    "kicker": "Markets · Wall Street",
+    "headline": "AI Rout Rattles Wall Street as Strong Jobs Data Steadies the Week's Close",
+    "deck": "Chip stocks suffered their sharpest fall since 2020 before a Friday rebound; the Nasdaq still ended the week down 3.4%.",
+    "body": [
+      "A sudden loss of faith in the artificial-intelligence trade dominated the week. On Thursday the semiconductor index fell as much as 11% intraday, its steepest drop since March 2020, and the Nasdaq Composite slid into correction territory. Midterm wins by Democratic candidates critical of AI added to doubts about how long the boom can run.",
+      "Friday brought partial relief. The S&P 500 rose 0.3% to 7,376.86 and the Nasdaq gained 1.1%, while the Dow slipped 0.5%. For the week, the S&P 500 lost 2.7% and the Nasdaq 3.4%.",
+      "The economy gave buyers a reason to return: employers added 165,000 jobs in October, far above the roughly 59,000 forecast, and unemployment held at 4.1%. A stronger labour market eases recession fears but may complicate the case for further rate cuts.",
+      "Hedge funds felt the turn sharply. Managers sold about $20 billion of tech stocks over two weeks, unwinding nearly all the net AI buying they had done since early 2025, according to Goldman Sachs data."
+    ]
+  },
+  "top": [
+    "US stocks closed a bruising week lower despite Friday's bounce: S&P 500 −2.7%, Nasdaq −3.4%.",
+    "Fox completed its $22 billion takeover of Roku, months ahead of the original schedule.",
+    "SEBI cleared Razorpay's IPO, which would value the payments company near ₹47,000 crore.",
+    "Jewellery brand GIVA raised $103 million, leading a $255 million week for Indian startups.",
+    "Walleye Capital is restructuring its stock-picking unit after its worst month since 2020."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "Jobs +165K · Unemployment 4.1%",
+          "headline": "US Payrolls Beat Forecasts",
+          "body": "October hiring came in well above the 59,000 economists expected, steadying markets after Thursday's slide."
+        },
+        {
+          "fig": "Nifty ≈24,986 · Smallcap +1.3%",
+          "headline": "Quiet Muhurat Session in Mumbai",
+          "body": "Benchmarks finished the Diwali special session slightly lower while mid- and small-caps rose. Power and metals drew buyers; IT and state-run banks were sold."
+        },
+        {
+          "fig": "",
+          "headline": "Asian Tech Hubs Hit Hard",
+          "body": "Japanese and South Korean shares fell sharply alongside Thursday's US chip selloff."
+        },
+        {
+          "fig": "₹ ≈93.9 / $",
+          "headline": "Rupee Remains Weak",
+          "body": "The rupee traded around 93.9 to the dollar during the weekend session."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "SOX −11% intraday Thu",
+          "headline": "Chipmakers Lead the AI Unwind",
+          "body": "Semiconductor names took the heaviest losses as funds cut crowded AI positions."
+        },
+        {
+          "fig": "Net profit +18.2% YoY",
+          "headline": "Tata Steel Posts Strong Quarter",
+          "body": "Q2 FY27 consolidated profit rose to ₹3,666 crore on 11.5% revenue growth; the stock was among Sunday's top gainers."
+        },
+        {
+          "fig": "Revenue −54.9% YoY",
+          "headline": "Data Patterns Sales Slump",
+          "body": "The defence electronics maker's quarterly revenue more than halved, though margins improved."
+        },
+        {
+          "fig": "",
+          "headline": "Winners and Laggards on Dalal Street",
+          "body": "Sun Pharma and Maruti Suzuki gained; Trent, Infosys and Bharti Airtel were the main drags. Adani Ports and Eternal touched 52-week highs."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "$22 billion · Closed 6 Nov",
+          "headline": "Fox Completes Roku Takeover",
+          "body": "The deal, first expected to close in 2027, gives Fox direct reach into more than 100 million streaming households and makes it the third-largest US TV business by viewership."
+        },
+        {
+          "fig": "> $600 million",
+          "headline": "Influence Media Buys Anthem Catalogs",
+          "body": "The music investor completed its purchase of Anthem Entertainment's song catalogs."
+        },
+        {
+          "fig": "₹50 crore secondary",
+          "headline": "Blue Ashva Exits iD Fresh Food",
+          "body": "The fund sold its entire stake in the packaged-food brand to three new investors."
+        },
+        {
+          "fig": "Talks at ≈₹500 crore valuation",
+          "headline": "Nuuk Seeks ₹100 Crore",
+          "body": "The D2C home-appliance brand is reportedly raising from Wipro Consumer Care Ventures and RPSG Capital Ventures."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "Oct −5.9%",
+          "headline": "Walleye Overhauls Equity Unit",
+          "body": "The $17 billion firm is parting with leadership and much of its long-short stock team, shifting stock picking to outside managers."
+        },
+        {
+          "fig": "",
+          "headline": "Engineers Gate Trims a Team",
+          "body": "The quant firm is reportedly letting go most of its 'synthesis' stock group."
+        },
+        {
+          "fig": "Eureka −5.4% · Millennium −2.3%",
+          "headline": "Big Names Lose Ground in October",
+          "body": "Marshall Wace, Millennium, ExodusPoint and North Rock all finished the month in the red."
+        },
+        {
+          "fig": "Losses ≈32%",
+          "headline": "Arini Sells Positions",
+          "body": "The credit-focused fund's losses deepened and it sold some holdings, Bloomberg reported."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "₹5,000–6,000 crore issue",
+          "headline": "Razorpay Gets IPO Nod",
+          "body": "SEBI approved the listing, expected between January and March 2027."
+        },
+        {
+          "fig": "≈997 million shares OFS",
+          "headline": "Coca-Cola's Indian Bottler Files for IPO",
+          "body": "Hindustan Coca-Cola Holdings submitted draft papers for an offer-for-sale."
+        },
+        {
+          "fig": "$103 million",
+          "headline": "GIVA Raises a Large Round",
+          "body": "Multiples Alternate Asset Management led the investment in the silver and demi-fine jewellery brand, the week's biggest Indian deal."
+        },
+        {
+          "fig": "$255M across 20 deals",
+          "headline": "Indian Startup Funding Nearly Doubles",
+          "body": "Funding rose 96% week on week; EloElo Group added an $80 million Series C backed by NBCUniversal."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "How major US stock indexes fared Friday 11/6/2026 (AP via La Nación)",
+      "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-1162026-nid06112026/"
+    },
+    {
+      "title": "Stock Market Today (Nov. 6, 2026) — Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-6-144816072.html"
+    },
+    {
+      "title": "Sensex ends flat on Muhurat trading session — Equitymaster",
+      "url": "https://www.equitymaster.com/indian-share-markets/11/8/2026/Sensex-Today-Ends-Flat-on-Muhurat-Trading-Session--Nifty-Ends-Below-25000--Bharti-Airtel--Infosys-Top-Losers"
+    },
+    {
+      "title": "Fox completes its $22B acquisition of Roku — TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/"
+    },
+    {
+      "title": "Influence Media Partners completes Anthem catalogs deal — MBW",
+      "url": "https://www.musicbusinessworldwide.com/influence-media-partners-completes-acquisition-of-anthem-entertainments-catalogs-in-deal-valued-at-over-600m/"
+    },
+    {
+      "title": "AI free-fall triggers another major hedge fund shakeout — Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-free-fall-triggers-another-202650432.html"
+    },
+    {
+      "title": "Major hedge funds mostly lose in October — Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/major-hedge-funds-mostly-lose-in-nowhere-to-hide-october"
+    },
+    {
+      "title": "Arini's hedge fund losses grow to 32% — Bloomberg",
+      "url": "https://bloomberg.com/news/articles/2026-11-06/arini-s-hedge-fund-losses-grow-to-32-as-it-sells-some-positions"
+    },
+    {
+      "title": "Indian startups raised $255 Mn this week — Inc42",
+      "url": "https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week"
+    }
+  ],
+  "id": "2026-11-09"
+}
