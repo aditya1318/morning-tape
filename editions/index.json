@@ -1,6 +1,13 @@
 {
   "editions": [
     {
+      "id": "2026-11-11",
+      "issue": 2,
+      "date": "Wednesday, 11 November 2026",
+      "edition": "Morning Edition",
+      "headline": "Hot Inflation Print Halts Wall Street's Rebound and Revives Fed Rate-Hike Talk"
+    },
+    {
       "id": "2026-11-09",
       "issue": 1,
       "date": "Monday, 9 November 2026",

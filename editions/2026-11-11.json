@@ -1,0 +1,307 @@
+{
+  "id": "2026-11-11",
+  "issue": 2,
+  "date": "Wednesday, 11 November 2026",
+  "edition": "Morning Edition",
+  "ticker": [
+    {
+      "name": "S&P 500",
+      "value": "7,520.93",
+      "change": "−0.38%",
+      "dir": "down"
+    },
+    {
+      "name": "Dow",
+      "value": "52,231.89",
+      "change": "−0.3%",
+      "dir": "down"
+    },
+    {
+      "name": "Nasdaq",
+      "value": "25,065.87",
+      "change": "−0.74%",
+      "dir": "down"
+    },
+    {
+      "name": "Stoxx 600",
+      "value": "658.32",
+      "change": "+0.27%",
+      "dir": "up"
+    },
+    {
+      "name": "Nifty 50",
+      "value": "≈25,044",
+      "change": "+58 pts",
+      "dir": "up"
+    },
+    {
+      "name": "Sensex",
+      "value": "≈81,106",
+      "change": "+107 pts",
+      "dir": "up"
+    },
+    {
+      "name": "USD/INR",
+      "value": "93.93",
+      "change": "",
+      "dir": ""
+    },
+    {
+      "name": "Gold",
+      "value": "≈$4,031",
+      "change": "≈−2.7%",
+      "dir": "down"
+    }
+  ],
+  "tickerNote": "US & Europe close Tue 10 Nov · India: Mon 9 Nov (markets shut Tue for Diwali Balipratipada)",
+  "lead": {
+    "kicker": "Markets · Inflation",
+    "headline": "Hot Inflation Print Halts Wall Street's Rebound and Revives Fed Rate-Hike Talk",
+    "deck": "October consumer prices ran ahead of forecasts, sending short-term Treasury yields up the most since April 2025 and pulling stocks lower a day after their best session in seven months.",
+    "body": [
+      "US consumer prices rose 0.4% in October, a tenth of a point above economists' forecasts, and core prices excluding food and energy rose 0.3% against an expected 0.2%. The surprise pushed traders to raise their bets that the Federal Reserve will hike rates in December rather than hold.",
+      "Bond markets moved first. The two-year Treasury yield jumped about 17 basis points to roughly 4.73%, its biggest one-day rise since April 2025, and the 10-year yield closed near 4.98%. Gold fell about 2.7% to around $4,031 an ounce, and gold-mining shares dropped more than 5%.",
+      "Stocks gave back part of Monday's surge, when the S&P 500 rose 2.35% and the Dow gained more than 1,100 points as oil prices fell. On Tuesday the S&P 500 slipped 0.38% to 7,520.93, the Dow lost 0.3% to 52,231.89 and the Nasdaq fell 0.74% to 25,065.87. Technology was the weakest sector, and homebuilders fell on worries about mortgage rates.",
+      "Nvidia weighed heavily for a second day, falling about 5.5% as its board investigates chief executive Jensen Huang's relationship with an alleged Chinese spy. Europe largely shrugged off the data as cheaper oil supported shares, while Indian markets were closed for a holiday and reopen today."
+    ]
+  },
+  "top": [
+    "Hotter-than-expected US inflation sent yields sharply higher and stocks lower; traders now lean toward a December Fed hike.",
+    "Nvidia fell about 5.5% for a second straight loss as its board investigates CEO Jensen Huang.",
+    "Anthropic revised its IPO plans to a public offering of up to $64.4 billion plus a $26 billion private placement with tech partners.",
+    "Germany will reportedly pay €6.6 billion for a 50% stake in tank maker KNDS.",
+    "SEBI cleared MakeMyTrip's India listing as Indian markets prepare to reopen after Diwali."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "CPI +0.4% m/m · Core +0.3%",
+          "headline": "October Inflation Overshoots",
+          "body": "Both headline and core US consumer prices beat forecasts by a tenth of a point, reviving expectations of a December Fed rate hike."
+        },
+        {
+          "fig": "2-yr ≈4.73% (+17 bp) · 10-yr ≈4.98%",
+          "headline": "Treasury Yields Jump Across the Curve",
+          "body": "The two-year yield posted its largest daily gain since April 2025 as traders repriced the Fed outlook."
+        },
+        {
+          "fig": "Stoxx 600 +0.27% · DAX +0.31% · FTSE −0.29%",
+          "headline": "Europe Edges Higher on Cheaper Oil",
+          "body": "Lower crude prices and easing US–Iran tensions kept the Stoxx 600 within two points of its record close; London lagged as energy shares fell."
+        },
+        {
+          "fig": "Kospi ≈+4.4% · Nikkei ≈+2.9%",
+          "headline": "Asia Rebounded Ahead of the Data",
+          "body": "Seoul and Tokyo rallied on Tuesday after Wall Street's strong Monday, recovering part of last week's AI-driven losses. India's markets were closed for Diwali Balipratipada, and the rupee last closed at 93.93 to the dollar on Monday."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "NVDA −5.5% to $168.80",
+          "headline": "Nvidia Slides for a Second Day",
+          "body": "An independent board committee is examining CEO Jensen Huang's relationship with an alleged Chinese spy; the company says it has no reason to believe secrets were compromised. Shares are about 31% below their October peak, with earnings due 17 November."
+        },
+        {
+          "fig": "Lennar ≈−5.4%",
+          "headline": "Homebuilders Hit by Rising Yields",
+          "body": "Lennar led housing stocks lower as the jump in Treasury yields raised fears of higher mortgage rates."
+        },
+        {
+          "fig": "GDX −5.3%",
+          "headline": "Gold Miners Tumble With Bullion",
+          "body": "Mining shares fell more than 5% as gold dropped sharply after the inflation report."
+        },
+        {
+          "fig": "SBI +2.6% · Tata Steel −2.8%",
+          "headline": "PSU Banks Lead Dalal Street's Monday Gain",
+          "body": "In India's last session, state lenders drove the Nifty PSU Bank index up about 3.7% and the Nifty to its highest close since late February, while metals and IT lagged."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "€6.6bn · 50% stake",
+          "headline": "Berlin to Buy Into Tank Maker KNDS",
+          "body": "Germany will reportedly pay €6.6 billion for half of the Franco-German defence group from its founding families, with a signing expected this month."
+        },
+        {
+          "fig": "69.3% control",
+          "headline": "EP Group Takes Control of Fnac Darty",
+          "body": "Daniel Křetínský's EP Group now holds 69.3% of the French electronics retailer, and its offer will reopen from 12 to 25 November."
+        },
+        {
+          "fig": "Remaining 60%",
+          "headline": "Samsung Fire Moves to Own Canopius Outright",
+          "body": "South Korea's Samsung Fire & Marine agreed to buy the rest of the specialty insurer from funds managed by KKR and Korea Investment Corporation."
+        },
+        {
+          "fig": "Up to $1.15bn · EV $2.31bn",
+          "headline": "Argenx and Huaxin Strike Deals",
+          "body": "Argenx agreed to buy peptide-drug specialist Unnatural Products for up to $1.15 billion, and China's Huaxin agreed to buy Brazilian CSN's cement unit at a $2.31 billion enterprise value."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "Long/short funds −3%+ in Oct",
+          "headline": "Stock Pickers Nurse a Historic Rout",
+          "body": "Goldman Sachs data showed fundamental and systematic long/short funds both lost more than 3% in October, a first in its records, and the pain carried into November. Walleye, Engineers Gate and Brevan Howard have cut staff."
+        },
+        {
+          "fig": "Citadel +1.7% Oct · 15.3% YTD",
+          "headline": "Citadel Bucks the Trend",
+          "body": "Citadel's flagship Wellington fund was one of the few big multistrategy funds to finish October in positive territory."
+        },
+        {
+          "fig": "Millennium −2.3% Oct",
+          "headline": "Millennium Pulls $1.5bn From Two Managers",
+          "body": "After a losing October, Millennium withdrew external capital from Axebrook and Troluce Capital following losses at both firms."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "Up to $64.4bn + $26bn placement",
+          "headline": "Anthropic Resets Its Mega-IPO",
+          "body": "After withdrawing a prospectus with a pricing error, the AI company filed revised terms that pair the public offering with a $26 billion private placement from Google, Nvidia, Microsoft and other tech partners."
+        },
+        {
+          "fig": "NYSE: ABGC (proposed)",
+          "headline": "Barrick Files to List North American Arm",
+          "body": "Barrick Mining filed for a New York IPO of about 10% of American Barrick Gold, which will hold its Nevada mines and Pueblo Viejo."
+        },
+        {
+          "fig": "",
+          "headline": "SEBI Clears MakeMyTrip's India Listing",
+          "body": "The regulator approved the travel company's proposed India IPO, structured as an offer for sale by its Nasdaq-listed parent."
+        },
+        {
+          "fig": "Loss ₹1,978 Cr · Revenue ₹1,016 Cr",
+          "headline": "ShareChat's Losses Widen Despite Growth",
+          "body": "Parent Mohalla Tech's FY26 net loss rose about 79% even as operating revenue grew around 40%. Separately, Indian startups raised about $290 million in the 2–7 November week, led by jewellery D2C brand GIVA."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "How major US stock indexes fared Tuesday 11/10/2026 — The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/11/10/wall-street-stocks-dow-nasdaq/a8f8d958-dd4c-11f1-912c-4fbb80d73f7f_story.html"
+    },
+    {
+      "title": "How major US stock indexes fared Monday 11/9/2026 — The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/11/09/wall-street-stocks-dow-nasdaq/d2094ae0-dc83-11f1-912c-4fbb80d73f7f_story.html"
+    },
+    {
+      "title": "Stock Market Today, Nov. 10 — The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/10/stock-market-today-nov-10-wall-street-s-rally-hits-a-roadblock-as-hot-inflation-raises-the-stakes-for-the-fed/"
+    },
+    {
+      "title": "Hot CPI Pushes 10-Year Yield to 5%, Nvidia Sinks — Benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63117496/stock-market-today-hot-cpi-treasury-yields-5-percent-nvidia-slides"
+    },
+    {
+      "title": "US Treasury yields surge as hot CPI revives Fed tightening bets — Investing.com",
+      "url": "https://www.investing.com/news/economy-news/us-treasury-yields-surge-as-hot-cpi-revives-fed-tightening-bets-93CH-5016707"
+    },
+    {
+      "title": "Gold, silver plunge as hotter U.S. inflation raises prospect of Fed rate hike — Kitco",
+      "url": "https://www.kitco.com/news/article/2026-11-10/gold-silver-plunge-hotter-us-inflation-raises-prospect-larger-fed-rate-hike"
+    },
+    {
+      "title": "European stocks close higher except UK — Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/economy/european-stocks-close-higher-except-uk-as-falling-oil-prices-ease-inflation-concerns/4119442"
+    },
+    {
+      "title": "Asian Markets Today: Kospi surges, Nikkei gains — TradingView",
+      "url": "https://www.tradingview.com/news/moodys:afb0bb803897c:0-asian-markets-today-kospi-surges-5-nikkei-gains-3-after-wall-street-s-best-day-in-7-months-what-s-fuelling-rally/"
+    },
+    {
+      "title": "Stock market holiday: Are BSE, NSE closed on November 10? — Business Today",
+      "url": "https://www.businesstoday.in/markets/stocks/story/stock-market-holiday-are-bse-nse-closed-on-november-10-check-remaining-holidays-in-2026-566529-2026-11-10"
+    },
+    {
+      "title": "Closing Bell, 9 November 2026 — Kotak Neo",
+      "url": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-make-maginal-gains/"
+    },
+    {
+      "title": "Top Gainers and Losers on November 9, 2026 — Angel One",
+      "url": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-november-9-2026-sbi-and-trent-gain-while-tata-steel-drops-over-2"
+    },
+    {
+      "title": "USD/INR closes at 93.93 — EBC",
+      "url": "https://www.ebc.com/forex/usd-inr-rupee-six-month-high-dollar-buying"
+    },
+    {
+      "title": "Nvidia sells off for second day — CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
+    },
+    {
+      "title": "Nvidia board investigates Jensen Huang's ties to alleged Chinese spy — Fox Business",
+      "url": "https://www.foxbusiness.com/markets/nvidia-shares-fall-after-investigation-ceos-relationship-alleged-chinese-spy"
+    },
+    {
+      "title": "Germany to pay €6.6 billion for 50% stake in KNDS — Global Banking & Finance",
+      "url": "https://www.globalbankingandfinance.com/germany-pay-6-6-billion-50-stake-leopard-tank-maker-knds/"
+    },
+    {
+      "title": "EP Group becomes controlling shareholder of Fnac Darty — GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/11/10/3400061/0/en/fnac-darty-ep-group-becomes-the-controlling-shareholder-of-fnac-darty-with-69-3-of-its-share-capital.html"
+    },
+    {
+      "title": "Dealmakers Stayed Busy From Defense To Fast Food — Finimize",
+      "url": "https://finimize.com/content/dealmakers-stayed-busy-from-defense-to-fast-food"
+    },
+    {
+      "title": "Argenx to buy peptide platform — BioPharma Dive",
+      "url": "https://www.biopharmadive.com/news/argenx-unnatural-products-acquisition-deal-peptides-protein-macrocyclic-immune/874119/"
+    },
+    {
+      "title": "Brazil's CSN agrees to sell cement unit to Huaxin — China Global South",
+      "url": "https://chinaglobalsouth.com/2026/11/09/china-huaxin-brazil-csn-cement-acquisition/"
+    },
+    {
+      "title": "Opalesque Roundup: Hedge funds dump AI stocks, cut teams — Opalesque",
+      "url": "https://www.opalesque.com/717040/Opalesque_Roundup_Hedge_funds_dump_AI_stocks_cut704.html"
+    },
+    {
+      "title": "Citadel bucks the trend with October gain — Hedgeweek",
+      "url": "https://hedgeweek.com/news/citadel-bucks-the-trend-with-october-gain"
+    },
+    {
+      "title": "Anthropic IPO targets $90.4 billion raise — Forbes",
+      "url": "https://www.forbes.com/sites/gabrielalinzainescu/2026/11/10/anthropic-ipo-targets-13-trillion-valuation-904-billion-raise/"
+    },
+    {
+      "title": "Anthropic's IPO plan reportedly sent to banks before retraction — Benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63081237/anthropics-69-3-billion-ipo-plan-reportedly-sent-to-banks-before-retraction-company-unveils-new-versions-of-claude-fable-and-mythos"
+    },
+    {
+      "title": "Barrick files paperwork for IPO of its North America business — The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-barrick-mining-sec-ipo-north-american-business/"
+    },
+    {
+      "title": "SEBI Clears MakeMyTrip's India IPO — Inc42",
+      "url": "https://inc42.com/buzz/sebi-clears-makemytrips-india-ipo"
+    },
+    {
+      "title": "ShareChat parent Mohalla Tech's FY26 loss widens — Inc42",
+      "url": "https://inc42.com/buzz/sharechat-parent-mohalla-techs-fy26-loss-widens-79-to-%E2%82%B91978-cr-revenue-inches-past-%E2%82%B91000-cr-mark"
+    },
+    {
+      "title": "Indian startups raised over $290 million from November 2 to 7 — Indian Startup News",
+      "url": "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+    }
+  ]
+}
