@@ -1,0 +1,183 @@
+{
+  "id": "2026-11-12",
+  "issue": 3,
+  "date": "Thursday, 12 November 2026",
+  "edition": "Morning Edition",
+  "ticker": [
+    {"name": "S&P 500", "value": "7,619.38", "change": "+1.31%", "dir": "up"},
+    {"name": "Dow", "value": "52,486.49", "change": "+0.49%", "dir": "up"},
+    {"name": "Nasdaq", "value": "25,466.19", "change": "+1.60%", "dir": "up"},
+    {"name": "Stoxx 600", "value": "663.05", "change": "+0.72%", "dir": "up"},
+    {"name": "Nifty 50", "value": "25,255.05", "change": "+0.84%", "dir": "up"},
+    {"name": "Sensex", "value": "81,879.40", "change": "+0.95%", "dir": "up"},
+    {"name": "USD/INR", "value": "93.70", "change": "−7 paise", "dir": "down"},
+    {"name": "Brent", "value": "$92.76", "change": "+1.4%", "dir": "up"}
+  ],
+  "tickerNote": "Closing figures for Wed 11 Nov · USD/INR provisional close · US bond market shut for Veterans Day",
+  "lead": {
+    "kicker": "Markets · Artificial Intelligence",
+    "headline": "CoreWeave's Blowout Quarter Revives the AI Trade as Nasdaq Jumps 1.6%",
+    "deck": "A 25% surge in the AI cloud provider's shares pulled chipmakers and the wider market back from Tuesday's inflation scare, lifting Europe's Stoxx 600 to a record close.",
+    "body": [
+      "CoreWeave reported quarterly revenue of nearly $3.7 billion and a loss of $709 million, both better than analysts expected, and raised its full-year revenue forecast to $13.3 billion. Its chief executive called it a breakout quarter, and the company said it expects to turn a profit on an adjusted basis in the first half of 2028. The shares rose about 25%.",
+      "The results eased worries that spending on AI infrastructure was running ahead of demand, and chip stocks led the rebound. Micron gained about 12%, SanDisk 14%, Marvell 9% and Intel 7.5%, while the iShares Semiconductor ETF added 6%. Nvidia rose about 3% after losing 10% over the previous two sessions, as its board continues to review CEO Jensen Huang's conduct ahead of results on 17 November.",
+      "The S&P 500 climbed 98.45 points, or 1.31%, to 7,619.38, the Nasdaq Composite rose 400.31 points to 25,466.19 and the Dow added 254.60 points to 52,486.49. Apple gained 2% to a record close. The rally was narrow, however: Microsoft, Meta and Amazon all fell, and consumer cyclical stocks lagged.",
+      "The bond market was closed for Veterans Day, leaving Tuesday's inflation-driven jump in yields unresolved, with the 10-year Treasury yield near 5% and a December Fed rate rise still priced as close to certain. Gold slipped about 1% to roughly $3,990 an ounce. In Europe, tech shares rose 2.5% and Siemens Energy jumped nearly 11%, while Indian stocks rallied as markets reopened after Diwali."
+    ]
+  },
+  "top": [
+    "CoreWeave shares surged about 25% on record results and a higher forecast, lifting the Nasdaq 1.6% and the S&P 500 1.3%.",
+    "Europe's Stoxx 600 closed at a record 663.05 as Siemens Energy jumped nearly 11% on a higher margin outlook and a much bigger dividend.",
+    "Sensex rose 773 points and the Nifty closed above 25,250 as PSU banks led India's post-Diwali rally; the rupee firmed to 93.70.",
+    "Morgan Stanley data showed equity hedge funds cut risk at the fastest pace in about a decade in early November.",
+    "easyJet shareholders approved Apollo's £5.7 billion takeover, and Polymarket confirmed job cuts as it eyes a possible 2027 listing."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "S&P +1.31% · Nasdaq +1.60% · Dow +0.49%",
+          "headline": "Tech Leads Wall Street Back Into the Green",
+          "body": "AI and chip stocks drove a broad rebound after Tuesday's inflation-led sell-off, with utilities and technology the best-performing sectors. Treasury trading was closed for Veterans Day, so bonds will react to the rally today."
+        },
+        {
+          "fig": "Stoxx 600 663.05 (record) · Euro Stoxx 50 +1.04%",
+          "headline": "European Shares Hit a Record Close",
+          "body": "Semiconductor makers Soitec, Aixtron and Infineon rallied alongside Siemens Energy, and Germany's DAX gained about 1.2% to sit near its all-time high. Defence names fell, with Rheinmetall down nearly 7%."
+        },
+        {
+          "fig": "Nikkei 61,248.59 (+1.31%) · Kospi ≈+2.6%",
+          "headline": "Asia Extends Its Chip-Led Recovery",
+          "body": "Tokyo rose for a third straight session and Seoul closed near 5,375, while Hong Kong's Hang Seng fell about 1% to 24,315.92, the region's main laggard."
+        },
+        {
+          "fig": "Brent $92.76 (+1.4%) · WTI $86.53 · Gold ≈$3,990",
+          "headline": "Oil Rebounds as Iran Talks Stall",
+          "body": "Crude recovered part of its steep November slide after Iran's top security official denied holding talks with Washington and said enriched nuclear material would not leave the country. Gold eased about 1% as money moved into stocks."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "CRWV ≈+25%",
+          "headline": "CoreWeave Soars on a Raised Forecast",
+          "body": "The AI data-centre operator beat revenue and loss estimates, lifted its full-year revenue outlook to $13.3 billion and set a first-half 2028 target for adjusted profitability."
+        },
+        {
+          "fig": "MU +12% · ORCL ≈+9% · DELL +12%",
+          "headline": "Memory and Hardware Makers Ride the Wave",
+          "body": "Micron, SanDisk, Seagate and Western Digital posted double-digit or near-double-digit gains, while Oracle and Dell also rose sharply. Microsoft fell about 2.3% and Meta about 2%."
+        },
+        {
+          "fig": "Siemens Energy ≈+10.8% · CSG −21.6%",
+          "headline": "Siemens Energy Rallies, Czech Defence Group Slumps",
+          "body": "Siemens Energy raised its 2027 margin expectations and plans to more than triple its dividend. Czech ammunition maker CSG fell sharply after cutting its full-year operating margin forecast."
+        },
+        {
+          "fig": "Nifty PSU Bank +2.94% · Nifty IT −0.53%",
+          "headline": "Banks and Autos Power Dalal Street",
+          "body": "Mahindra & Mahindra, InterGlobe Aviation, Trent and Tata Steel led the Nifty, while Adani Ports, ICICI Bank and HCL Technologies lagged. The Nifty Smallcap 100 gained 1.61%."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "£5.7bn · 715p a share",
+          "headline": "easyJet Investors Back Apollo Buyout",
+          "body": "About 97% of votes cast at the court meeting supported the private-equity firm's cash offer. Regulatory approvals and High Court sanction are still needed, with completion expected by the end of March 2027."
+        },
+        {
+          "fig": "$44.8bn",
+          "headline": "UK Watchdog Turns Up Heat on McCormick–Unilever Food Deal",
+          "body": "Bloomberg reported that Britain's Competition and Markets Authority is threatening a deeper phase 2 probe of McCormick's purchase of Unilever's food business unless the companies offer remedies. The deal has already cleared US antitrust review."
+        },
+        {
+          "fig": "",
+          "headline": "Kimberly-Clark's Kenvue Deal Clears Turkey",
+          "body": "Turkey's competition authority granted conditional approval to Kimberly-Clark's acquisition of the Tylenol maker, according to MLex, another regulatory step for the consumer-health tie-up."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "Gross exposure −8% from peak",
+          "headline": "Equity Funds Make Record Retreat From Risk",
+          "body": "Morgan Stanley's prime brokerage said global equity hedge funds cut risk at the steepest pace in more than a decade through the first week of November, the largest drop in long/short gross exposure since 2016."
+        },
+        {
+          "fig": "HFR CTA/macro 4-week return: weakest since 2020",
+          "headline": "Macro and Trend Funds Suffer a Bruising Stretch",
+          "body": "Macro and trend-following strategies are enduring one of their worst runs in years even as stocks rebound, caught out by the sharp reversal in Treasuries after Tuesday's hot inflation print."
+        },
+        {
+          "fig": "80–100 large-cap stocks",
+          "headline": "Ex-Goldman and Capital Group Pair Launch AI-Run Fund",
+          "body": "Poesis, founded by former Capital Group manager Alex Popa and ex-Goldman machine-learning head Charles Elkan, will let AI agents research and trade a US equity portfolio under human risk limits. Its first strategy opens to outside investors in early 2027."
+        },
+        {
+          "fig": "$500m target",
+          "headline": "CICC Readies China-Focused Fund of Hedge Funds",
+          "body": "The Chinese investment bank could launch the vehicle as early as this month, pitching it to endowments and family offices."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "825m shares · $70–$78",
+          "headline": "Anthropic's IPO Roadshow Gets Under Way",
+          "body": "The AI company is marketing its Nasdaq listing under the ticker 'ANT', with about a fifth of the shares reported to be set aside for retail investors. Pricing is expected on 18 November."
+        },
+        {
+          "fig": "Annualised revenue >$1.8bn",
+          "headline": "Polymarket Cuts Staff Ahead of Possible Listing",
+          "body": "The prediction market confirmed company-wide layoffs, mostly of contractors, alongside leadership changes as it prepares for a potential 2027 IPO. It is reportedly finalising a $1 billion round at about a $21 billion valuation."
+        },
+        {
+          "fig": "PAT ₹1,366 Cr (+48.6%) · Rev ₹19,636 Cr",
+          "headline": "Tata Power's Profit Jumps in Q2",
+          "body": "The utility's consolidated September-quarter profit rose sharply on 26% revenue growth. Among smaller consumer names, condom maker Cupid more than doubled both profit and revenue."
+        },
+        {
+          "fig": "SIP ₹32,160 Cr in Oct",
+          "headline": "Monthly SIP Inflows Dip Slightly",
+          "body": "Systematic investment plan contributions to Indian mutual funds eased from ₹32,490 Cr in September, while JSW Steel's October crude steel output rose 19% to 25.73 lakh tonnes."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade — The Motley Fool", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-stock-market-today-nov-11-nasdaq-surges-as-coreweave-s-25-rally-reignites-the-ai-trade/"},
+    {"title": "Markets News, Nov. 11, 2026: S&P 500, Nasdaq Surge as CoreWeave Paces Big AI Rally — Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"},
+    {"title": "Stock Market Today (Nov. 11, 2026) — TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"},
+    {"title": "European shares log record close on Siemens, CoreWeave-fueled AI optimism — MarketScreener (Reuters)", "url": "https://www.marketscreener.com/news/europe-s-stoxx-600-near-record-high-as-siemens-energy-coreweave-outlooks-lift-sentiment-ce785edbda88f720"},
+    {"title": "Stock market news for Nov. 11, 2026 — CNBC", "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"},
+    {"title": "Hong Kong Stock Market Index — Trading Economics", "url": "https://tradingeconomics.com/hong-kong/stock-market"},
+    {"title": "Market Wrap, 11 November 2026 — Kotak Neo", "url": "https://www.kotakneo.com/news/market-news/markets-maintain-positive-momentum/"},
+    {"title": "Stock Market Close: Sensex ends 773 pts up, Nifty at 25,255 — Business Standard", "url": "https://www.business-standard.com/markets/news/stock-market-live-november-11-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126111100079_1.html"},
+    {"title": "Rupee rises 7 paise to close at 93.70 against US dollar — Deccan Herald (PTI)", "url": "https://www.deccanherald.com/business/markets/rupee-rises-7-paise-to-close-at-9370-against-us-dollar-4214767"},
+    {"title": "Oil Rebounds Amid Mixed Iran War Signals — Rigzone", "url": "https://www.rigzone.com/news/wire/oil_rebounds_amid_mixed_iran_war_signals-11-nov-2026-185062-article/"},
+    {"title": "Global Oil Prices Rise Amid Fading Expectations for U.S.-Iran Talks — SBS", "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008842078"},
+    {"title": "EasyJet shareholders approve £5.7bn Apollo takeover — Travel Weekly", "url": "https://travelweekly.co.uk/news/easyjet-shareholders-approve-57bn-apollo-takeover"},
+    {"title": "Unilever-McCormick Deal Facing In-Depth Review From UK Watchdog — Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-11/unilever-mccormick-deal-facing-in-depth-review-from-uk-watchdog"},
+    {"title": "$44.8B McCormick–Unilever deal clears antitrust hurdle — The Daily Record", "url": "https://thedailyrecord.com/2026/10/23/ftc-clears-antitrust-hurdle-mccormick-unilever-food-deal/"},
+    {"title": "Mergers and Acquisitions — MLex", "url": "https://www.mlex.com/mlex/mergers-acquisitions"},
+    {"title": "Hedge Fund Risk Retreat Largest in a Decade, Morgan Stanley Says — Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-11/hedge-fund-risk-retreat-largest-in-a-decade-says-morgan-stanley"},
+    {"title": "Market positioning risks mount as macro hedge funds face worst stretch in years — Investing.com", "url": "https://investing.com/news/stock-market-news/market-positioning-risks-mount-as-macro-hedge-funds-face-worst-stretch-in-years-93CH-5019567"},
+    {"title": "Goldman Sachs and Capital Group veterans launch AI-driven hedge fund — Hedgeweek", "url": "https://hedgeweek.com/news/goldman-sachs-and-capital-group-veterans-launch-ai-driven-hedge-fund"},
+    {"title": "CICC targets $500m for China-focused hedge fund investment vehicle — Hedgeweek", "url": "https://hedgeweek.com/news/cicc-targets-500m-for-china-focused-hedge-fund-investment-vehicle"},
+    {"title": "Anthropic launches roadshow for proposed initial public offering — Anthropic", "url": "https://www.anthropic.com/news/roadshow-launch"},
+    {"title": "Anthropic targets an IPO valuation of up to $1.4 trillion — Quartz", "url": "https://qz.com/anthropic-ipo-roadshow-launch-64-billion-111026"},
+    {"title": "Polymarket Cuts Jobs Amid Push to 'Professionalize' — Front Office Sports", "url": "https://frontofficesports.com/article/polymarket-cuts-jobs-amid-push-to-professionalize/"},
+    {"title": "Polymarket Cuts Staff as $1.8B Revenue Fuels IPO Push — Benzinga", "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63160298/polymarket-ipo-cuts"},
+    {"title": "Q2 Results Highlights: Tata Power profit climbs 49% YoY — Upstox", "url": "https://upstox.com/news/market-news/earnings/q2-results-live-updates-tata-power-cupid-hindustan-copper-garden-reach-shipbuilders-lalithaa-jewellery-mart-triveni-turbine-other-to-declare-earnings-on-nov-11/liveblog-203268/"}
+  ]
+}

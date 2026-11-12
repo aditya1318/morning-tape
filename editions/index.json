@@ -1,6 +1,13 @@
 {
   "editions": [
     {
+      "id": "2026-11-12",
+      "issue": 3,
+      "date": "Thursday, 12 November 2026",
+      "edition": "Morning Edition",
+      "headline": "CoreWeave's Blowout Quarter Revives the AI Trade as Nasdaq Jumps 1.6%"
+    },
+    {
       "id": "2026-11-11",
       "issue": 2,
       "date": "Wednesday, 11 November 2026",
