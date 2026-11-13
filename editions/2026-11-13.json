@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-13",
+  "issue": 4,
+  "date": "Friday, 13 November 2026",
+  "edition": "Morning Edition",
+  "ticker": [
+    {"name": "S&P 500", "value": "7,592.40", "change": "−0.35%", "dir": "down"},
+    {"name": "Dow", "value": "52,297.09", "change": "−0.36%", "dir": "down"},
+    {"name": "Nasdaq", "value": "25,366.09", "change": "−0.39%", "dir": "down"},
+    {"name": "Stoxx 600", "value": "664.01", "change": "+0.14%", "dir": "up"},
+    {"name": "Nifty 50", "value": "25,299.35", "change": "+0.18%", "dir": "up"},
+    {"name": "Sensex", "value": "81,911.01", "change": "+0.04%", "dir": "up"},
+    {"name": "USD/INR", "value": "94.04", "change": "+33 paise", "dir": "up"},
+    {"name": "Brent", "value": "$95.82", "change": "+3.3%", "dir": "up"}
+  ],
+  "tickerNote": "Closing figures for Thu 12 Nov · USD/INR provisional close (rupee weaker) · Brent settlement",
+  "lead": {
+    "kicker": "Markets · Corporate Leadership",
+    "headline": "Jensen Huang Quits Nvidia, Jolting Chip Stocks as Wall Street Slips",
+    "deck": "The co-founder's abrupt exit sent Nvidia down as much as 14% before a partial recovery, while rising oil and a 5% Treasury yield kept the broader market on the back foot.",
+    "body": [
+      "Nvidia said Jensen Huang had resigned as president, chief executive and director with immediate effect, ending more than three decades at the helm of the company he co-founded in 1993. The move followed days of reports about his personal conduct and a board review. Chief financial officer Colette Kress was named interim CEO while keeping her finance role, longtime director Harvey Jones became the company's first board chair, and a search for a permanent successor will look at internal and external candidates.",
+      "Nvidia shares fell as much as 14% in early trading and touched a 52-week low before closing down 4.34% at $166.19, on volume more than double the recent average. The stock is down about 20% so far in November. Citi cut its price target to $225 from $285. Rival chipmakers AMD and Broadcom each gained more than 5% as investors weighed alternatives, and Nvidia's results, due on 17 November, will now be presented under interim leadership.",
+      "The S&P 500 fell 26.98 points, or 0.35%, to 7,592.40, after recovering from an early drop of nearly 1%. The Dow lost 189.40 points to 52,297.09 and the Nasdaq Composite shed 100.10 points to 25,366.09, while the small-cap Russell 2000 dropped about 1.7%. The 10-year Treasury yield held near 5%, with Fed officials continuing to signal that a December rate rise is on the table.",
+      "Oil jumped after reports of attacks on Saudi energy facilities and disruption to shipping through the Strait of Hormuz, with Brent settling up 3.3% at $95.82. Gold fell nearly 3% to around $3,876 an ounce as yields and the dollar firmed. In India, the rupee weakened 33 paise to 94.04 per dollar, while the Nifty edged up for a third day."
+    ]
+  },
+  "top": [
+    "Jensen Huang resigned as Nvidia's CEO with immediate effect; CFO Colette Kress is interim chief and the stock closed 4.3% lower.",
+    "Brent crude jumped 3.3% to $95.82 after attacks on Saudi energy sites, while gold fell nearly 3%.",
+    "Hancock Whitney agreed to buy Trustmark in an all-stock deal valued at about $3.2 billion, creating a $58 billion Gulf South lender.",
+    "Europe's Stoxx 600 notched a second record close as Burberry jumped about 8% on a sharp profit recovery.",
+    "The rupee fell 33 paise to 94.04 per dollar, and Ola Electric's quarterly revenue dropped 39%."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "S&P −0.35% · Nasdaq −0.39% · Russell 2000 ≈−1.7%",
+          "headline": "Wall Street Pares Losses After Nvidia Shock",
+          "body": "Stocks recovered most of an early slide as energy shares rose with crude. Jobless claims rose to 200,000, slightly above forecasts, and existing home sales fell to their lowest annual pace since 2010."
+        },
+        {
+          "fig": "Stoxx 600 664.01 (record) · DAX ≈+0.6% · FTSE ≈+0.3%",
+          "headline": "Europe Shrugs Off Chip Sell-Off for Another Record",
+          "body": "Strong results from Burberry, Munich Re and Siemens outweighed losses in semiconductor names such as Infineon, ASML and BE Semiconductor. UK GDP grew 0.7% in the third quarter, in line with expectations."
+        },
+        {
+          "fig": "Nikkei 60,819.36 (−0.70%) · Taiex −2.63%",
+          "headline": "Asia Retreats as Nvidia Turmoil Hits Chip Hubs",
+          "body": "Taiwan's Taiex fell to 43,091.87 and Tokyo ended a three-day winning streak, with chip-linked shares under pressure as Nvidia's leadership crisis unfolded overnight."
+        },
+        {
+          "fig": "Nifty 25,299.35 (+0.18%) · Realty +4.51% · USD/INR 94.04",
+          "headline": "Dalal Street Edges Higher in a Choppy Session",
+          "body": "Financials and real estate lifted the Nifty for a third day, while autos, FMCG and IT slipped. The rupee weakened as hawkish Fed comments strengthened the dollar."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "NVDA −4.34% to $166.19 · AMD, AVGO >+5%",
+          "headline": "Nvidia Slides as Rivals Rally",
+          "body": "Investors rotated into AMD and Broadcom after Huang's exit, while Apple touched a fresh intraday record. Nvidia's market value hovered just under $4 trillion."
+        },
+        {
+          "fig": "NBIS ≈−16.5%",
+          "headline": "Nebius Sinks on Trimmed Outlook",
+          "body": "The AI cloud provider posted quarterly revenue of $980.8 million, up sharply from a year ago, but narrowed its 2026 revenue guidance to $3.0–3.2 billion, citing delays in third-party data-centre capacity, and lifted its spending plans."
+        },
+        {
+          "fig": "Burberry ≈+8% · Munich Re +3% · Nissan ≈−5%",
+          "headline": "Burberry Soars, Nissan and Naver Slump",
+          "body": "Burberry's first-half adjusted operating profit more than tripled. In Asia, Nissan fell after a 96% drop in quarterly operating profit and a lower sales forecast, and Naver lost about 6% as AI costs dented its profit."
+        },
+        {
+          "fig": "HAL ≈−4% · Ola Electric revenue −39%",
+          "headline": "HAL Falls Despite Profit Growth",
+          "body": "Hindustan Aeronautics slipped even after a 16% rise in quarterly profit, and Aurobindo Pharma extended losses after a US FDA warning on a subsidiary's plant. HDFC Life and Shriram Finance led Nifty gainers."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "≈$3.2bn all-stock · 0.7463 shares per Trustmark share",
+          "headline": "Hancock Whitney to Buy Trustmark",
+          "body": "The deal would create a regional bank with about $58 billion in assets across six southeastern US states. Hancock Whitney holders would own about 65% of the combined company, with closing expected late in the first quarter of 2027."
+        },
+        {
+          "fig": "$75m",
+          "headline": "Komatsu Buys Astec's Road Equipment Arm",
+          "body": "Astec Industries agreed to sell its road construction equipment business, including the Roadtec and Carlson brands, to Komatsu America."
+        },
+        {
+          "fig": "Terms undisclosed",
+          "headline": "PAI Pharma Adds Hospital Injectables Maker Nexus",
+          "body": "PAI Pharma acquired Nexus Pharmaceuticals to expand its range of injectable medicines for hospitals, while Sweden's ASSA ABLOY agreed to buy Brazilian aluminium products maker Rometal."
+        },
+        {
+          "fig": "$10bn",
+          "headline": "Nvidia Commits to Bigger Anthropic Stake After IPO",
+          "body": "An amended prospectus showed Nvidia has agreed to buy another $10 billion of Anthropic stock immediately after the AI company's listing, expected next week."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "4.5% stake",
+          "headline": "Citadel Becomes No. 2 Holder in Hankyu Hanshin",
+          "body": "Ken Griffin's firm disclosed the position in the Osaka-based railway and property group via its semiannual report, without stating its intentions. The shares rose as much as 3.7% in Tokyo."
+        },
+        {
+          "fig": "Apple long/short ratio 0.65",
+          "headline": "Funds Pile Into Shorts on Big Tech",
+          "body": "A crowding report covering more than 700 hedge funds found managers added short positions in Amazon, Apple, Nvidia and Meta in October, with Apple's positioning at its weakest of the year. Tesla was the only Magnificent Seven stock to see fewer short holders."
+        },
+        {
+          "fig": "",
+          "headline": "Prime Brokers Open Door to Prediction Markets",
+          "body": "Clear Street and Marex are preparing to give institutional clients access to Kalshi's event contracts, a sign of Wall Street's growing interest in prediction-market trading."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "Rev ₹421 Cr (−39%) · Loss ₹362 Cr",
+          "headline": "Ola Electric's Sales Shrink Again",
+          "body": "The EV maker's quarterly revenue fell sharply as registrations dropped 17%, though its loss narrowed 13%. Separately, the consumer regulator fined ride-hailing app Ola ₹10 lakh over an advance-tipping feature it called a dark pattern."
+        },
+        {
+          "fig": "Greenjoules ₹150 Cr · Hundo Pizza ₹7.5 Cr",
+          "headline": "Consumer and Climate Startups Raise Fresh Capital",
+          "body": "Amazon's Smbhav and Climate Pledge funds co-led Greenjoules' Series B, while Titan Capital led a first institutional round for Mumbai's bootstrapped Hundo Pizza. Jaipur menswear label QB MEN raised a pre-seed round led by BeyondSeed."
+        },
+        {
+          "fig": "₹43,000 Cr",
+          "headline": "Reliance Plans Coal Gasification Project",
+          "body": "Reliance Industries announced a coal gasification project in Andhra Pradesh, which it expects to create about 40,000 jobs."
+        },
+        {
+          "fig": "$4bn fund",
+          "headline": "Unacademy Changes CEO; Norwest Closes Record Fund",
+          "body": "Gaurav Munjal moves to executive chairman at Unacademy, with chief business officer Akhilendra Kumar taking over as CEO after its acquisition by upGrad. Venture firm Norwest closed its largest fund yet."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "Stock market news for Nov. 12, 2026 — CNBC", "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html"},
+    {"title": "Stock Market Today, November 12, 2026: Dow, S&P 500 and Nasdaq Fall After Jensen Huang Resigns — Eurasia Business News", "url": "https://eurasiabusinessnews.com/2026/11/13/stock-market-today-november-12-2026-dow-sp-500-and-nasdaq-fall-after-jensen-huang-resigns/"},
+    {"title": "Nvidia live updates: Huang saga — CNBC", "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html"},
+    {"title": "Market Wrap, 12 November 2026 — Kotak Neo", "url": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-close-higher-after-a-volatile-session/"},
+    {"title": "Closing Bell: Nifty50 rises to 25,299 — Zee Business", "url": "https://www.zeebiz.com/market-news/news-closing-bell-sensex-nifty50-nifty-bank-financial-stocks-lead-gains-auto-oil-gas-shares-under-pressure-nov-12-2026-405470"},
+    {"title": "Rupee falls 33 paise to close at 94.04 against US dollar — Deccan Herald (PTI)", "url": "https://www.deccanherald.com/business/markets/rupee-falls-33-paise-to-close-at-9404-against-us-dollar-4215907"},
+    {"title": "European stocks close higher as Burberry and Munich Re outweigh a chip selloff — MLQ", "url": "https://mlq.ai/news/european-stocks-close-higher-as-burberry-and-munich-re-outweigh-a-chip-selloff-after-nvidias-ceo-exit/"},
+    {"title": "European shares close at new high as rising yields and Nvidia slump stifle rally — Investing.com", "url": "https://ph.investing.com/news/stock-market-news/european-shares-hit-record-highs-as-defensive-appeal-offsets-nvidia-shock-2693944"},
+    {"title": "Taiwan's Taiex drops nearly 3% as Nvidia's CEO turmoil hits chipmakers — MLQ", "url": "https://mlq.ai/news/taiwans-taiex-drops-nearly-3-asian-stocks-close-lower-as-nvidias-ceo-turmoil-hits-chipmakers/"},
+    {"title": "Asian shares mostly slip as Nvidia's troubles weigh on AI stocks — Click2Houston (AP)", "url": "https://click2houston.com/business/2026/11/12/asian-shares-mostly-slip-as-nvidias-troubles-weigh-on-ai-stocks-despite-a-rally-on-wall-st"},
+    {"title": "Nebius Group earnings analysis — Investing.com", "url": "https://www.investing.com/news/stock-market-news/nebius-group-earnings-analysis-questions-answered-and-next-catalysts-93CH-5023091"},
+    {"title": "Nebius Doesn't Have a Demand Problem. It Has a Delivery Problem. — The Motley Fool", "url": "https://www.fool.com/investing/2026/11/12/nebius-doesn-t-have-a-demand-problem-it-has-a-delivery-problem/"},
+    {"title": "Hancock Whitney Form 8-K, Trustmark merger announcement — SEC", "url": "https://www.sec.gov/Archives/edgar/data/0000750577/000119312526457037/hwc-ex99_1.htm"},
+    {"title": "Merger and Acquisitions as of Nov 12th — Benzinga", "url": "https://www.benzinga.com/calendars/m-a"},
+    {"title": "PAI Pharma buys Nexus to grow hospital injectables portfolio — Dealroom", "url": "https://app.dealroom.co/news/note/pai-pharma-buys-nexus-to-grow-hospital-injectables-portfolio"},
+    {"title": "M&A News — RTTNews", "url": "https://www.rttnews.com/list/mergers.aspx"},
+    {"title": "Citadel builds 4.5% stake in Japanese railway operator Hankyu Hanshin — Hedgeweek", "url": "https://hedgeweek.com/news/citadel-builds-4-5-stake-in-japanese-railway-operator-hankyu-hanshin"},
+    {"title": "Hedge funds increase short bets against Big Tech as AI selloff drives portfolio rotation — Hedgeweek", "url": "https://hedgeweek.com/news/hedge-funds-increase-short-bets-against-big-tech-as-ai-selloff-drives-portfolio-rotation"},
+    {"title": "Hedgeweek news — Hedgeweek", "url": "https://hedgeweek.com/news"},
+    {"title": "Daily Indian Funding Roundup & Key News — 12 November 2026 — StartupTalky", "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-12-november-2026/"},
+    {"title": "Bootstrapped Mumbai pizza brand Hundo Pizza raises Rs 7.5 crore — Indian Startup News", "url": "https://indianstartupnews.com/funding/bootstrapped-mumbai-pizza-brand-hundo-pizza-raises-rs-75-crore-in-first-institutional-funding-12803797"},
+    {"title": "D2C menswear brand QB MEN raises pre-seed funding led by BeyondSeed — Entrackr", "url": "https://entrackr.com/snippets/d2c-menswear-brand-qb-men-raises-pre-seed-funding-led-by-beyondseed-12802802"}
+  ]
+}

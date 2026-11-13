@@ -1,6 +1,13 @@
 {
   "editions": [
     {
+      "id": "2026-11-13",
+      "issue": 4,
+      "date": "Friday, 13 November 2026",
+      "edition": "Morning Edition",
+      "headline": "Jensen Huang Quits Nvidia, Jolting Chip Stocks as Wall Street Slips"
+    },
+    {
       "id": "2026-11-12",
       "issue": 3,
       "date": "Thursday, 12 November 2026",
