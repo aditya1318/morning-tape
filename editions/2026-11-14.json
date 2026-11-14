@@ -1,0 +1,292 @@
+{
+  "id": "2026-11-14",
+  "issue": 5,
+  "date": "Saturday, 14 November 2026",
+  "edition": "Morning Edition",
+  "ticker": [
+    {
+      "name": "S&P 500",
+      "value": "7,561.67",
+      "change": "−0.40%",
+      "dir": "down"
+    },
+    {
+      "name": "Dow",
+      "value": "52,347.55",
+      "change": "+0.10%",
+      "dir": "up"
+    },
+    {
+      "name": "Nasdaq",
+      "value": "25,136.27",
+      "change": "−0.91%",
+      "dir": "down"
+    },
+    {
+      "name": "FTSE 100",
+      "value": "10,902.56",
+      "change": "+0.4%",
+      "dir": "up"
+    },
+    {
+      "name": "Nifty 50",
+      "value": "25,144.30",
+      "change": "−0.61%",
+      "dir": "down"
+    },
+    {
+      "name": "Sensex",
+      "value": "81,592.45",
+      "change": "−0.39%",
+      "dir": "down"
+    },
+    {
+      "name": "USD/INR",
+      "value": "94.20",
+      "change": "+8 paise",
+      "dir": "up"
+    },
+    {
+      "name": "Brent",
+      "value": "$95.84",
+      "change": "+0.02%",
+      "dir": "up"
+    }
+  ],
+  "tickerNote": "Closing figures for Fri 13 Nov · USD/INR provisional close (rupee weaker) · Brent settlement",
+  "lead": {
+    "kicker": "Markets · Semiconductors",
+    "headline": "Chip Rout Deepens on Nvidia Fallout, Taking the Shine Off Wall Street's Best Week Since August",
+    "deck": "AMD and Broadcom tumbled as the Huang resignation kept rattling AI stocks, while a 6.5% annual rise in producer prices pushed the 10-year Treasury yield above 5.1%.",
+    "body": [
+      "The sell-off in chipmakers that began with Jensen Huang's abrupt exit from Nvidia spread on Friday. Nvidia fell about 2%, leaving its market value below $4 trillion and the stock down roughly 13% for the week, its worst week since April of last year. AMD dropped 8.8% and Broadcom lost nearly 5%, reversing the previous day's rotation into Nvidia's rivals, and semiconductor ETFs slid around 3% to 3.6%. HSBC cut Nvidia to hold and slashed its price target to $170 from $365, and the Financial Times reported that Nvidia's board had approached Arm chief executive Rene Haas about the top job.",
+      "The Nasdaq Composite lost 229.82 points, or 0.91%, to 25,136.27 and the S&P 500 fell 30.73 points, or 0.40%, to 7,561.67. The Dow bucked the trend, edging up 50.46 points to 52,347.55. Even so, all three indices posted their best week since early August, with the S&P 500 up 2.5%, the Nasdaq up 2.3% and the Dow up 2.1% after recovering from the prior week's AI-driven slump.",
+      "Rate worries added to the pressure. October producer prices rose 0.3% on the month, a touch below forecasts, but the 6.5% annual gain was the biggest since November 2022. The 10-year Treasury yield climbed to about 5.15%, the dollar index hit its highest level since April 2025, and futures markets priced roughly an 87% chance of a quarter-point Fed hike in December, with the rest of the probability on a larger move.",
+      "Investors moved toward companies less tied to AI infrastructure spending: Apple touched an intraday record of $360.80, lifting its value above $5.2 trillion. Bitcoin slipped below $70,000 for the first time since August. In India, hotter retail inflation ended the Nifty's three-day winning run, and the rupee weakened 8 paise to 94.20 per dollar. Nvidia's results on 17 November, its first under interim CEO Colette Kress, are the next big test for the sector."
+    ]
+  },
+  "top": [
+    "AMD fell 8.8% and Nvidia's market value dropped below $4 trillion as the chip sell-off deepened, though the S&P 500 still rose 2.5% for the week.",
+    "US producer prices rose 6.5% from a year earlier, the fastest pace since 2022, pushing the 10-year Treasury yield to about 5.15%.",
+    "India's retail inflation jumped to 6.09% in October, above the RBI's tolerance band, and the Nifty fell 0.61%.",
+    "The FTC and a group of states sued to block Covetrus's $3.5 billion purchase of rival veterinary distributor MWI.",
+    "Activist Sachem Head is pressing Rightmove to explore a sale, sending the UK property portal's shares up 7.8%."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "S&P −0.40% · Nasdaq −0.91% · Dow +0.10% · 10-yr ≈5.15%",
+          "headline": "Wall Street Slips but Books Its Best Week Since August",
+          "body": "Chip losses dragged the Nasdaq lower while the Dow eked out a gain. Annual producer-price inflation hit 6.5%, and traders now see a December Fed rate rise as close to certain."
+        },
+        {
+          "fig": "FTSE 10,902.56 (+0.4%) · CAC +0.1% · DAX 26,749.95 (−0.1%)",
+          "headline": "Europe Steadies Near Record Highs",
+          "body": "European shares opened lower on AI worries before ending little changed, with the region still logging a solid weekly gain. Richemont fell sharply on softer jewellery demand in China despite higher quarterly sales."
+        },
+        {
+          "fig": "Nikkei 61,142.35 (+0.5%) · Kospi −1.0% · Hang Seng −1.6%",
+          "headline": "Tokyo Gains as Seoul and Hong Kong Retreat",
+          "body": "Japan edged higher while Korea's Kospi closed at 5,290.53 and the Hang Seng fell to 23,637.60. Shanghai's composite index slipped 0.6%."
+        },
+        {
+          "fig": "India CPI 6.09% · Nifty 25,144.30 · Realty −1.69% · USD/INR 94.20",
+          "headline": "Hot Inflation Print Ends Dalal Street's Winning Streak",
+          "body": "October retail inflation rose to 6.09% from 5.54%, with food prices up 8.94%, raising fears the RBI will stay tight. Realty, metal, auto and bank shares led the decline, though foreign investors have bought for nine straight sessions."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "AMD −8.8% · AVGO ≈−5% · NVDA ≈−2% (≈−13% on week)",
+          "headline": "Chipmakers Give Back Their Gains",
+          "body": "AMD and Broadcom reversed Thursday's rally as investors fretted about Nvidia's direction under interim leadership. HSBC downgraded Nvidia to hold, and AI cloud names Nebius and CoreWeave also fell sharply."
+        },
+        {
+          "fig": "AAPL intraday record $360.80 · CSCO ≈−6%",
+          "headline": "Apple Hits a Record as Cisco Stumbles",
+          "body": "Apple rose nearly 1%, taking its market value above $5.2 trillion. Cisco fell about 6% even after beating first-quarter estimates and lifting guidance, while Microsoft recovered from an early drop tied to an Outlook and Teams outage."
+        },
+        {
+          "fig": "Cerebras ≈+13–16% premarket · Fermi best day on record",
+          "headline": "Cerebras and Fermi Ride AI Deals Higher",
+          "body": "Cerebras jumped after reporting an unexpected profit, record revenue and new hyperscaler customers. Power developer Fermi had its best session ever after a hyperscaler committed to 600 MW of capacity at its Texas campus."
+        },
+        {
+          "fig": "Grasim −2.60% · Shriram Fin −3.37% · MSTC +20%",
+          "headline": "Grasim Slides on Quarterly Loss; MSTC Hits Upper Circuit",
+          "body": "Grasim posted a consolidated net loss of ₹234 crore for the September quarter against a profit a year earlier. MSTC surged to its 20% limit after a 57.7% rise in quarterly profit, while Eicher Motors and Bharti Airtel led Nifty gainers."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "$3.5 billion",
+          "headline": "FTC Moves to Block Covetrus–MWI Veterinary Merger",
+          "body": "The FTC and about a dozen state attorneys general sued in New York to stop Covetrus buying Cencora's MWI Animal Health, arguing it would join the two largest US vet-supply distributors. Covetrus says the agency ignores the many purchasing options available to clinics."
+        },
+        {
+          "fig": "Terms undisclosed",
+          "headline": "Samsung Said to Be in Talks for Modine",
+          "body": "Samsung Electronics is reportedly in talks to acquire the US maker of data-centre cooling equipment. No agreement has been announced and the talks could still collapse."
+        },
+        {
+          "fig": "Possible announcement as early as December",
+          "headline": "Tesla–SpaceX Merger Talks Advance",
+          "body": "Bloomberg reported that a combination of the two Musk companies could be unveiled as soon as December, though timing may slip into early 2027. China ties could complicate regulatory approval."
+        },
+        {
+          "fig": "IMXI · WU",
+          "headline": "Intermex Says Western Union Can't Walk Away",
+          "body": "Intermex said all conditions for its merger with Western Union have been met and argued the buyer cannot terminate the agreement because it did not make reasonable efforts to secure approvals."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "≈9% stake · Rightmove +7.8%",
+          "headline": "Sachem Head Pushes Rightmove Toward a Sale",
+          "body": "The $7 billion New York fund, now reportedly Rightmove's largest shareholder, wants the board to re-engage with potential buyers and use its balance sheet to lift returns. Rightmove rejected an $8.29 billion approach from REA in 2024."
+        },
+        {
+          "fig": "Heavily shorted discretionary stocks −2.28%",
+          "headline": "Funds Rebuild Bets Against Rate-Sensitive Stocks",
+          "body": "Bank of America data show hedge funds adding shorts in consumer and small-cap names after the hot inflation data, while also rebuilding long positions in tech after the recent correction."
+        },
+        {
+          "fig": "4.5% stake",
+          "headline": "Citadel Builds Position in Hankyu Hanshin",
+          "body": "Ken Griffin's firm has taken a 4.5% stake in the Japanese railway and property group, adding to a run of hedge fund interest in Japanese companies."
+        },
+        {
+          "fig": "Point72 · Millennium · Balyasny",
+          "headline": "Multi-Manager Talent War Rolls On",
+          "body": "Point72 hired Millennium macro portfolio manager James Whittingham to lead a new team in London, and Balyasny added senior staff in London and Hong Kong. Bobby Jain pitched his firm's exclusive Millennium mandate as a template for industry consolidation."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "Listing reportedly set for 19 Nov",
+          "headline": "Anthropic IPO Lines Up for Next Week",
+          "body": "The AI developer's public listing is reportedly scheduled for 19 November, two days after Nvidia's results, keeping AI firmly at the centre of investor attention."
+        },
+        {
+          "fig": "₹450.9 crore · ₹259–272 a share",
+          "headline": "Crystal Crop Protection Sets IPO Terms",
+          "body": "The agrochemical maker's issue, a ₹355 crore fresh issue plus a ₹95.9 crore offer for sale, opens on 18 November."
+        },
+        {
+          "fig": "Olyv ₹57.62 cr · Rigi ₹10 cr · Hundo Pizza ₹7.5 cr",
+          "headline": "Lenders, Creators and Pizza Draw Indian Startup Money",
+          "body": "Digital lender Olyv extended its Series C at a ₹1,104 crore valuation, Google invested in creator platform Rigi at a ₹670 crore valuation, and Titan Capital led Mumbai brand Hundo Pizza's first institutional round."
+        },
+        {
+          "fig": "Quick commerce 16% of online festive sales",
+          "headline": "Quick Commerce Takes a Bigger Slice of Festive Spending",
+          "body": "Instant-delivery apps captured 16% of India's online festive sales this year, up from 12%, with grocery sales up 40% and orders up 75%, a shift D2C brands selling online will want to note."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August — CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html"
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq end lower amid Nvidia turmoil — Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-nasdaq-end-233729977.html"
+    },
+    {
+      "title": "Stock market today, Friday 13 November — Yahoo Finance live",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    },
+    {
+      "title": "Wall Street stocks mostly lower as Nvidia extends slump — France 24 / AFP",
+      "url": "https://france24.com/en/live-news/20261113-wall-street-stocks-mostly-lower-as-nvidia-extends-slump"
+    },
+    {
+      "title": "How major US stock indexes fared Friday 11/13/2026 — Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/11/13/wall-street-stocks-dow-nasdaq/f15a10e2-dfa7-11f1-912c-4fbb80d73f7f_story.html"
+    },
+    {
+      "title": "European shares retreat from record highs, AI uncertainty weighs — Business Recorder / Reuters",
+      "url": "https://www.brecorder.com/news/40448754/european-shares-retreat-from-record-highs-ai-uncertainty-weighs"
+    },
+    {
+      "title": "Brent and WTI set for weekly losses as surplus concerns grow — Nation Thailand",
+      "url": "https://www.nationthailand.com/news/world/40073488"
+    },
+    {
+      "title": "Nifty, Sensex end 3-day rally as inflation rises and crude oil surges — 5paisa",
+      "url": "https://www.5paisa.com/blog/post-market-update-nifty-sensex-fall-inflation-crude-oil-november-13-2026"
+    },
+    {
+      "title": "Top gainers and losers, Nov 13 — Upstox",
+      "url": "https://upstox.com/news/market-news/stocks/top-gainers-and-losers-nov-13-shriram-finance-tata-motors-pv-fall-3-eicher-motors-bharti-airtel-rise-over-1/article-203444/"
+    },
+    {
+      "title": "Top gainers today 13-Nov-2026: MSTC hits 20% circuit — Multibagg",
+      "url": "https://www.multibagg.ai/market-pulse/articles/top-gainers-india-today-cmwev9i9t000v2cqxsfbmpdpc"
+    },
+    {
+      "title": "Rupee falls 8 paise to close at 94.20 against US dollar — HDFC Sky",
+      "url": "https://hdfcsky.com/news/rupee-falls-8-paise-to-close-at-94-20-against-us-dollar"
+    },
+    {
+      "title": "FTC, states sue to block $3.5 billion Covetrus-MWI deal — Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/securities-law/ftc-sues-to-block-3-5-billion-covetrus-acquisition-of-rival-mwi"
+    },
+    {
+      "title": "CVET Topco/MWI Veterinary Supply case page — FTC",
+      "url": "https://www.ftc.gov/legal-library/browse/cases-proceedings/2610070-cvet-topcomwi-veterinary-supply"
+    },
+    {
+      "title": "Samsung–Modine acquisition talks — Shattered",
+      "url": "https://shattered.io/samsung-modine-acquisition-talks-data-center-cooling-zero-terms-2026/"
+    },
+    {
+      "title": "SpaceX-Tesla merger talks advance — DigiTimes",
+      "url": "https://www.digitimes.com/news/a20261113VL222/spacex-merger-tesla-2026-manufacturing.html"
+    },
+    {
+      "title": "InsideArbitrage Event Driven Monitor, 13 November 2026",
+      "url": "https://www.insidearbitrage.com/2026/11/insidearbitrage-event-driven-monitor-november-13-2026/"
+    },
+    {
+      "title": "Activist Sachem Head wants Rightmove to consider sale — Reuters via Lufkin Daily News",
+      "url": "https://lufkindailynews.com/news_reuters/business/exclusive-us-activist-sachem-head-wants-rightmove-to-consider-sale-talk-with-potential-buyers-sources/article_acd7c40d-39e8-5427-9b27-58f1e86e3b20.html"
+    },
+    {
+      "title": "Hedge funds rebuild short positions in rate-sensitive stocks — Hedgeweek",
+      "url": "https://hedgeweek.com/news/hedge-funds-rebuild-short-positions-in-rate-sensitive-stocks-as-inflation-concerns-return"
+    },
+    {
+      "title": "Hedgeweek news (Point72, Balyasny, Citadel–Hankyu Hanshin)",
+      "url": "https://hedgeweek.com/news"
+    },
+    {
+      "title": "Bobby Jain touts Millennium deal as blueprint for era of scale — Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/bobby-jain-touts-millennium-deal-as-blueprint-for-era-of-scale"
+    },
+    {
+      "title": "India IPO daily market & IPO updates, 13 November 2026 — IndiaIPO",
+      "url": "https://www.indiaipo.in/daily-reporter/india-ipo-daily-market-ipo-updates-13th-november-2026"
+    },
+    {
+      "title": "Daily Indian funding roundup, 12 November 2026 — StartupTalky",
+      "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-12-november-2026/"
+    }
+  ]
+}

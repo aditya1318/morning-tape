@@ -1,6 +1,13 @@
 {
   "editions": [
     {
+      "id": "2026-11-14",
+      "issue": 5,
+      "date": "Saturday, 14 November 2026",
+      "edition": "Morning Edition",
+      "headline": "Chip Rout Deepens on Nvidia Fallout, Taking the Shine Off Wall Street's Best Week Since August"
+    },
+    {
       "id": "2026-11-13",
       "issue": 4,
       "date": "Friday, 13 November 2026",
