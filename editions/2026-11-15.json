@@ -1,0 +1,267 @@
+{
+  "id": "2026-11-15",
+  "issue": 6,
+  "date": "Sunday, 15 November 2026",
+  "edition": "Morning Edition",
+  "ticker": [
+    {
+      "name": "S&P 500",
+      "value": "7,561.67",
+      "change": "−0.40%",
+      "dir": "down"
+    },
+    {
+      "name": "Dow",
+      "value": "52,347.55",
+      "change": "+0.10%",
+      "dir": "up"
+    },
+    {
+      "name": "Nasdaq",
+      "value": "25,136.27",
+      "change": "−0.91%",
+      "dir": "down"
+    },
+    {
+      "name": "FTSE 100",
+      "value": "10,902.56",
+      "change": "+0.4%",
+      "dir": "up"
+    },
+    {
+      "name": "Nifty 50",
+      "value": "25,144.30",
+      "change": "−0.61%",
+      "dir": "down"
+    },
+    {
+      "name": "Sensex",
+      "value": "81,592.45",
+      "change": "−0.39%",
+      "dir": "down"
+    },
+    {
+      "name": "USD/INR",
+      "value": "94.20",
+      "change": "+8 paise",
+      "dir": "up"
+    },
+    {
+      "name": "Brent",
+      "value": "$95.84",
+      "change": "+0.02%",
+      "dir": "up"
+    }
+  ],
+  "tickerNote": "Markets closed for the weekend · figures are Friday 13 Nov closes · USD/INR provisional · Brent settlement",
+  "lead": {
+    "kicker": "The Week Ahead · AI",
+    "headline": "Leaderless Nvidia and Anthropic's Mega-IPO Set Up a Make-or-Break Week for the AI Trade",
+    "deck": "Nvidia reports on Tuesday without Jensen Huang as its board starts a CEO search, while Anthropic is due to price an offering that has reportedly drawn several times more orders than shares on sale.",
+    "body": [
+      "Investors head into the new week with the two biggest tests of the artificial-intelligence boom landing within 48 hours of each other. Nvidia, which shed roughly $573 billion of market value last week after Jensen Huang stepped down, reports fiscal third-quarter results after the US close on Tuesday, 17 November. Analysts expect revenue of about $109 billion, up around 91% from a year earlier, and options pricing implies a swing of roughly 8% in either direction. It is the company's first report under interim chief executive Colette Kress, and it is not yet clear whether management will give guidance.",
+      "The succession question hung over the weekend. Following a Financial Times report that Nvidia's board had approached Arm chief Rene Haas, the board said it was still choosing a search firm, had not formally engaged any candidate, and called talk of individual names premature. Arm's US shares closed about 5% lower on Friday. Inside Nvidia, an engineer's internal post asking the board to weigh staff sentiment drew more than 1,600 comments, many urging Huang's return.",
+      "Anthropic, meanwhile, is set to price its Nasdaq listing on Wednesday, 18 November, and begin trading under the ticker ANT the next day. The offering of 825 million Class A shares is marketed at $70 to $78 each, and Bloomberg reported the book is covered several times over; a report citing the FT said bankers were weighing pricing above the range. Such oversubscription figures come from people close to the deal and can overstate real demand.",
+      "The macro backdrop is not helping. US producer prices rose 6.5% on the year in October, the 10-year Treasury yield sits above 5.1%, and futures markets price a December Fed rate hike as close to certain, so Wednesday's FOMC minutes and Tuesday's retail sales will be watched closely. In India, wholesale inflation data arrives on Monday after retail inflation broke above the RBI's 6% ceiling, though foreign investors have bought about ₹79,300 crore of Indian shares so far this month."
+    ]
+  },
+  "top": [
+    "Nvidia's board says its CEO search has barely begun, after a report that it approached Arm chief Rene Haas; results are due Tuesday.",
+    "Anthropic's IPO, marketed at $70–78 a share, is reportedly several times oversubscribed ahead of pricing on Wednesday.",
+    "Foreign investors have poured about ₹79,300 crore into Indian equities in November, lifting the Nifty Bank 3.3% last week while IT stocks fell 3.2%.",
+    "SoftBank sold a 1.65% stake in Meesho for about ₹1,885 crore, cutting its holding to roughly 5.19%.",
+    "Global equity hedge funds are cutting risk at the fastest pace in more than a decade, according to Morgan Stanley."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "Week: S&P +2.5% · Nasdaq +2.3% · Dow +2.1%",
+          "headline": "Wall Street Banks Its Best Week Since August Despite Friday's Chip Slide",
+          "body": "Major US indices recovered from the prior week's AI-led slump even as Nvidia fell sharply. A 6.5% annual rise in producer prices has pushed yields higher and cemented bets on a December Fed hike."
+        },
+        {
+          "fig": "Week: Sensex +0.7% · Nifty +0.5% · Nifty Bank +3.3%",
+          "headline": "Foreign Buying Props Up Dalal Street",
+          "body": "FIIs bought more than ₹33,000 crore of shares across four sessions last week while domestic institutions sold. PSU banks led with a 7.5% weekly gain; IT was the weakest sector."
+        },
+        {
+          "fig": "Mon WPI · Tue US retail sales, Nvidia · Wed FOMC minutes",
+          "headline": "A Crowded Calendar Awaits Markets",
+          "body": "India's wholesale inflation print opens the week, followed by US retail sales and the Fed's minutes. Traders are also watching for any progress on a US-India trade agreement."
+        },
+        {
+          "fig": "USD/INR 94.20 · 10-yr UST ≈5.15%",
+          "headline": "Rupee Stays Above 94 as Dollar Strengthens",
+          "body": "The rupee ended Friday weaker after briefly firming below 93.50 earlier in the week, with a strong dollar and rising US yields keeping pressure on emerging-market currencies."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "≈$573bn lost in a week",
+          "headline": "Nvidia's Rout Leaves a Hole Ahead of Results",
+          "body": "The chipmaker ended Friday about 2% lower, capping a week of heavy losses after Huang's exit. Arm's US-listed shares fell about 5% on the report that its CEO had been approached."
+        },
+        {
+          "fig": "Kalyan +18% · Godrej Inds +17% · PB Fintech +14.3%",
+          "headline": "Jewellers and Insurtech Lead India's Weekly Gainers",
+          "body": "PB Fintech rallied on hopes that the insurance regulator may soften its draft distribution rules. SBI was the top Nifty gainer at 6%."
+        },
+        {
+          "fig": "Page −13% · Grasim −6% · HCL Tech −4.3%",
+          "headline": "IT Majors and Page Industries Lag",
+          "body": "TCS, Infosys and Tech Mahindra each fell more than 3% for the week as AI worries weighed on software exporters. Networking names HFCL and Sterlite Technologies also corrected."
+        },
+        {
+          "fig": "Paytm turns five as a listed company on 18 Nov",
+          "headline": "Paytm Marks a Rocky Five Years on the Bourses",
+          "body": "One97 Communications debuted in November 2021 below its ₹2,150 IPO price, and the anniversary falls in a week when new-age tech stocks have been rallying."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "₹1,885 crore · 1.65% stake · ₹246.75 a share",
+          "headline": "SoftBank Trims Meesho Again",
+          "body": "SoftBank's fund sold about 7.64 crore Meesho shares in a block deal at a roughly 4% discount, taking its stake to about 5.19%. It follows a September sale of a 1.73% stake."
+        },
+        {
+          "fig": "$1.59 a share · ≈19% premium",
+          "headline": "High Arctic Energy Agrees to Go Private",
+          "body": "The TSX-listed oilfield services firm signed a deal to be bought by Newport Capital, with shareholders also getting a separate return of capital. Closing is expected in December."
+        },
+        {
+          "fig": "59.8% of share capital",
+          "headline": "JD.com Completes Its CECONOMY Takeover",
+          "body": "The Chinese e-commerce group finished its voluntary public offer for the German owner of MediaMarkt and Saturn, and will consolidate the business from 12 November."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "Gross exposure −10.7% since late June",
+          "headline": "Equity Funds De-Risk at Fastest Pace in a Decade",
+          "body": "Morgan Stanley's prime brokerage said global equity hedge funds cut risk at the steepest rate in more than ten years in early November, while funds are adding shorts in rate-sensitive US stocks."
+        },
+        {
+          "fig": "",
+          "headline": "Point72 Poaches Millennium Macro Trader",
+          "body": "Point72 has reportedly hired James Whittingham from Millennium to run a new macro team in London, while Balyasny named three senior executives for its international operations."
+        },
+        {
+          "fig": "4.5% stake",
+          "headline": "Citadel Builds Position in Hankyu Hanshin",
+          "body": "Citadel has taken a 4.5% stake in the Japanese rail and property group, reportedly one of its largest holdings. Separately, CPPIB plans to roughly double its hedge fund investments to about $160bn."
+        },
+        {
+          "fig": "13F deadline: Mon 16 Nov",
+          "headline": "Quarterly Holdings Disclosures Due Monday",
+          "body": "Because the usual deadline fell on a Saturday, big managers' third-quarter 13F filings are due on 16 November, offering a look at how funds were positioned before the AI sell-off."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "Q2 loss ₹12.6 cr (−75%) · revenue +14%",
+          "headline": "FirstCry Narrows Its Losses",
+          "body": "The kids' products retailer sharply cut its quarterly loss as revenue grew in the mid-teens."
+        },
+        {
+          "fig": "$23m bridge round",
+          "headline": "Sachin Tendulkar Backs Recykal",
+          "body": "The cricketer joined the waste-management startup as a strategic investor in an extension of its bridge round, while fellow cricketer Ajinkya Rahane took a stake in D2C cookware brand Ember."
+        },
+        {
+          "fig": "",
+          "headline": "Anup Gupta Exits Nexus Venture Partners",
+          "body": "The investor is leaving Nexus after 16 years, a notable departure from one of India's best-known early-stage funds."
+        },
+        {
+          "fig": "$4bn",
+          "headline": "Norwest Closes Its Largest Fund Yet",
+          "body": "The venture firm raised $4 billion, with AI named as a priority, as heavyweight investors keep committing capital to the sector despite the market wobble."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nvidia mulls Arm CEO for top post — The Manila Times / Reuters",
+      "url": "https://www.manilatimes.net/2026/11/15/business/top-business/nvidia-mulls-arm-ceo-for-top-post/2470093"
+    },
+    {
+      "title": "Nvidia approached Arm CEO Rene Haas to succeed Jensen Huang — Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/articles/nvidia-approached-arm-ceo-rene-195019281.html"
+    },
+    {
+      "title": "Here's how much traders expect Nvidia stock to move after earnings — Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/options/articles/much-traders-expect-nvidia-stock-174214500.html"
+    },
+    {
+      "title": "Nasdaq drops Friday on Nvidia fallout but ends the week up — Kiplinger",
+      "url": "https://www.kiplinger.com/investing/stocks/nasdaq-drops-friday-on-nvidia-fallout-but-ends-the-week-up-stock-market-today"
+    },
+    {
+      "title": "Anthropic launches roadshow for proposed initial public offering — Anthropic",
+      "url": "https://www.anthropic.com/news/roadshow-launch"
+    },
+    {
+      "title": "Anthropic's IPO is said to be multiple times oversubscribed — StockAnalysis",
+      "url": "https://stockanalysis.com/news/anthropic-ipo-multiple-times-oversubscribed/"
+    },
+    {
+      "title": "Markets next week: key triggers for Dalal Street — Business Today",
+      "url": "https://www.businesstoday.in/markets/stocks/story/markets-next-week-key-triggers-that-could-move-dalal-street-return-of-fiis-nvidia-earnings-inflation-and-us-trade-deal-567496-2026-11-15"
+    },
+    {
+      "title": "SoftBank offloads Meesho shares — Inc42",
+      "url": "https://inc42.com/buzz/softbank-offloads-meesho-shares-worth-%E2%82%B91855-cr"
+    },
+    {
+      "title": "SoftBank sells 1.65% stake in Meesho — Kotak Neo",
+      "url": "https://www.kotakneo.com/news/stocks/softbank-sells-1-65-percent-stake-in-meesho-for-1885-crore-and-reduces-its-holding/"
+    },
+    {
+      "title": "High Arctic Energy Services to be acquired by Newport Capital — GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/11/14/3403026/0/en/high-arctic-energy-services-inc-enters-into-a-definitive-agreement-to-be-acquired-by-newport-capital-in-a-go-private-transaction-and-announces-intent-to-make-a-cash-distribution-to.html"
+    },
+    {
+      "title": "JD.com completes voluntary public takeover offer of CECONOMY — GlobeNewswire",
+      "url": "https://globenewswire.com/news-release/2026/11/12/3401429/0/en/jd-com-completes-voluntary-public-takeover-offer-of-ceconomy.html"
+    },
+    {
+      "title": "Hedge fund risk retreat largest in a decade, Morgan Stanley says — Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/hedge-fund-risk-retreat-largest-in-a-decade-says-morgan-stanley"
+    },
+    {
+      "title": "Hedge funds cut equity risk at fastest pace in a decade — Hedgeweek",
+      "url": "https://hedgeweek.com/news/hedge-funds-cut-equity-risk-at-fastest-pace-in-a-decade-amid-ai-selloff"
+    },
+    {
+      "title": "Hedgeweek news (Point72, Balyasny, Citadel, CPPIB)",
+      "url": "https://hedgeweek.com/news"
+    },
+    {
+      "title": "Famous investors face a Nov. 16 holdings deadline — Yahoo Finance",
+      "url": "https://ca.finance.yahoo.com/news/famous-investors-face-nov-16-133700716.html"
+    },
+    {
+      "title": "Inc42 Buzz — FirstCry, Recykal, Ember, Nexus (14 Nov)",
+      "url": "https://inc42.com/buzz/"
+    },
+    {
+      "title": "Market News — Saturday 14 November 2026 (Norwest fund)",
+      "url": "https://hervecuviliez.substack.com/p/market-news-saturday-14-november"
+    }
+  ]
+}
