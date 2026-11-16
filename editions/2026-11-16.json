@@ -1,0 +1,176 @@
+{
+  "id": "2026-11-16",
+  "issue": 7,
+  "date": "Monday, 16 November 2026",
+  "edition": "Week-in-Review Edition",
+  "ticker": [
+    {"name": "S&P 500", "value": "7,561.67", "change": "−0.40%", "dir": "down"},
+    {"name": "Dow", "value": "52,347.55", "change": "+0.10%", "dir": "up"},
+    {"name": "Nasdaq", "value": "25,136.27", "change": "−0.91%", "dir": "down"},
+    {"name": "FTSE 100", "value": "10,902.56", "change": "+0.36%", "dir": "up"},
+    {"name": "DAX", "value": "26,749.95", "change": "−0.08%", "dir": "down"},
+    {"name": "Nifty 50", "value": "25,144.30", "change": "−0.61%", "dir": "down"},
+    {"name": "Sensex", "value": "81,592.45", "change": "−0.39%", "dir": "down"},
+    {"name": "US 10-yr", "value": "5.15%", "change": "", "dir": ""}
+  ],
+  "tickerNote": "Friday 13 Nov closes · Monday Asian trade under way at press time · US 10-yr yield at Friday's close",
+  "lead": {
+    "kicker": "Week in Review · AI",
+    "headline": "Big Investors and Musk Lobby for Huang's Return as Nvidia Heads Into a Results Week Without Him",
+    "deck": "Altimeter and Atreides asked Nvidia's board to keep the door open for its ousted founder, a petition passed 160,000 signatures, and the chipmaker reports on Tuesday after its worst week on record by value lost.",
+    "body": [
+      "The fight over who should run the world's most important AI chipmaker spilled into the open over the weekend. Brad Gerstner of Altimeter Capital and Gavin Baker of Atreides Management published an open letter asking Nvidia's board to run a careful succession process that leaves room for Jensen Huang to come back, while stopping short of demanding his immediate reinstatement. A 'Stand with Jensen' petition has gathered more than 160,000 signatures, and Elon Musk said on X that he was signing it.",
+      "Huang resigned as chief executive and director on 12 November amid reports about his personal conduct and an independent board investigation. The board has installed finance chief Colette Kress as interim CEO, says it will weigh internal and external candidates, and has said it has not formally engaged anyone, despite a Financial Times report that it approached Arm's Rene Haas. The FT also reported that Huang has discussed a possible return with confidants; analysts are divided on whether that is realistic.",
+      "The market damage has been severe. Nvidia lost roughly $650 billion of value last week, its largest weekly loss on record, sliding about 13% and dropping below a $4 trillion market capitalisation. HSBC cut the stock to hold and slashed its price target to $170 from $365. Despite that, the S&P 500, Dow and Nasdaq each gained more than 2% on the week, their best showing since August, and US index futures edged higher on Sunday night.",
+      "The week ahead is crowded. Nvidia reports fiscal third-quarter results after the US close on Tuesday, with analysts looking for revenue growth near 100%. Anthropic is due to price its Nasdaq listing, marketed at $70 to $78 a share, on Wednesday and start trading on Thursday. In Asia, Japan's economy unexpectedly shrank in the third quarter, and India publishes October wholesale inflation at noon today, after retail inflation crossed the RBI's 6% ceiling."
+    ]
+  },
+  "top": [
+    "Altimeter and Atreides urge Nvidia's board to keep Jensen Huang's return on the table; a supporters' petition tops 160,000 signatures.",
+    "Japan's GDP shrank at an annualised 0.1% in the third quarter against forecasts of growth, dragging Tokyo shares lower on Monday.",
+    "Activist Sachem Head has built a roughly 9% stake in Rightmove and wants the UK property portal to consider a sale.",
+    "SEBI has cleared Razorpay's ₹5,000–6,000 crore IPO and MakeMyTrip's India arm's offer-for-sale, while Indian startup funding slumped 90% last week.",
+    "Australian grocer Coles is investigating a weekend cybersecurity incident but says it has found no sign that data was taken."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "Week: S&P, Dow, Nasdaq each up more than 2%",
+          "headline": "Wall Street Books Best Week Since August Despite Friday's Tech Slide",
+          "body": "Indices pulled back on Friday as Nvidia, AMD and Broadcom fell, but still held strong weekly gains. Sunday-night futures pointed modestly higher, led by the Nasdaq-100."
+        },
+        {
+          "fig": "Q3 GDP −0.1% annualised vs +0.3% expected",
+          "headline": "Japan's Economy Unexpectedly Contracts",
+          "body": "Weak exports and high living costs produced the first contraction in four quarters, and the Nikkei fell in Monday trade. Markets still lean toward a Bank of Japan rate rise in December."
+        },
+        {
+          "fig": "Dollar index 103.18 · US 10-yr 5.15% · Bitcoin < $70k",
+          "headline": "Strong Dollar and High Yields Squeeze Gold and Crypto",
+          "body": "The dollar hit its highest level since April 2025 as traders price a near-certain December Fed hike. Gold posted its biggest weekly fall since March and bitcoin slipped below $70,000."
+        },
+        {
+          "fig": "India WPI due 12:00 IST · Sep WPI 11.39%",
+          "headline": "India Awaits Wholesale Inflation After CPI Breaches Ceiling",
+          "body": "Forecasters expect October wholesale inflation above 12%, after retail inflation rose to 6.09%. The Nifty closed Friday at 25,144 but still gained about half a percent on the week."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "≈$650bn lost in a week · HSBC target $170",
+          "headline": "Nvidia Suffers Record Weekly Value Loss",
+          "body": "The stock fell about 13% last week, its steepest weekly drop since April 2025, as HSBC downgraded it to hold. Results on Tuesday will be the first without Huang as CEO."
+        },
+        {
+          "fig": "Apple record $360.80 · >$5.2tn",
+          "headline": "Apple Hits a Record as Chip Stocks Retreat",
+          "body": "Investors rotated toward the iPhone maker on Friday, lifting its market value above $5.2 trillion while semiconductor names reversed earlier gains."
+        },
+        {
+          "fig": "Adore Beauty −36% · Elders +7.8%",
+          "headline": "Online Beauty Retailer Crashes on Guidance Cut",
+          "body": "Australia's Adore Beauty hit a record low after slashing its earnings outlook and reporting an 8% revenue fall, while agribusiness Elders rallied on a sharp profit increase."
+        },
+        {
+          "fig": "Kospi −3.3% midday",
+          "headline": "Korean Stocks Lead Asia Lower",
+          "body": "Seoul's benchmark was the region's weakest market by midday Monday as chip-heavy indices stayed under pressure ahead of Nvidia's report."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "A$3.00 a share · third proposal",
+          "headline": "IDP Education Rebuffs Blackstone Again",
+          "body": "The Australian student-placement company rejected a third takeover approach from the private equity firm."
+        },
+        {
+          "fig": "A$267m",
+          "headline": "Tabcorp Moves for BetMakers",
+          "body": "The wagering group has proposed buying the betting-technology provider, adding to a busy stretch of Australian dealmaking."
+        },
+        {
+          "fig": "A$5.55 vs A$5.60",
+          "headline": "Warburg Pincus Steps Back in Ingenia Contest",
+          "body": "The buyout firm dropped its exclusivity with the land-lease operator, whose offer now trails a rival A$5.60-a-share proposal from AVID."
+        },
+        {
+          "fig": "",
+          "headline": "InCred Buys Quintessentially's India Business",
+          "body": "The financial services group acquired the Indian arm of the luxury concierge company; terms were not disclosed."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "Altimeter ≈9.4m shares · Atreides ≈1.2m (as of 30 Jun)",
+          "headline": "Gerstner and Baker Press Nvidia's Board",
+          "body": "The two growth-fund managers asked for a measured succession process that does not rule out Huang, acknowledging the board could still decide against it."
+        },
+        {
+          "fig": "≈9% stake · shares +8%",
+          "headline": "Sachem Head Pushes Rightmove Toward a Sale",
+          "body": "The New York activist has reportedly become the UK property portal's largest shareholder and wants it to engage with potential buyers. Rightmove rejected an approach from REA Group in 2024."
+        },
+        {
+          "fig": "Deadline 5:30pm ET today",
+          "headline": "Q3 13F Filings Land Today",
+          "body": "Managers with more than $100 million in US equities must disclose their 30 September holdings, offering a view of positioning before the November AI sell-off."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "₹5,000–6,000 cr · ≈$5bn valuation",
+          "headline": "SEBI Clears Razorpay and MakeMyTrip India IPOs",
+          "body": "Razorpay's listing could come in early 2027, and MakeMyTrip's Indian unit received approval for an offer-for-sale that could raise more than $1 billion."
+        },
+        {
+          "fig": "$25.2m · 9 deals · −90% w/w",
+          "headline": "Indian Startup Funding Dries Up",
+          "body": "Clean tech led a thin week in which Greenjoules was the largest round at $16 million. Consumer deals were small, including cloud-kitchen Hundo Pizza and fashion label QB Men."
+        },
+        {
+          "fig": "≈$32m · Sofina-led talks",
+          "headline": "PlatinumRx in Talks for New Round",
+          "body": "The online pharmacy is reportedly negotiating a raise at a valuation of $150 million to $200 million."
+        },
+        {
+          "fig": "",
+          "headline": "Coles Probes Weekend Cyber Incident",
+          "body": "The Australian supermarket chain says stores and online shopping are running normally and it has found no evidence of customer, staff or supplier data being taken."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "Tech world's calls for Jensen Huang to return to Nvidia are growing — CNBC", "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html"},
+    {"title": "Nvidia board urged to consider potential return of Jensen Huang — CNBC", "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"},
+    {"title": "Altimeter, Atreides urge Nvidia board to keep door open for Huang — The Tribune", "url": "https://www.tribuneindia.com/news/altimeter-capital/altimeter-atreides-urge-nvidia-board-to-keep-door-open-for-jensen-huangs-return-as-ceo"},
+    {"title": "The Monday Report — 16 November 2026 — FNArena", "url": "https://fnarena.com/2026/11/16/the-monday-report-16-november-2026/"},
+    {"title": "Stock market today: Live updates — NewsBeep", "url": "https://www.newsbeep.com/811798"},
+    {"title": "Markets live updates, 16 November — ABC News", "url": "https://abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"},
+    {"title": "Japan Q3 GDP shrinks 0.1% annualised — investingLive", "url": "https://investinglive.com/news/japan-q3-gdp-shrinks-0-1-annualised-vs-0-3-expected-as-exports-and-consumers-weigh/"},
+    {"title": "Japan's Q3 GDP dropped an annualized 0.1% — Nikkei Asia", "url": "https://asia.nikkei.com/economy/japan-s-q3-gdp-dropped-an-annualized-0.1"},
+    {"title": "India's WPI inflation may breach 12% in October: Ind-Ra — Business Standard", "url": "https://www.business-standard.com/amp/economy/news/india-s-wpi-inflation-may-breach-12-retail-6-in-october-ind-ra-126101501030_1.html"},
+    {"title": "India inflation data release calendar — IndiaInflation", "url": "https://indiainflation.com/release-calendar"},
+    {"title": "Stock market prediction for Monday, 16 Nov — Univest", "url": "https://univest.in/blogs/stock-market-prediction-for-tomorrow-2"},
+    {"title": "Exclusive: Sachem Head wants Rightmove to consider sale — Reuters via Euronext", "url": "https://live.euronext.com/en/financial-news/exclusive-us-activist-sachem-head-wants-rightmove-consider-sale-talk-potential"},
+    {"title": "Rightmove gains on report activist Sachem Head pushing for sale — Seeking Alpha", "url": "https://seekingalpha.com/news/4672508-rightmove-gains-on-report-activist-sachem-head-pushing-for-sale"},
+    {"title": "Major investors face the 13F filing deadline on Nov. 16 — KuCoin News", "url": "https://www.kucoin.com/news/flash/major-investors-face-13f-filing-deadline-on-nov-16-new-reports-fill-gaps"},
+    {"title": "Anthropic sets IPO range valuing it at up to $1.4 trillion — Fortune", "url": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"},
+    {"title": "Razorpay gets SEBI nod for ₹6,000 Cr IPO — Inc42", "url": "https://inc42.com/buzz/razorpay-gets-sebi-nod-for-₹6000-cr-ipo/"},
+    {"title": "From Greenjoules to mistEO — Indian startups raised over $25 Mn this week — Inc42", "url": "https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/"}
+  ]
+}
