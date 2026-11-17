@@ -1,6 +1,13 @@
 {
   "editions": [
     {
+      "id": "2026-11-17",
+      "issue": 8,
+      "date": "Tuesday, 17 November 2026",
+      "edition": "Morning Edition",
+      "headline": "Nasdaq Slides Into Correction as Nvidia's Board Shuts the Door on Huang Hours Before Results"
+    },
+    {
       "id": "2026-11-16",
       "issue": 7,
       "date": "Monday, 16 November 2026",

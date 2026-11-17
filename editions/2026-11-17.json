@@ -1,0 +1,188 @@
+{
+  "id": "2026-11-17",
+  "issue": 8,
+  "date": "Tuesday, 17 November 2026",
+  "edition": "Morning Edition",
+  "ticker": [
+    {"name": "S&P 500", "value": "7,416.59", "change": "−1.92%", "dir": "down"},
+    {"name": "Dow", "value": "51,608.17", "change": "−1.41%", "dir": "down"},
+    {"name": "Nasdaq", "value": "24,509.76", "change": "−2.49%", "dir": "down"},
+    {"name": "Stoxx 600", "value": "662.31", "change": "−0.28%", "dir": "down"},
+    {"name": "Nikkei 225", "value": "59,661.80", "change": "−2.42%", "dir": "down"},
+    {"name": "Nifty 50", "value": "25,291.10", "change": "+0.58%", "dir": "up"},
+    {"name": "Sensex", "value": "82,104.79", "change": "+0.63%", "dir": "up"},
+    {"name": "USD/INR", "value": "93.92", "change": "−0.27", "dir": "down"}
+  ],
+  "tickerNote": "Monday 16 Nov closes · USD/INR provisional close (rupee up 27 paise) · Tuesday Asian trade under way at press time",
+  "lead": {
+    "kicker": "Markets · AI",
+    "headline": "Nasdaq Slides Into Correction as Nvidia's Board Shuts the Door on Huang Hours Before Results",
+    "deck": "Wall Street fell for a third straight session, with the Nasdaq down 2.5% and nearly 11% below its October peak, while Indian shares bucked the trend on heavy foreign buying.",
+    "body": [
+      "The AI sell-off deepened on Monday. The S&P 500 fell 1.92% to 7,416.59, the Nasdaq Composite dropped 2.49% to 24,509.76 and the Dow lost 739 points, or 1.41%. It was a third consecutive losing day for all three, and the Nasdaq now sits about 10.9% below its 6 October high, meeting the usual definition of a correction. The VIX volatility gauge jumped as high as 24 during the afternoon.",
+      "Nvidia, down about 4%, led the decline after reports that its board is not considering reinstating Jensen Huang, who resigned as chief executive last week, despite a supporters' petition that now claims more than 180,000 signatures. Treasury Secretary Scott Bessent has urged the board to hire from outside and says he wants answers within ten days on whether the company's chips reached China via Singapore and other Asian markets. President Trump said he would not object to Huang's return.",
+      "There was little relief from the data. The New York Fed's Empire State manufacturing index fell to 7.8 in November, far below forecasts, and Fed Chair Kevin Warsh cautioned that AI might disappoint. Treasuries rallied modestly, with the 10-year yield easing to roughly 5.12% from 5.15%. Asian chip stocks extended losses on Tuesday morning, with the Kospi slipping below 5,000.",
+      "India was the exception. The Sensex rose 0.63% and the Nifty 0.58% as foreign investors bought about ₹5,737 crore of shares and rotated away from AI-heavy markets, even as wholesale inflation climbed to 12.29% in October, the highest in the current series. Nvidia reports after the US close tonight (early Wednesday in India), and Anthropic is due to price its IPO on Wednesday."
+    ]
+  },
+  "top": [
+    "The Nasdaq fell 2.5% into correction territory as Nvidia's board signalled it will not bring back Jensen Huang ahead of Tuesday's results.",
+    "India's wholesale inflation rose to 12.29% in October on surging fuel and power prices, the highest in the current WPI series.",
+    "Québecor has made an unsolicited, roughly C$31 billion proposal for Telus, sending its shares up 12%.",
+    "Aon completed its $17 billion purchase of USI, and Canadian Natural agreed to buy Advantage Energy in a $2.53 billion deal.",
+    "Activist Land & Buildings is pressing Invitation Homes to sell houses and return $2 billion a year to shareholders."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "Nasdaq −10.9% from 6 Oct high · VIX intraday 24.05",
+          "headline": "Wall Street Extends Losing Streak to Three Days",
+          "body": "Tech led a broad sell-off as investors cut AI exposure before Nvidia's earnings. A sharp miss on the Empire State factory survey added to the gloom."
+        },
+        {
+          "fig": "Nikkei −2.42% · Kospi −3.59% · Stoxx 600 −0.28%",
+          "headline": "Chip Selling Hits Tokyo and Seoul; Europe Holds Up Better",
+          "body": "The Nikkei closed below 60,000 and the Kospi tumbled on Monday, and both opened lower again on Tuesday. European shares eased only slightly from Friday's record, helped by softer oil and bond yields."
+        },
+        {
+          "fig": "WPI 12.29% (Sep 11.39%) · fuel & power 32.84%",
+          "headline": "Indian Wholesale Inflation Hits Series High",
+          "body": "Fuel and power prices drove the third straight monthly rise, though the reading was slightly below market estimates and ICRA thinks it may mark the peak. Retail inflation is already above the RBI's 6% ceiling."
+        },
+        {
+          "fig": "US 10-yr ≈5.12% · Brent ≈$95 · Gold ≈$3,870",
+          "headline": "Bonds Catch a Bid as Oil and Gold Ease",
+          "body": "Treasury yields slipped a few basis points as stocks fell. Brent dropped about 1%, which helped the rupee firm to around 93.92 per dollar."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "NVDA −4.1% · ≈10% below pre-resignation close",
+          "headline": "Nvidia Slides Again Before First Results Without Huang",
+          "body": "Analysts say the key question tonight is whether management keeps or withdraws its guidance for roughly 70% sales growth next fiscal year, given export-control uncertainty."
+        },
+        {
+          "fig": "TMPV −8.70% · Max Healthcare +6.63% · ITC +3.54%",
+          "headline": "Tata Motors PV Drags as Consumer Names Lift the Nifty",
+          "body": "Tata Motors' passenger-vehicle arm was the worst Nifty stock after its quarterly results, while FMCG and hospital stocks led gains. Kaynes Technology sank 13% after its quarterly profit fell about 62%."
+        },
+        {
+          "fig": "SMMT −16.5% · CGON +14.0%",
+          "headline": "Drug Regulators and Trials Swing Biotech Shares",
+          "body": "Summit Therapeutics fell after the FDA declined to approve its lung cancer drug in its current form, while CG Oncology rallied on a successful late-stage bladder cancer trial."
+        },
+        {
+          "fig": "TSN +8.7% · RCAT −26% after hours",
+          "headline": "Tyson Rises; Red Cat Pulls Its Forecast",
+          "body": "Tyson Foods climbed on mixed quarterly results, while drone maker Red Cat slumped in late trading after withdrawing its 2026 revenue target."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "≈C$31bn · C$6.35 cash + 0.17 Québecor share",
+          "headline": "Québecor Makes Unsolicited Play for Telus",
+          "body": "Telus confirmed the non-binding approach and said it undervalues the company and would leave holders in a more leveraged group. Ottawa says competition and telecom regulators would review any deal."
+        },
+        {
+          "fig": "$17bn · completed",
+          "headline": "Aon Closes Its Purchase of Broker USI",
+          "body": "The deal adds a large US middle-market brokerage that will keep its brand as an Aon company. Aon expects about $395 million of annual cost and revenue synergies."
+        },
+        {
+          "fig": "$2.53bn incl. debt · $13.55 a share cash",
+          "headline": "Canadian Natural to Buy Advantage Energy",
+          "body": "The deal adds about 79,000 barrels of oil equivalent a day of output in Alberta and is targeted to close in the first quarter of 2027."
+        },
+        {
+          "fig": "$1.06bn · completed",
+          "headline": "Hormel Completes Brakebush Acquisition",
+          "body": "The food company closed its purchase of the chicken processor, according to a regulatory filing."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "Target ≥$2bn a year in returns · NAV est. ≈$45/share",
+          "headline": "Land & Buildings Takes Aim at Invitation Homes",
+          "body": "Jonathan Litt's fund argues the single-family landlord's shares trade far below the value of its houses and wants it to sell homes and scale back acquisitions. It has hinted at a 2027 proxy fight."
+        },
+        {
+          "fig": "Q3 13F deadline: 16 Nov",
+          "headline": "Third-Quarter Holdings Filings Land",
+          "body": "Big managers disclosed 30 September positions, giving a view of AI exposure before the November sell-off. Early reports say Bridgewater added Nvidia and Broadcom and trimmed Alphabet and Amazon."
+        },
+        {
+          "fig": "",
+          "headline": "Einhorn's DME Capital Builds an MGM Stake",
+          "body": "David Einhorn's fund opened a new position in MGM Resorts during the third quarter, according to its latest filing."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "Pricing Wed 18 Nov · range $70–78 · ≈6–7x covered",
+          "headline": "Anthropic IPO Heads to Pricing on Strong Demand",
+          "body": "Reports say orders cover the shares on offer several times over, and existing backers will get priority in allocations. Trading is set to begin on Thursday."
+        },
+        {
+          "fig": "FII buy ≈₹5,737 cr · DII sell ≈₹2,254 cr",
+          "headline": "Foreign Money Returns to Indian Equities",
+          "body": "Overseas funds were heavy buyers on Monday as investors looked for markets less exposed to the AI trade. Midcaps and smallcaps still lagged."
+        },
+        {
+          "fig": "₹5,000–6,000 cr · listing likely Jan–Mar 2027",
+          "headline": "Razorpay and MakeMyTrip India Line Up Listings",
+          "body": "Both have SEBI clearance, keeping the IPO pipeline busy even as weekly startup funding slumped 90% to $25.2 million last week."
+        },
+        {
+          "fig": "",
+          "headline": "Inox Wind CEO Resigns After Weak Quarter",
+          "body": "The wind-turbine maker's shares fell after it reported weaker September-quarter earnings and announced its chief executive's exit."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "Stock Market Today, November 16, 2026 — Stock Titan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-16-2026"},
+    {"title": "S&P 500 Closes Down 2% as Nasdaq Leads Broad Market Lower — 24/7 Wall St.", "url": "https://247wallst.com/cards/tech-took-the-worst-of-it-the-nasdaq-s-2-54-drop-nearly-do-gspc-market-bell-01m7k2rvdndtgg635thrxjgnck"},
+    {"title": "Stocks slide to kick off major week for Wall Street — CNN", "url": "https://www.cnn.com/2026/11/16/business/stocks-nvidia-ai-anthropic"},
+    {"title": "Nvidia's board is against bringing back Jensen Huang as CEO — CBS News", "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-reinstatement-petition/"},
+    {"title": "Bessent urges Nvidia to hire an outsider CEO — investingLive", "url": "https://investinglive.com/stocks/weekend-bessent-urges-nvidia-to-hire-an-outsider-ceo-pouring-cold-water-on-a-huang-comeback/"},
+    {"title": "Treasury prices catch a small bid as Warsh says AI might disappoint — CNBC", "url": "https://www.cnbc.com/2026/11/16/treasury-yields-bonds-inflation.html"},
+    {"title": "European stocks close weak after cautious session — Yahoo Finance", "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-weak-cautious-190339591.html"},
+    {"title": "Kospi falls below 5,000, Nikkei drops — TradingKey", "url": "https://www.tradingkey.com/analysis/stocks/more/262307942-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-softbank-kioxia-nvda-tradingkey"},
+    {"title": "Stock Market Close: Sensex ends 512 pts higher, Nifty at 25,291 — Business Standard", "url": "https://www.business-standard.com/markets/news/stock-market-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-november-16-126111600051_1.html"},
+    {"title": "Top gainers and losers, Nov 16 — Upstox", "url": "https://upstox.com/news/market-news/stocks/top-gainers-and-losers-nov-16-max-health-soars-7-tata-consumer-surges-4-tmpv-tumbles-9-check-list/article-203528/"},
+    {"title": "Top Gainers and Losers on November 16, 2026 — Angel One", "url": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-november-16-2026-max-healthcare-institute-and-tata-consumer-gain-while-tata-motors-pv-drops-over-8"},
+    {"title": "Rupee rises 27 paise to close at 93.92 — HDFC Sky", "url": "https://hdfcsky.com/news/rupee-rises-27-paise-to-close-at-93-92-against-us-dollar"},
+    {"title": "Brent crude oil — Trading Economics", "url": "https://tradingeconomics.com/commodity/brent-crude-oil"},
+    {"title": "Gold — Trading Economics", "url": "https://tradingeconomics.com/commodity/gold"},
+    {"title": "Wholesale inflation rises to 12.29% in October — Business Standard", "url": "https://www.business-standard.com/amp/economy/news/wpi-inflation-rises-to-12-29-in-october-as-fuel-power-prices-surge-126111600916_1.html"},
+    {"title": "WPI data October 2026 — Goodreturns", "url": "https://www.goodreturns.in/news/wpi-data-october-2026-fuel-inflation-surges-to-32-84-wholesale-inflation-climbs-for-third-month-1547359.html"},
+    {"title": "TELUS confirms receipt of unsolicited proposal from Québecor — TELUS", "url": "https://www.telus.com/en/about/news-and-events/media-releases/TELUS-confirms-receipt-of-unsolicited-proposal"},
+    {"title": "Quebecor makes $31B offer to acquire Telus — CBC", "url": "https://www.cbc.ca/news/business/quebecor-telus-acquisition-offer-9.7423299"},
+    {"title": "Aon completes $17 billion USI acquisition — Business Insurance", "url": "https://www.businessinsurance.com/aon-completes-17-billion-usi-acquisition/"},
+    {"title": "Canadian Natural buying Advantage Energy — CP24", "url": "https://cp24.com/news/money/2026/11/16/canadian-natural-buying-advantage-energy-in-deal-valued-at-253b-including-debt"},
+    {"title": "Hormel Foods Form 8-K — SEC", "url": "https://www.sec.gov/Archives/edgar/data/0000048465/000004846526000065/hrl-20261113.htm"},
+    {"title": "Hedge fund pressures Invitation Homes to speed up home sales — HousingWire", "url": "https://www.housingwire.com/articles/land-buildings-invitation-homes-activist-letter/"},
+    {"title": "Bridgewater pivoted to AI hardware and energy in Q3 — Futu News", "url": "https://news.futunn.com/en/post/1004664522/bridgewater-pivoted-to-ai-hardware-and-energy-in-the-third"},
+    {"title": "Einhorn's DME Capital adds MGM stake in Q3 — Casino.org", "url": "https://casino.org/news/einhorns-dme-capital-adds-mgm-stake-in-q3"},
+    {"title": "Major investors face the 13F filing deadline on Nov. 16 — KuCoin News", "url": "https://www.kucoin.com/news/flash/major-investors-face-13f-filing-deadline-on-nov-16-new-reports-fill-gaps"},
+    {"title": "Anthropic IPO six times oversubscribed; pricing set for 18 November — Dealroom", "url": "https://dealroom.co/news/172403-anthropic-ipo-six-times-oversubscribed-as-it-targets-64-4b-raise/"},
+    {"title": "Anthropic IPO orders hit nearly 7 times shares on offer — Gulf News", "url": "https://gulfnews.com/business/anthropic-ipo-orders-hit-nearly-7-times-shares-on-offer-1.500748696"},
+    {"title": "Razorpay gets SEBI nod for Rs 5,000-6,000 Cr IPO — BW Disrupt", "url": "https://www.bwdisrupt.com/article/razorpay-gets-sebi-nod-for-rs-5-000-6-000-cr-ipo-listing-likely-in-q1-2027-633553"},
+    {"title": "Weekly startup funding slumps 90% to $25.2 Mn — TechStory", "url": "https://techstory.in/weekly-startup-funding-news-indian-startup-funding-slumps-90-to-25-2-mn/"}
+  ]
+}
