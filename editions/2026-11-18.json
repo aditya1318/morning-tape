@@ -1,0 +1,178 @@
+{
+  "id": "2026-11-18",
+  "issue": 9,
+  "date": "Wednesday, 18 November 2026",
+  "edition": "Morning Edition",
+  "ticker": [
+    {"name": "S&P 500", "value": "7,341.23", "change": "−1.02%", "dir": "down"},
+    {"name": "Dow", "value": "50,748.46", "change": "−1.67%", "dir": "down"},
+    {"name": "Nasdaq", "value": "24,329.34", "change": "−0.74%", "dir": "down"},
+    {"name": "Stoxx 600", "value": "650.72", "change": "−1.75%", "dir": "down"},
+    {"name": "Nikkei 225", "value": "58,860.43", "change": "−1.34%", "dir": "down"},
+    {"name": "Nifty 50", "value": "25,387.40", "change": "+0.38%", "dir": "up"},
+    {"name": "Sensex", "value": "82,532.19", "change": "+0.52%", "dir": "up"},
+    {"name": "USD/INR", "value": "93.51", "change": "−0.43", "dir": "down"}
+  ],
+  "tickerNote": "Tuesday 17 Nov closes · US figures preliminary per Reuters · USD/INR provisional close (rupee up 43 paise)",
+  "lead": {
+    "kicker": "Markets · AI",
+    "headline": "Nvidia Beats and Guides to $130 Billion as Board Rules Out Huang's Return",
+    "deck": "The chipmaker's first results without its founder topped forecasts on every headline measure and lifted the shares after hours, ending a fourth straight losing day for Wall Street on a firmer note.",
+    "body": [
+      "Nvidia reported third-quarter revenue of $115.8 billion after the US close on Tuesday, up 103% from a year earlier and well ahead of analyst estimates near $109 billion. Data-centre sales rose 110% to $107.6 billion, and adjusted earnings came in at $2.68 a share against forecasts of about $2.47. The company guided fourth-quarter revenue to $130 billion, plus or minus 3%, above the roughly $124 billion analysts had pencilled in, and said that outlook assumes no data-centre compute sales to China.",
+      "Interim chief executive Colette Kress, who is also finance chief, said the new Vera Rubin platform had made the fastest start of any product in the company's history, bringing in close to $20 billion in its first quarter. Supply commitments climbed to $390 billion from $279 billion, largely on multi-year memory contracts. The shares rose about 3% in late trading after falling roughly 1.7% during the regular session.",
+      "Leadership hung over the numbers. Earlier on Tuesday, Jensen Huang said in his first public remarks since resigning last week that he would be willing to return if the board wanted him. On the earnings call the board said it had unanimously accepted his resignation and does not intend to reinstate him.",
+      "The rest of the market had a rough day. The S&P 500 fell 1.02% and the Nasdaq 0.74%, both down for a fourth session, their longest losing run since September, while the Dow dropped 1.67%. Software stocks led the declines, and homebuilder sentiment fell to its lowest since 2012. Traders are pricing a roughly 95% chance of a Fed rate rise in December, and the minutes of the last Fed meeting are due today, the same day Anthropic is expected to price its IPO."
+    ]
+  },
+  "top": [
+    "Nvidia's revenue doubled to $115.8 billion and it guided above forecasts, but the board said it will not bring back Jensen Huang.",
+    "Wall Street fell for a fourth day as Salesforce lost about 9% in a software sell-off and Nike slid 6% on a gloomy multi-year outlook.",
+    "Indian shares rose for a second day as Bank Nifty hit a record high and the rupee firmed 43 paise to about 93.51 per dollar.",
+    "TPG is reported to be close to taking Bill Holdings private, sending its shares up about 13%.",
+    "Anthropic kept its $70–78 price range ahead of pricing today, with reports that it will price at the top of the range or above."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "S&P −1.02% · Nasdaq −0.74% · Dow −1.67% · Russell 2000 −1.50%",
+          "headline": "Every Sector Falls as Wall Street Waits on Nvidia",
+          "body": "The S&P 500 closed at a five-month low as software, airlines and banks led a broad decline. Strong retail sales were offset by weaker industrial output and the gloomiest homebuilder survey since April 2012."
+        },
+        {
+          "fig": "Stoxx 600 −1.75% · DAX −2.08% · Nikkei −1.34% · Kospi −2.59%",
+          "headline": "Chip Worries Weigh From Seoul to Frankfurt",
+          "body": "The Kospi closed below 5,000 at its lowest since early February, and the Nikkei fell under 59,000 as Advantest and SoftBank led losses. European benchmarks suffered their sharpest drop in weeks."
+        },
+        {
+          "fig": "Nifty 25,387.40 · Bank Nifty record 62,379 intraday · PSU Bank +2%",
+          "headline": "Banks Carry Indian Shares to a Nine-Month High",
+          "body": "Lenders led a second straight day of gains as cheaper crude and foreign buying supported sentiment, while IT names such as HCL Tech and Infosys lagged. Adani Enterprises and Eicher Motors were the top Nifty gainers."
+        },
+        {
+          "fig": "US 10-yr ≈5.10% · Brent ≈$93 · Gold ≈$3,852 · Dec hike odds ≈95%",
+          "headline": "Markets Brace for a Fed Rate Rise",
+          "body": "Treasury yields eased slightly, but futures now price an almost certain quarter-point increase next month as officials flag sticky inflation. Brent edged up after reports of an Iranian drone strike on Bahrain."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "NVDA ≈+3% after hours · Q4 guide $130bn ±3%",
+          "headline": "Nvidia Rises Late After Beating on Every Major Line",
+          "body": "Hyperscale customer revenue grew 71% to $60.1 billion. Sales to AI cloud providers and enterprises nearly tripled but came in just under estimates."
+        },
+        {
+          "fig": "CRM −9.45% · NKE −6.30%",
+          "headline": "Salesforce Sinks; Nike Sees Sales Falling Until 2028",
+          "body": "Salesforce led a rout in software shares. Nike told its investor day that revenue will shrink through fiscal 2028 before growth resumes, and the stock reversed an early rally."
+        },
+        {
+          "fig": "UNH −5.42% · MOH −5.10% · HD −2.45%",
+          "headline": "Health Insurers Hit by Audit Plan; Home Depot Names New CEO",
+          "body": "Insurers fell after the US Medicare agency proposed widening audits of Medicare Advantage plans. Home Depot beat estimates and named finance chief Richard McPhail as chief executive, but narrowed its profit outlook."
+        },
+        {
+          "fig": "INTC lower · ≈$5.5bn of shares sold",
+          "headline": "Nvidia Trims Its Intel Stake by a Quarter",
+          "body": "Intel shares fell after Nvidia disclosed it had cut its holding by about 25%. Deutsche Bank's US-listed shares lost about 5% after a reported leak of internal files."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "BILL +12.6% · market value ≈$4.8bn before report",
+          "headline": "TPG Said to Near Take-Private of Bill Holdings",
+          "body": "The Financial Times reported that a deal for the payments software firm could be agreed within days at a premium, though talks could still fall apart. Activists Elliott and Starboard had pushed the company to explore a sale."
+        },
+        {
+          "fig": "Up to $1.5bn · cash plus milestones",
+          "headline": "Lilly to Buy Calytrix Bio",
+          "body": "Eli Lilly agreed to acquire the Massachusetts biotech for its experimental antibody aimed at two rare blood cancers, myelofibrosis and essential thrombocythemia."
+        },
+        {
+          "fig": "Terms undisclosed · close expected H1 2027",
+          "headline": "UPS Expands Healthcare Logistics Down Under",
+          "body": "UPS agreed to acquire Smartways Logistics, a healthcare logistics provider in Australia and New Zealand, subject to regulatory approval."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "BILL holders: Elliott, Starboard",
+          "headline": "Activist Pressure Pays Off at Bill Holdings",
+          "body": "Elliott and Starboard became top shareholders last year and won four board seats before pushing for a sale. A TPG buyout would be a clear win for both campaigns."
+        },
+        {
+          "fig": "13F as of 30 Sep",
+          "headline": "Elliott Raises Norwegian Cruise Stake, Cuts HPE",
+          "body": "Quarterly filings show Elliott added to its holding in Norwegian Cruise Line and reduced positions in Hewlett Packard Enterprise and Seadrill."
+        },
+        {
+          "fig": "SharonAI stake >$440m at 30 Sep",
+          "headline": "Aschenbrenner's AI Fund Rebuilt Before the Rout",
+          "body": "Situational Awareness, which came close to collapse in July, had rebuilt a large public AI portfolio by the end of September, before October's sell-off hit several of its holdings."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "Range $70–78 · 825m shares · Nasdaq: ANT",
+          "headline": "Anthropic Holds Its Range Before Tonight's Pricing",
+          "body": "An updated filing kept the price range unchanged, but reports say the company is guiding investors to the top of the range or above on demand of roughly six to seven times the shares offered. Trading is due to begin on Thursday."
+        },
+        {
+          "fig": "₹2,500 cr · floor ₹161.03/share",
+          "headline": "Urban Company Opens Share Sale to Fund InstaHelp",
+          "body": "The home-services firm launched a qualified institutional placement, setting the floor about 6% below its last close. About ₹600 crore is earmarked for its instant domestic-help business after quarterly losses widened."
+        },
+        {
+          "fig": "",
+          "headline": "Costlier Freight and Packaging Squeeze D2C Brands",
+          "body": "Higher crude prices are lifting shipping, raw material and plastic packaging costs, and food and beverage brands are the most exposed. Many smaller brands are weighing smaller pack sizes and fewer discounts rather than price rises, and relief from cheaper oil may take months to reach their bills."
+        },
+        {
+          "fig": "$24m seed · Bharat Semi | $53m · Dreamteam",
+          "headline": "Chip and AI Startups Draw Fresh Funding",
+          "body": "Bharat Semi raised $24 million led by Info Edge, South Park Commons and Indus Bridge to build AI-enabled camera sensors, and Dreamteam raised $53 million for AI customer-management tools."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "Wall Street ends lower ahead of Nvidia earnings, Anthropic debut — MarketScreener (Reuters)", "url": "https://www.marketscreener.com/news/wall-street-ends-lower-ahead-of-nvidia-earnings-anthropic-debut-ce785edcdc8df226"},
+    {"title": "Closing Look — Tuesday, November 17, 2026 — Capp Notes", "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-17"},
+    {"title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027 — NVIDIA", "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"},
+    {"title": "Nvidia beats third-quarter estimates as revenue more than doubles — Yahoo Finance UK", "url": "https://uk.finance.yahoo.com/news/nvidia-beats-third-quarter-estimates-214100513.html"},
+    {"title": "Jensen Huang says he'd be willing to return to Nvidia — The Washington Post", "url": "https://www.washingtonpost.com/technology/2026/11/17/jensen-huang-says-hed-be-willing-return-nvidia-first-remarks-since-exit/"},
+    {"title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO — NPR", "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress"},
+    {"title": "KOSPI and Nikkei 225 decline on November 17 — KuCoin News", "url": "https://www.kucoin.com/news/flash/kospi-and-nikkei-225-drop-on-november-17"},
+    {"title": "Market wrap, Nov 17: Nifty 50 ends at 25,387 — Upstox", "url": "https://upstox.com/news/market-news/stocks/market-wrap-nov-17-nifty-50-ends-at-25-387-sensex-closes-427-pts-higher-as-banking-stocks-power-gains-check-factors/article-203581/"},
+    {"title": "Closing Bell, 17 November 2026 — Kotak Neo", "url": "https://www.kotakneo.com/news/market-news/sensex-nifty-end-higher-as-crude-prices-fall-and-fii-buying-rises/"},
+    {"title": "Rupee rises 43 paise to close at 93.51 (provisional) — Metro Vaartha", "url": "https://english.metrovaartha.com/economy/market/rupee-rises-43-paise-to-close-at-9351-provisional-against-us-dollar"},
+    {"title": "Nike sees revenue falling through 2028 — Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/nike-sees-revenue-falling-2028-001323204.html"},
+    {"title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations — CNBC", "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html"},
+    {"title": "TPG eyes take-private deal for Bill Holdings within days — PYMNTS", "url": "https://www.pymnts.com/news/acquiring/2026/tpg-eyes-take-private-deal-bill-holdings-within-days/"},
+    {"title": "TPG nears deal to take Bill Holdings private, FT reports — TipRanks", "url": "https://www.tipranks.com/news/the-fly/tpg-nears-deal-to-take-bill-holdings-private-ft-reports-thefly-news"},
+    {"title": "Lilly agrees to acquire Calytrix Bio for $1.5bn — Pharmaceutical Technology", "url": "https://www.pharmaceutical-technology.com/news/lilly-to-acquire-calytrix-bio-1-5bn/"},
+    {"title": "UPS announces agreement to acquire Smartways Logistics — Yahoo Finance", "url": "https://finance.yahoo.com/healthcare/articles/ups-announces-agreement-acquire-smartways-210000837.html"},
+    {"title": "Elliott 13-F: raises stake in NCLH, cuts HPE — Newsquawk", "url": "https://newsquawk.com/headlines/elliott-13-f-raises-stake-in-nclh-cuts-hpe"},
+    {"title": "Hedge fund Situational Awareness rebuilt AI bets before October rout — Quartz", "url": "https://qz.com/situational-awareness-hedge-fund-ai-bets-october-rout-111726"},
+    {"title": "Anthropic is guiding its IPO price to the top of its range or above — Quartz", "url": "https://qz.com/anthropic-ipo-price-top-range-guidance-111726"},
+    {"title": "Anthropic filing keeps IPO price range at $70 to $78 — TokenPost", "url": "https://www.tokenpost.com/news/business/60016"},
+    {"title": "Urban Company launches Rs 2,500 crore QIP — Zee Business", "url": "https://www.zeebiz.com/market-news/news-urban-company-launches-rs-2500-crore-qip-sets-floor-price-at-rs-161-per-share-405668"},
+    {"title": "Daily Indian Funding Roundup — 17 November 2026 — StartupTalky", "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-17-november-2026/"},
+    {"title": "D2C Price Hike, Bharat Semi Bags $24 Mn & More — Inc42", "url": "https://inc42.com/buzz/d2c-price-hike-bharat-semi-bags-24-mn-more/"},
+    {"title": "Bharat Semi raises $24 Mn to build smart sensors for physical AI — Inc42", "url": "https://inc42.com/buzz/bharat-semi-raises-24-mn-to-build-smart-sensors-for-physical-ai/"}
+  ]
+}

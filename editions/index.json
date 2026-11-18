@@ -1,6 +1,13 @@
 {
   "editions": [
     {
+      "id": "2026-11-18",
+      "issue": 9,
+      "date": "Wednesday, 18 November 2026",
+      "edition": "Morning Edition",
+      "headline": "Nvidia Beats and Guides to $130 Billion as Board Rules Out Huang's Return"
+    },
+    {
       "id": "2026-11-17",
       "issue": 8,
       "date": "Tuesday, 17 November 2026",
