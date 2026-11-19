@@ -1,0 +1,182 @@
+{
+  "id": "2026-11-19",
+  "issue": 10,
+  "date": "Thursday, 19 November 2026",
+  "edition": "Morning Edition",
+  "ticker": [
+    {"name": "S&P 500", "value": "7,323.64", "change": "−0.23%", "dir": "down"},
+    {"name": "Dow", "value": "50,198.17", "change": "−1.11%", "dir": "down"},
+    {"name": "Nasdaq", "value": "24,429.89", "change": "+0.42%", "dir": "up"},
+    {"name": "Stoxx 600", "value": "644.05", "change": "−1.03%", "dir": "down"},
+    {"name": "Nikkei 225", "value": "59,024.28", "change": "+0.28%", "dir": "up"},
+    {"name": "Nifty 50", "value": "25,227.95", "change": "−0.63%", "dir": "down"},
+    {"name": "Sensex", "value": "82,031.81", "change": "−0.61%", "dir": "down"},
+    {"name": "USD/INR", "value": "93.44", "change": "−0.07", "dir": "down"}
+  ],
+  "tickerNote": "Wednesday 18 Nov closes · USD/INR provisional close (rupee up 7 paise)",
+  "lead": {
+    "kicker": "Markets · IPOs",
+    "headline": "Anthropic Prices a Record $81 Billion IPO Above Range as Hawkish Fed Minutes Rattle Wall Street",
+    "deck": "The Claude maker sold upsized stock at $83 a share, valuing it near $1.5 trillion ahead of its Nasdaq debut today, while minutes from the Fed's October meeting pushed the S&P 500 to a fifth straight loss.",
+    "body": [
+      "Anthropic priced its initial public offering at $83 a share on Wednesday, above the $70–78 range it had marketed, and enlarged the deal to about 980 million shares from 825 million. The sale raises roughly $81.3 billion, overtaking SpaceX's June listing as the largest IPO on record by gross proceeds, and gives the company a fully diluted value of about $1.5 trillion. The shares are due to begin trading on Nasdaq today under the ticker ANT.",
+      "Alongside the offering, a group of technology companies including Google, Microsoft, Nvidia and AMD agreed to buy a combined $26 billion of stock at the IPO price. The prospectus shows revenue of $33.24 billion for the nine months to September, up roughly twelvefold, and an annualised revenue run rate of about $81 billion at the end of October. Each of the seven co-founders is selling 3.38 million shares. Amazon, which holds a large stake, rose 3.8%.",
+      "The listing landed on a difficult day for the broader market. Minutes of the Fed's October meeting showed almost all officials expect further rate rises may be needed, and a few argued for a half-point move if inflation data came in hot. The S&P 500 gave up early gains to close 0.23% lower at 7,323.64, slipping below its 200-day moving average, and the Dow fell 1.11%. The Nasdaq rose 0.42% as AMD and Amazon gained.",
+      "Nvidia fell 2.9% the day after beating forecasts, as uncertainty over Jensen Huang's exit lingered. The dollar climbed to a 19-month high, gold slid 3.5% to about $3,729 an ounce and markets now price a near-certain quarter-point Fed increase in December."
+    ]
+  },
+  "top": [
+    "Anthropic priced its IPO at $83, above range, raising about $81.3 billion in the largest listing on record; trading starts today.",
+    "Fed minutes showed nearly all officials see more hikes ahead, sending the S&P 500 to a fifth straight loss and the dollar to a 19-month high.",
+    "Health insurers plunged as Humana fell 13% and UnitedHealth 10% on a plan to widen Medicare Advantage audits.",
+    "Palo Alto Networks agreed to buy AI start-up Applied Compute for $4.5 billion in stock, and its shares jumped about 10%.",
+    "Indian shares snapped a two-day rally on profit booking, with Titan down 5% as gold and silver slid."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "S&P −0.23% · Dow −1.11% · Nasdaq +0.42% · Russell 2000 +0.46%",
+          "headline": "Fed Minutes Flip Wall Street Into the Red",
+          "body": "The S&P 500 was higher until the October minutes showed broad support for further tightening, then closed lower for a fifth day, its longest losing run since June. Health care dragged while tech and consumer names held up."
+        },
+        {
+          "fig": "Stoxx 600 −1.03% · DAX −1.19% · FTSE −1.30% · Kospi +1.99% · Nikkei +0.28%",
+          "headline": "Asia Rebounds on Nvidia, Europe Slides",
+          "body": "The Kospi reclaimed 5,000 as SK Hynix rallied on Nvidia's results and the Nikkei snapped a four-day losing streak. European indices fell for a second day, and Hong Kong's Hang Seng lost 0.91%."
+        },
+        {
+          "fig": "Nifty 25,227.95 · Midcap −1.2% · Metal −2.5% · Consumer Durables ≈−3%",
+          "headline": "Profit Booking Pulls Indian Shares Off Nine-Month Highs",
+          "body": "Benchmarks fell after a roughly 13% rally over 12 sessions, with metal, auto and IT stocks leading losses and declining shares outnumbering gainers about two to one. PSU banks, pharma and media edged higher."
+        },
+        {
+          "fig": "US 10-yr ≈5.07% · DXY 103.80 · Brent $91.95 · WTI $83.26 · Gold $3,728.80",
+          "headline": "Dollar Hits 19-Month High as Gold Sinks",
+          "body": "Gold fell 3.5% to its lowest since September 2025 and silver dropped almost 5%, while WTI crude slid 3.2% after a large US inventory build. Cheaper oil helped the rupee firm slightly to about 93.44 per dollar."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "HUM −12.98% · UNH −10.21% · ELV −7.63%",
+          "headline": "Insurers Sink as Medicare Audit Plan Widens",
+          "body": "A proposal from the US Medicare agency would let audit findings be applied to broader payments and recover improper payments dating back to 2018, extending the previous day's sell-off in managed-care stocks."
+        },
+        {
+          "fig": "TJX +8.05% · TGT ≈+4% · TTWO +6.2%",
+          "headline": "Retailers Rally on Upbeat Holiday Outlooks",
+          "body": "TJX beat on comparable sales and raised its full-year outlook, and Target gained on a positive holiday forecast. Take-Two climbed ahead of the Grand Theft Auto VI rollout; Walmart reports today."
+        },
+        {
+          "fig": "PANW +9.90% · S +10.35% · CRWD +7.95% · NVDA −2.89% · AMD +5.3%",
+          "headline": "Cybersecurity Jumps While Nvidia Slips",
+          "body": "Security stocks rallied on Palo Alto's results and guidance and after a US agency urged organisations to patch a critical Java flaw. Nvidia lost ground despite its beat, after its chair reiterated that Huang will not return."
+        },
+        {
+          "fig": "TITAN −5.30% · SBIN +2.38% · CIPLA +2.13% · IIFL ≈+4%",
+          "headline": "Titan Tumbles as Gold Slides; Cipla Gains on FDA Clearance",
+          "body": "Jewellery stocks fell as gold and silver extended their slide for a sixth session. Cipla rose after the US FDA closed an inspection of its InvaGen plant with no action indicated."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "$4.5bn · all stock · close expected 2027",
+          "headline": "Palo Alto Buys Applied Compute for $4.5 Billion",
+          "body": "The cybersecurity group will acquire the San Francisco AI start-up, founded by former OpenAI staff, at about $1.25 billion above its valuation from a funding round earlier this month. It follows Palo Alto's earlier deals for CyberArk and Chronosphere."
+        },
+        {
+          "fig": "$1.2bn cash · ≈$1.1bn net proceeds",
+          "headline": "Textron Sells Industrial Arm to Kingswood",
+          "body": "An affiliate of Kingswood Capital Management will buy the Kautex and Specialized Vehicles businesses, leaving Textron a pure aerospace and defence company. Textron plans to use the proceeds for buybacks in 2027."
+        },
+        {
+          "fig": "$370m block deal",
+          "headline": "Fairfax Exits IIFL Finance",
+          "body": "Fairfax Financial sold its entire stake in the Indian lender through a block deal, and IIFL's shares rose about 4% on the day."
+        },
+        {
+          "fig": "₹66 cr · 23% stake",
+          "headline": "Mufin Green Finance to Buy Into BimaPay",
+          "body": "The listed NBFC's board approved buying a 23% stake in the insurtech start-up for ₹66 crore."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "Oct −1.2% · YTD +9.2% · macro −4.5% · inflows $4.1bn",
+          "headline": "Macro Funds Lead a Losing October",
+          "body": "Citco data show hedge funds lost 1.2% on average in October, with global macro and equity strategies hit hardest while event-driven funds made money. Investors still added money for a tenth straight month, bringing year-to-date inflows to $136 billion."
+        },
+        {
+          "fig": "Coatue Anthropic stake ≈$10bn",
+          "headline": "Coatue Set for a Windfall From Anthropic",
+          "body": "Bloomberg reported that Coatue's holding in Anthropic was worth about $10 billion at the IPO's target valuation, which would be higher at the final $83 price."
+        },
+        {
+          "fig": "Browning West ≈1.37% of DKS",
+          "headline": "Activists Walk Away From Dick's Sporting Goods",
+          "body": "Filings show four activist funds sold out of the retailer in the third quarter after a profit warning, while Browning West doubled its holding and remains the one still pressing the company."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "₹485 cr Series E · ≈200 stores · FY26 revenue >₹1,150 cr",
+          "headline": "Style Union Raises ₹485 Crore to Push Into North and West India",
+          "body": "Venturi Partners and Elev8 co-led the round for the value-fashion brand, founded by Rakesh and Ekta Biyani, which competes with Zudio and V-Mart. It is one of several D2C fashion brands betting on physical stores."
+        },
+        {
+          "fig": "$15m Series A · 4 cr eggs a month · FY27 target >₹350 cr",
+          "headline": "Egg Brand Henfruit Takes First Outside Money",
+          "body": "Lok Capital, DSG Consumer Partners and RPSG Capital Ventures backed the brand, which had been bootstrapped for more than a decade. It plans to widen distribution beyond quick-commerce and marketplaces and leans on lab testing as food regulators step up scrutiny."
+        },
+        {
+          "fig": "₹1,905 cr · 1.4% of Groww",
+          "headline": "Ribbit Trims Groww Stake; PB Fintech Co-Founder Steps Back",
+          "body": "Ribbit Capital sold part of its Groww holding through block deals. Separately, PB Fintech co-founder Alok Bansal is stepping down from his executive role."
+        },
+        {
+          "fig": "$18m · Boba Bhai | $47m · Humyn Labs",
+          "headline": "QSR and Robotics Start-Ups Draw Capital",
+          "body": "Bubble-tea chain Boba Bhai raised $18 million to build a multi-brand quick-service restaurant group, and Humyn Labs raised $47 million to collect training data for robots."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "Anthropic IPO raises over $81 billion in largest offering on record — CNBC", "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"},
+    {"title": "Anthropic announces price of $83 per share for IPO — ABC News", "url": "https://abcnews.com/Business/anthropic-announces-price-83-share-ipo/story?id=138245320"},
+    {"title": "Wall Street ends mixed after Nvidia earnings, Fed minutes — Reuters via Lufkin Daily News", "url": "https://lufkindailynews.com/news_reuters/business/wall-street-ends-mixed-after-nvidia-earnings-fed-minutes/article_757d7e1e-451b-5fc3-914c-44086229e225.html"},
+    {"title": "Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead — The Motley Fool", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-s-and-p-500-breaks-key-support-as-fed-minutes-signal-more-rate-hikes-ahead/"},
+    {"title": "Closing Look — Wednesday, November 18, 2026 — Capp Notes", "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-18"},
+    {"title": "Market close report, November 18, 2026 — HDFC Sky", "url": "https://hdfcsky.com/news/market-close-report-today-november-18-2026-nifty-sensex-decline-after-recent-rally-as-profit-booking-sets-in"},
+    {"title": "Closing Bell, 18 November 2026 — Kotak Neo", "url": "https://www.kotakneo.com/news/market-news/market-wrap-18-november-2026-profit-booking-and-a-drag-in-metal-stocks-pull-benchmarks-down/"},
+    {"title": "Rupee closes higher at 93.44 — Telangana Today", "url": "https://telanganatoday.com/rupee-closes-higher-at-93-44-despite-strong-dollar-and-market-weakness"},
+    {"title": "Top gainers and losers on November 18, 2026 — Angel One", "url": "https://www.angelone.in/news/market-updates/top-gainers-and-losers-on-november-18-2026-sbi-and-cipla-gain-while-titan-company-drops-over-5"},
+    {"title": "Titan share price falls as gold slides — Univest", "url": "https://univest.in/blogs/titan-share-price-kalyan-jewellers-gold-silver-fall"},
+    {"title": "Palo Alto Networks to acquire Applied Compute in $4.5 billion all-stock deal — KuCoin News", "url": "https://www.kucoin.com/news/flash/palo-alto-networks-to-acquire-applied-compute-in-4-5-billion-all-stock-deal"},
+    {"title": "Textron Form 8-K press release — SEC", "url": "https://www.sec.gov/Archives/edgar/data/0000217346/000110465926129345/tm2629751d1_ex99-1.htm"},
+    {"title": "Kingswood affiliate to acquire Textron Industrial segment — MarketScreener", "url": "https://www.marketscreener.com/news/affiliate-of-kingswood-capital-management-lp-entered-into-a-definitive-agreement-to-acquire-industr-ce785edddd8bff2c"},
+    {"title": "Mufin Green Finance to acquire 23% stake in BimaPay — Inc42", "url": "https://inc42.com/buzz/mufin-green-finance-to-acquire-23-stake-in-bimapay-for-%e2%82%b966-cr/"},
+    {"title": "Hedge funds lose 1.2% in October as macro strategies slump, Citco finds — Hedgeweek", "url": "https://hedgeweek.com/news/hedge-funds-lose-1-2-in-october-as-macro-strategies-slump-citco-finds"},
+    {"title": "Anthropic IPO: Hedge fund Coatue has $10 billion stake — Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-ipo-hedge-fund-coatue-has-10-billion-stake-in-claude-maker"},
+    {"title": "Activist hedge funds walked away from Dick's after a profit warning — Finimize", "url": "https://finimize.com/content/activist-hedge-funds-walked-away-from-dicks-after-a-profit-warning"},
+    {"title": "Style Union bags ₹485 Cr to expand store network — Inc42", "url": "https://inc42.com/buzz/omnichannel-fashion-brand-style-union-bags-%e2%82%b9485-cr-to-expand-store-network/"},
+    {"title": "Egg brand Henfruit raises $15 Mn in first external funding round — Inc42", "url": "https://inc42.com/buzz/egg-brand-henfruit-raises-15-mn-in-first-external-funding-round/"},
+    {"title": "Ribbit Capital sells 1.4% stake in Groww for ₹1,905 Cr — Inc42", "url": "https://inc42.com/buzz/ribbit-capital-sells-1-4-stake-in-groww-for-%e2%82%b91905-cr-via-block-deals/"},
+    {"title": "PB Fintech cofounder Alok Bansal to step down from executive role — Inc42", "url": "https://inc42.com/buzz/pb-fintech-cofounder-alok-bansal-to-step-down-from-executive-role/"},
+    {"title": "Boba Bhai bags $18 Mn to build a multi-brand QSR chain — Inc42", "url": "https://inc42.com/buzz/boba-bhai-bags-18-mn-to-build-a-multi-brand-qsr-chain/"},
+    {"title": "Humyn Labs raises $47 Mn to collect training data for robots — Inc42", "url": "https://inc42.com/buzz/humyn-labs-raises-47-mn-to-collect-training-data-for-robots/"}
+  ]
+}

@@ -1,6 +1,13 @@
 {
   "editions": [
     {
+      "id": "2026-11-19",
+      "issue": 10,
+      "date": "Thursday, 19 November 2026",
+      "edition": "Morning Edition",
+      "headline": "Anthropic Prices a Record $81 Billion IPO Above Range as Hawkish Fed Minutes Rattle Wall Street"
+    },
+    {
       "id": "2026-11-18",
       "issue": 9,
       "date": "Wednesday, 18 November 2026",
