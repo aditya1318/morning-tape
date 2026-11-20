@@ -1,0 +1,179 @@
+{
+  "id": "2026-11-20",
+  "issue": 11,
+  "date": "Friday, 20 November 2026",
+  "edition": "Morning Edition",
+  "ticker": [
+    {"name": "S&P 500", "value": "7,175.83", "change": "−2.02%", "dir": "down"},
+    {"name": "Dow", "value": "49,097.06", "change": "−2.19%", "dir": "down"},
+    {"name": "Nasdaq", "value": "23,879.20", "change": "−2.25%", "dir": "down"},
+    {"name": "Stoxx 600", "value": "638.41", "change": "−0.88%", "dir": "down"},
+    {"name": "Nifty 50", "value": "25,514.30", "change": "+1.14%", "dir": "up"},
+    {"name": "Sensex", "value": "83,021.75", "change": "+1.21%", "dir": "up"},
+    {"name": "USD/INR", "value": "93.36", "change": "−0.05", "dir": "down"}
+  ],
+  "tickerNote": "Thursday 19 Nov closes · USD/INR provisional close (rupee up 5 paise)",
+  "lead": {
+    "kicker": "Markets · IPOs",
+    "headline": "Anthropic Jumps 17% in Its Debut, but the Dow Sinks 1,100 Points as AI Selling Spreads",
+    "deck": "The Claude maker's shares opened at $111.50 and closed at $97.17, while a broad afternoon sell-off sent the S&P 500 to a sixth straight loss and dragged Tokyo and Seoul down sharply this morning.",
+    "body": [
+      "Anthropic began trading on Nasdaq under the ticker ANT on Thursday, with the first trade crossing at $111.50 shortly before noon New York time, about 34% above the $83 IPO price. The stock touched $114.99 within a minute, then slid as low as $92.72 before closing at $97.17, a gain of about 17% on the day. Roughly 832 million shares changed hands, and the stock eased further to around $92.60 in after-hours trading.",
+      "The debut did not lift the wider market. Stocks opened higher but fell through the afternoon and closed near their lows: the Dow dropped 1,101 points, or 2.19%, to 49,097.06, ending below 50,000, while the S&P 500 lost 2.02% and the Nasdaq 2.25%. More than nine in ten S&P 500 members fell. AMD lost 7.7% after a media report about links to a blacklisted Chinese server maker, and Nvidia, Amazon, Alphabet and Meta each fell more than 3%.",
+      "Macro data added to the unease. The Philadelphia Fed factory gauge dropped to 6.3 from 20.9, its weakest since May, and jobless claims edged up to 203,000. Futures still price roughly a 90% chance of a quarter-point Fed rate rise in December. The 10-year Treasury yield eased to about 5.04%, gold fell below $3,650 an ounce to a 14-month low and the VIX volatility gauge jumped about 16%.",
+      "The sell-off rolled into Asia on Friday. SoftBank Group, a heavy investor in OpenAI, fell about 16%, and Tokyo Electron, SK Hynix and Samsung Electronics all dropped sharply, pulling the Kospi below 5,000. Indian shares had rallied on Thursday before the US slide, with the Sensex up 1.21% on strong auto stocks and foreign buying."
+    ]
+  },
+  "top": [
+    "Anthropic closed its first trading day at $97.17, about 17% above its $83 IPO price, after opening at $111.50.",
+    "The Dow fell 1,101 points to below 50,000 and the S&P 500 lost 2% for a sixth straight decline as AI and chip stocks led a broad sell-off.",
+    "TPG and Corpay agreed to buy BILL Holdings for about $6 billion, and Bending Spoons agreed to buy Mailchimp from Intuit for about $3.7 billion.",
+    "Insmed jumped about 21% after Bloomberg reported Sanofi is weighing a takeover.",
+    "Indian shares hit a nine-month high, with the Sensex up 990 points as Maruti Suzuki led a 4.4% jump in auto stocks."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "S&P −2.02% · Dow −2.19% · Nasdaq −2.25% · VIX ≈28",
+          "headline": "Wall Street's Losing Streak Reaches Six Days",
+          "body": "An early rise faded into a session-long decline as worries over rates, valuations and AI spending outweighed Anthropic's strong start. Industrials fell 2.6%, while energy and consumer staples were among the few sectors to finish slightly higher."
+        },
+        {
+          "fig": "Stoxx 600 −0.88% · DAX −1.06% · FTSE −0.93% · CAC ≈−0.8%",
+          "headline": "Europe Falls for a Fourth Session",
+          "body": "The Stoxx 600 closed at its lowest since late October, with food and beverage and healthcare shares leading losses. On Friday morning in Asia, the Kospi fell more than 3.5% and the Nikkei slid sharply as chip and AI names were sold."
+        },
+        {
+          "fig": "Nifty 25,514.30 · Auto +4.4% · Consumer Durables +3.2% · IT −1.1%",
+          "headline": "Indian Shares Shrug Off Fed Minutes to Hit Nine-Month High",
+          "body": "After a weak open, 15 of 16 sector indices closed higher, helped by festive-season vehicle demand, lower crude prices and foreign buying that has reached a record $11.28 billion this month. IT stocks were the main drag on US rate worries."
+        },
+        {
+          "fig": "US 10-yr ≈5.04% · Brent $91.98 · WTI $83.21 · Gold ≈$3,626 · ₹93.36/$",
+          "headline": "Gold Slides to a 14-Month Low; Rupee Firms for a Fourth Day",
+          "body": "Gold fell about 2.7% and silver nearly 5% as markets priced a likely December Fed hike, while oil was little changed. The rupee closed 5 paise firmer on foreign inflows."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "ANT $97.17 · +17.1% vs IPO · high $114.99 · low $92.72",
+          "headline": "Anthropic Holds a Gain After a Volatile First Day",
+          "body": "The stock gave back much of its opening jump but stayed well above its offer price. Leveraged ETFs tracking the shares are expected to start trading on Monday."
+        },
+        {
+          "fig": "AMD −7.72% · NVDA −3.30% · AMZN −3.87% · GOOGL −3.46% · CRWV −6.10%",
+          "headline": "AI Bellwethers Lead the Retreat",
+          "body": "AMD fell the most among large chipmakers after a report on alleged ties to a blacklisted Chinese firm, and AI infrastructure names such as CoreWeave and Nebius dropped further. In Tokyo on Friday, SoftBank fell about 16%."
+        },
+        {
+          "fig": "INSM +20.58% · PANW +6.42% · WMT −1.04% · SEAT +63%",
+          "headline": "Insmed Soars on Sanofi Interest; Walmart Slips Despite Beat",
+          "body": "Insmed rallied after a report that Sanofi is exploring a bid, while Palo Alto gained for a second day. Walmart beat forecasts and raised its outlook for the third time this year, but the new guidance was more cautious than some analysts hoped."
+        },
+        {
+          "fig": "MARUTI ≈+7.6% · EICHER ≈+4.7% · M&M ≈+4.5% · HUL ≈+4.1% · INFY ≈−1.5%",
+          "headline": "Carmakers Drive Dalal Street Higher",
+          "body": "Maruti Suzuki led Nifty gainers as auto stocks rallied on demand and cheaper oil, and Hindustan Unilever also climbed. Infosys, Tech Mahindra and TCS were among the laggards."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "≈$6bn · $63.25 a share cash · 31% premium · close H1 2027",
+          "headline": "TPG and Corpay to Take BILL Private",
+          "body": "TPG will acquire the payments-software company, with Corpay taking a minority stake. The price is a 31% premium to BILL's 60-day average share price."
+        },
+        {
+          "fig": "$3.68bn EV · Intuit reinvests $368m · close early 2027",
+          "headline": "Bending Spoons Buys Mailchimp From Intuit",
+          "body": "The Italian software group will pay mostly in cash, with Intuit taking new Bending Spoons shares for part of the price. Intuit paid $12 billion for Mailchimp in 2021."
+        },
+        {
+          "fig": "Insmed value ≈$26bn before the report",
+          "headline": "Sanofi Weighs a Bid for Insmed",
+          "body": "Bloomberg reported the French drugmaker is studying a takeover with advisers, as it looks for growth ahead of patent expiries on Dupixent. No deal has been agreed, and Sanofi declined to comment."
+        },
+        {
+          "fig": "$8.2bn · completed",
+          "headline": "AMD Closes World Labs Purchase",
+          "body": "AMD completed its $8.2 billion acquisition of the AI start-up. Separately, MTN and IHS pushed the deadline for their $6.2 billion deal back to 17 December while awaiting regulatory approvals."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "Stake 5.85% · Carronade AUM ≈$4.5bn",
+          "headline": "Carronade Steps Up Pressure on Brookdale",
+          "body": "The activist fund lifted its stake in Brookdale Senior Living above 5% and is pushing for changes that could include board seats, capital allocation and a possible conversion to a REIT, Reuters reported."
+        },
+        {
+          "fig": "≈$4bn hedge fund book · exit by Oct 2028",
+          "headline": "Maryland Pension to Wind Down Its Hedge Funds",
+          "body": "The roughly $81 billion state pension plans to phase out its absolute-return portfolio after years of returns lagging stocks, shifting money toward private credit, infrastructure and equities."
+        },
+        {
+          "fig": "",
+          "headline": "Funds Warn of Strain in Weaker Credit",
+          "body": "Hedge fund investors told Bloomberg that stress is building among the weakest borrowers, pointing to private credit and debt-funded AI projects as areas to watch."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "Q3 revenue $188.8bn · EPS $0.65 · US e-commerce +23%",
+          "headline": "Walmart Raises Its Outlook a Third Time",
+          "body": "The retailer now expects full-year sales growth of 4.9% to 5.2%, helped by online orders, and its chief executive said it aims to keep prices low despite higher fuel costs."
+        },
+        {
+          "fig": "Q3 revenue $17.0bn · net loss $23.3bn",
+          "headline": "Anthropic's First Public Numbers Show Heavy Losses",
+          "body": "The final prospectus showed a modest operating loss for the September quarter but a much larger net loss. Amazon and Google will hold about 14.6% and 13.4% of the company after the IPO, through non-voting shares."
+        },
+        {
+          "fig": "$12m · August AI | $8m · Disseqt AI",
+          "headline": "Indian AI Start-Ups Raise Fresh Capital",
+          "body": "Accel, Peak XV and Claypond Capital backed August AI, whose assistant handles tasks such as booking doctor appointments and checking bills in the US. Disseqt AI raised $8 million to expand overseas."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses — The Motley Fool", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-dow-plunges-1-100-points-as-the-s-and-p-500-suffers-its-6th-straight-day-of-losses/"},
+    {"title": "Stock Market Today, November 19, 2026 — Stock Titan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026"},
+    {"title": "Anthropic IPO live: ANT first trading day — Stock Titan", "url": "https://www.stocktitan.net/articles/anthropic-ipo-live-ant-first-trading-day-2026"},
+    {"title": "How major US stock indexes fared Thursday 11/19/2026 — The Washington Post", "url": "https://www.washingtonpost.com/business/2026/11/19/wall-street-stocks-dow-nasdaq/6aaf39d0-e463-11f1-a99e-b3e3805c6b8b_story.html"},
+    {"title": "Gold falls below $3,650, silver tumbles as Fed rate concerns pressure metals — Kitco", "url": "https://kitco.com/news/article/2026-11-19/gold-falls-below-3650-silver-tumbles-fed-rate-concerns-pressure-metals"},
+    {"title": "European Stocks Decline in Longest Losing Streak Since August — Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-19/european-stocks-rebound-as-anthropic-ipo-revives-the-ai-trade"},
+    {"title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks — CNBC", "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html"},
+    {"title": "Kospi falls below 5,000, Nikkei drops — TradingKey", "url": "https://www.tradingkey.com/analysis/stocks/more/262314224-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-softbank-kioxia-anthropic-ant-krx-tradingkey"},
+    {"title": "Market close report, November 19, 2026 — HDFC Sky", "url": "https://hdfcsky.com/news/market-close-report-today-november-19-2026-nifty-sensex-stage-sharp-recovery-as-fed-fails-to-scare-stocks"},
+    {"title": "Closing Bell, 19 November 2026 — Kotak Neo", "url": "https://www.kotakneo.com/news/market-news/closing-bell-19-november-2026-sensex-nifty-end-higher-as-bulls-return-to-dalal-street/"},
+    {"title": "Rupee rallies for fourth session, closes at 93.36 — Deccan Herald", "url": "https://www.deccanherald.com/business/markets/rupee-rallies-for-fourth-session-to-close-5-paise-higher-at-9336-against-us-dollar-4224014"},
+    {"title": "Walmart hikes outlook — CNBC", "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html"},
+    {"title": "Walmart raises outlook again after a solid quarter — TT News", "url": "https://www.ttnews.com/articles/walmart-earnings-q3-2026"},
+    {"title": "Sanofi weighs takeover of US drugmaker Insmed, Bloomberg News reports — Reuters via Investing.com", "url": "https://www.investing.com/news/stock-market-news/sanofi-weighs-takeover-of-us-drugmaker-insmed-bloomberg-news-reports-5039450"},
+    {"title": "Sanofi reportedly sizing up Insmed — FirstWord Pharma", "url": "https://firstwordpharma.com/story/8467858"},
+    {"title": "BILL agrees to be acquired by TPG in partnership with Corpay — Quantisnow", "url": "https://www.quantisnow.com/insight/bill-agrees-to-be-acquired-by-tpg-in-partnership-with-6801206"},
+    {"title": "TPG, Corpay agree to acquire BILL for $6 billion — Rallies", "url": "https://rallies.ai/news/tpg-corpay-agree-to-acquire-bill-for-6-billion-8e42a9001b1bd014"},
+    {"title": "Bending Spoons Form 6-K — SEC", "url": "https://www.sec.gov/Archives/edgar/data/0002004711/000200471126000026/bsp_ex99-1.htm"},
+    {"title": "Bending Spoons agrees to buy Mailchimp from Intuit — Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-19/bending-spoons-to-buy-mailchimp-from-intuit-for-3-7-billion"},
+    {"title": "AMD closes $8.2 billion World Labs acquisition — Yahoo Finance", "url": "https://au.finance.yahoo.com/news/advanced-micro-devices-amd-closes-121439912.html"},
+    {"title": "MTN-IHS $6.2bn deal faces fresh delay — allAfrica", "url": "https://allafrica.com/stories/202611190027.html"},
+    {"title": "Activist Carronade raises Brookdale stake above 5% — Reuters via Investing.com", "url": "https://www.investing.com/news/economy-news/exclusiveactivist-carronade-raises-brookdale-stake-above-5-pushes-for-changes-5038967"},
+    {"title": "Maryland's $81 billion pension is slashing hedge funds to zero — AlphaMaven", "url": "https://alpha-maven.com/news/hedge-fund/marylands-81-billion-pension-is-slashing-hedge-funds-to-zero-livemint"},
+    {"title": "Weakest credit faces more pain, hedge funds warn — Bloomberg", "url": "https://www.bloomberg.com/news/videos/2026-11-18/weakest-credit-faces-more-pain-hedge-funds-warn-video"},
+    {"title": "August AI raises $12 Mn to expand AI healthcare assistant in the US — Inc42", "url": "https://inc42.com/buzz/august-ai-raises-12-mn-to-expand-ai-healthcare-assistant-in-the-us/"},
+    {"title": "AI startup Disseqt AI raises $8 Mn — Inc42", "url": "https://inc42.com/buzz/ai-startup-disseqt-ai-raises-8-mn-to-scale-international-operations/"}
+  ]
+}

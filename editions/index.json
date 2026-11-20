@@ -1,6 +1,13 @@
 {
   "editions": [
     {
+      "id": "2026-11-20",
+      "issue": 11,
+      "date": "Friday, 20 November 2026",
+      "edition": "Morning Edition",
+      "headline": "Anthropic Jumps 17% in Its Debut, but the Dow Sinks 1,100 Points as AI Selling Spreads"
+    },
+    {
       "id": "2026-11-19",
       "issue": 10,
       "date": "Thursday, 19 November 2026",
