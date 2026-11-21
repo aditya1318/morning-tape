@@ -1,0 +1,180 @@
+{
+  "id": "2026-11-21",
+  "issue": 12,
+  "date": "Saturday, 21 November 2026",
+  "edition": "Morning Edition",
+  "ticker": [
+    {"name": "S&P 500", "value": "6,910.39", "change": "−3.70%", "dir": "down"},
+    {"name": "Dow", "value": "48,147.33", "change": "−1.93%", "dir": "down"},
+    {"name": "Nasdaq", "value": "22,617.73", "change": "−5.28%", "dir": "down"},
+    {"name": "Stoxx 600", "value": "625.65", "change": "−2.00%", "dir": "down"},
+    {"name": "Nikkei 225", "value": "56,436.65", "change": "−5.06%", "dir": "down"},
+    {"name": "Nifty 50", "value": "25,800.60", "change": "+1.12%", "dir": "up"},
+    {"name": "Sensex", "value": "83,919.71", "change": "+1.08%", "dir": "up"},
+    {"name": "USD/INR", "value": "", "change": "", "dir": ""}
+  ],
+  "tickerNote": "Friday 20 Nov closes · USD/INR close unconfirmed (rupee traded past 93 intraday)",
+  "lead": {
+    "kicker": "Markets · AI Sell-Off",
+    "headline": "S&P 500 and Dow Fall Into Correction as Nvidia Sinks 14% on Report of SEC Accounting Probe",
+    "deck": "The S&P 500 lost 3.7% for a seventh straight decline and the Nasdaq gave up its 2026 gain, capping Wall Street's worst week since 2020 — while Indian shares rose to a fresh nine-month high.",
+    "body": [
+      "The sell-off in artificial-intelligence stocks turned into a rout on Friday. The S&P 500 fell 3.7% to 6,910.39 and the Dow dropped 950 points, or 1.93%, to 48,147.33, leaving both more than 10% below their record closes — the usual definition of a correction. The Nasdaq Composite slid 5.28% to 22,617.73 and is now down for the year, while the Nasdaq-100 briefly sat 20% below its recent peak during the session.",
+      "Nvidia was the epicentre. Reuters reported, citing two people briefed on the matter, that SEC enforcement staff are examining possible accounting issues at the chipmaker; the SEC declined to comment and Nvidia did not immediately respond. The shares, already down more than 6% before the report, closed 14% lower at $125.53. AMD fell 13.3% and Micron 13.9%, and Anthropic dropped 8.5% to $88.91 on its first full trading day, though it stayed above its $83 IPO price.",
+      "For the week, the S&P 500 lost about 8.6%, the Dow 8% — its worst week since March 2020 — and the Nasdaq about 10%. The VIX volatility gauge rose above 30 for the first time since March, investors moved into defensive names such as Walmart, Costco and Procter & Gamble, and bitcoin fell below $60,000. Treasuries rallied, pulling the 10-year yield down to about 4.99%, even as markets still expect a quarter-point Fed rate rise in December after Governor Lisa Cook warned against waiting too long.",
+      "The damage was global. Taiwan's market fell 6.2% to cap its worst week since 1991, the Kospi and Nikkei each lost about 5%, and Europe's Stoxx 600 dropped 2% as ASML, Infineon and STMicro slumped. India was the standout exception: the Sensex rose 898 points to a nine-month high as banks rallied on record foreign buying, a sign that some global money is rotating away from AI-heavy markets."
+    ]
+  },
+  "top": [
+    "The S&P 500 and the Dow closed in correction territory and the Nasdaq erased its 2026 gain after Nvidia fell 14% on a report of an SEC accounting probe.",
+    "Wall Street logged its worst week since 2020, with the S&P 500 down about 8.6% and the Nasdaq down about 10%.",
+    "CrowdStrike is in early talks to buy Zscaler, Bloomberg reported, sending Zscaler shares sharply higher after hours.",
+    "Indian shares hit a fresh nine-month high, with the Sensex up 898 points as banks led a rally on foreign inflows.",
+    "Urban Company raised ₹2,500 crore in a share sale that drew bids worth more than ₹15,000 crore."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "S&P −3.70% · Dow −1.93% · Nasdaq −5.28% · VIX >30",
+          "headline": "Wall Street Ends Its Worst Week Since 2020 in Correction",
+          "body": "The S&P 500 fell for a seventh straight day and closed more than 10% below its October record, with chips and AI infrastructure names leading losses. Consumer sentiment improved slightly, with the Michigan index rising to 51.5 from 48.0."
+        },
+        {
+          "fig": "Taiex −6.2% · Kospi 4,869.96 −5.2% · Nikkei 56,436.65 −5.1% · Hang Seng −1.9%",
+          "headline": "Asia's Chip Markets Suffer a Historic Week",
+          "body": "Taiwan's index dropped 17.5% over the week, its worst since 1991, as Delta Electronics and MediaTek plunged. SoftBank Group fell about 14.5% in Tokyo, its worst day since August 2024."
+        },
+        {
+          "fig": "Stoxx 600 625.65 −2.0% · DAX −2.6% · FTSE −1.0% · CAC −1.9%",
+          "headline": "Europe Caps Its Worst Week Since March",
+          "body": "The Stoxx 600 lost 5.8% on the week as European chipmakers STMicro, ASML and Infineon fell between 8% and 9% on Friday. Healthcare and insurance shares such as Fresenius Medical Care and Hannover Re edged higher."
+        },
+        {
+          "fig": "Nifty 25,800.60 · Bank Nifty +2.49% · IT +1.30% · US 10-yr ≈4.99%",
+          "headline": "Dalal Street Defies the Global Slide",
+          "body": "Indian shares recovered from an early dip to close at a nine-month high, helped by foreign investors who have put more than $12 billion into local stocks this month. The rupee strengthened past 93 per dollar intraday for the first time since April."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "NVDA −14.01% · $125.53",
+          "headline": "Nvidia Tumbles on Report of SEC Scrutiny",
+          "body": "The chipmaker had its worst day since the DeepSeek shock in early 2025 after Reuters said regulators are looking into its accounting. It was unclear when the inquiry began or what issues it covers."
+        },
+        {
+          "fig": "ANT −8.5% · $88.91 · IPO price $83",
+          "headline": "Anthropic Gives Back Half of Its Debut Gain",
+          "body": "The newly listed AI company slid with the rest of the sector on its second day of trading. Seaport Research started coverage with a neutral rating, saying the valuation needs much faster growth to be justified."
+        },
+        {
+          "fig": "INTU −12.77% · GAP +11.44% · MU −13.89% · AMD −13.25%",
+          "headline": "Intuit Slumps on Credit Karma Cut; Gap Rallies",
+          "body": "Intuit lowered its Credit Karma growth forecast to 3%–7% from 11%–13%, citing higher rates and shoppers turning to AI tools. Gap rose despite trimming its full-year outlook, after quarterly profit beat estimates."
+        },
+        {
+          "fig": "Gainers: Apollo Hospitals, Axis Bank, Max Healthcare · Losers: Titan, Tata Steel, NTPC",
+          "headline": "Banks and Hospitals Lead Nifty Gainers",
+          "body": "Axis Bank and hospital chains led the advance, while Titan, Tata Steel and Hindustan Unilever lagged. Urban Company shares fell about 5% after its share sale."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "Zscaler value ≈$32bn · CrowdStrike ≈$233bn",
+          "headline": "CrowdStrike Holds Early Talks to Buy Zscaler",
+          "body": "Bloomberg and Reuters reported the cybersecurity companies are discussing a deal, though no agreement has been reached and talks could still fail. Zscaler shares jumped after hours, while CrowdStrike fell."
+        },
+        {
+          "fig": "≈€1.6bn · remaining 44.3% of Ennismore",
+          "headline": "Accor Moves to Take Full Control of Ennismore",
+          "body": "The French hotel group agreed to buy out the rest of its lifestyle-hotels unit, a deal now drawing questions from its largest shareholder (see Hedge Funds)."
+        },
+        {
+          "fig": "$5.8m EV · close within 3 months",
+          "headline": "LT Foods Buys US Brand Maya Kaimal",
+          "body": "The maker of Royal basmati rice agreed to acquire the Indian simmer-sauce and dal brand sold at Whole Foods, Costco and Amazon, extending its US business beyond rice. Founder Maya Kaimal will stay on to lead product development."
+        },
+        {
+          "fig": "",
+          "headline": "MasTec and McLane Announce Bolt-On Buys",
+          "body": "Infrastructure contractor MasTec agreed to buy mechanical contractor Murphy Corporation, and Berkshire Hathaway-owned McLane agreed to buy the assets of restaurant distributor Willow Run Foods. Neither disclosed a price."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "Parvus stake ≈15%",
+          "headline": "Parvus Calls for Accor's Chief to Go",
+          "body": "Accor's top shareholder, Parvus Asset Management, urged chairman and chief executive Sébastien Bazin to step down, citing long-running underperformance, the FT and Reuters reported. Bazin had already said he would leave by May 2028."
+        },
+        {
+          "fig": "AUM ≈$37bn · −2.7% Jan–Oct",
+          "headline": "Balyasny Shuts Flagship Fund to New Money",
+          "body": "The multi-strategy firm told investors its main fund is closed to new capital for the foreseeable future, after a loss in the first ten months of the year and the departure of two portfolio managers in October."
+        },
+        {
+          "fig": "Target $1bn · trading from Q2 2027",
+          "headline": "Ex-Citadel Manager Plans a Healthcare Fund",
+          "body": "George Chen is launching Breitenfeld Capital, a market-neutral healthcare fund. Separately, Chicago Laborers' pension dropped its $34 million Lighthouse Partners mandate and removed hedge funds from its allocation."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "₹2,500 cr raised · bids >₹15,000 cr · ₹156 a share",
+          "headline": "Urban Company's Share Sale Draws Six Times Demand",
+          "body": "The home-services company's qualified institutional placement attracted Goldman Sachs Asset Management, Norges Bank and Indian mutual funds. Part of the money will fund its InstaHelp on-demand household help service and brand marketing."
+        },
+        {
+          "fig": "Credit Karma FY27 growth 3%–7%",
+          "headline": "Intuit Sells Mailchimp and Trims Its Fintech Outlook",
+          "body": "Intuit kept its profit forecast but cut Credit Karma's revenue outlook and confirmed the sale of Mailchimp to Bending Spoons. Several analysts lowered their price targets."
+        },
+        {
+          "fig": "₹200 cr Series B · ₹60 cr from Antariksh VC Fund",
+          "headline": "SatSure Gets Government-Backed Space Funding",
+          "body": "The geospatial analytics start-up drew investment from the state-backed space venture fund as part of a larger Series B round. Paytm, meanwhile, invested ₹200 crore in Singapore lender Funding Societies."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam — CNBC", "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"},
+    {"title": "Stock Market Today, November 20, 2026: US Stocks Close Sharply Lower — Stock Titan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"},
+    {"title": "Anthropic falls nearly 9% in first full day of trading — CNBC", "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html"},
+    {"title": "Wall Street Regulator Probes Nvidia Accounting, Reuters Says — Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-regulator-probing-nvidia-s-accounting-reuters-says"},
+    {"title": "Nvidia accounting under SEC investigation, sources say — NewsNation", "url": "https://www.newsnationnow.com/business/nvidia-accounting-under-sec-investigation-sources-say/"},
+    {"title": "Taiwan stock market falls 6.2% to cap its worst week since 1991 — 24/7 Wall St.", "url": "https://247wallst.com/investing/2026/11/20/taiwan-stock-market-falls-6-2-to-cap-its-worst-week-since-1991-as-kospi-closes-down-5-2-and-nikkei-225-drops-5-1-in-ai-chip-selloff/"},
+    {"title": "Hang Seng Index slides to 22,410.80 — BBN Times", "url": "https://www.bbntimes.com/financial/hong-kong-stock-exchange-hang-seng-index-slides-to-22-410-80-amid-us-iran-negotiations"},
+    {"title": "European stocks close down 2% to cap their worst week since March — MLQ.ai", "url": "https://mlq.ai/news/european-stocks-close-down-2-to-cap-their-worst-week-since-march-as-asml-and-infineon-slump/"},
+    {"title": "Closing Bell, 20 November 2026 — Kotak Neo", "url": "https://www.kotakneo.com/news/market-news/closing-bell-20-november-2026-sensex-nifty-rally-on-banking-it-stocks-and-fii-buying/"},
+    {"title": "BT Closing Bell: Sensex jumps 898 points, Nifty reclaims 25,800 — Business Today", "url": "https://www.businesstoday.in/markets/stocks/story/bt-closing-bell-markets-extend-gains-as-sensex-jumps-898-points-nifty-reclaims-25800-568767-2026-11-20"},
+    {"title": "Market close report, November 20, 2026 — HDFC Sky", "url": "https://hdfcsky.com/news/market-close-report-today-november-20-2026-nifty-sensex-scale-nine-month-highs-as-investors-dump-global-ai-for-india"},
+    {"title": "Rupee recovery takes it past 93 for the first time since April — 5paisa", "url": "https://www.5paisa.com/blog/rupee-recovery-past-93-us-dollar-20-november-2026"},
+    {"title": "CrowdStrike in talks to acquire Zscaler — Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler"},
+    {"title": "Zscaler stock jumps on report CrowdStrike in talks to buy — CNBC", "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html"},
+    {"title": "Accor's top investor calls for urgent leadership change — MarketScreener/Reuters", "url": "https://marketscreener.com/news/accor-s-top-investor-calls-for-urgent-leadership-changes-ce785ed2d081f62d"},
+    {"title": "Accor investigation clears CEO as board reviews governance allegations — Traders Union", "url": "https://tradersunion.com/news/financial-news/show/2702971-accor-ceo-investigation-cleared/"},
+    {"title": "LT Foods to acquire Maya Kaimal Foods — India West", "url": "https://indiawest.com/lt-foods-marketers-of-royal-rice-acquires-maya-kaimal-foods/"},
+    {"title": "Merger and acquisition news — Business Wire", "url": "https://www.businesswire.com/newsroom/subject/merger-acquisition"},
+    {"title": "Balyasny closes flagship fund to new capital — Hedgeweek", "url": "https://hedgeweek.com/news/balyasny-closes-flagship-fund-to-new-capital"},
+    {"title": "Former Citadel PM George Chen launching Breitenfeld Capital — HedgeCo", "url": "https://hedgeco.net/news/11/2026/former-citadel-portfolio-manager-george-chen-is-launching-healthcare-hedge-fund-breitenfeld-capital.html"},
+    {"title": "Chicago Laborers terminates Lighthouse Partners — Pensions & Investments", "url": "https://www.pionline.com/searches-hires-mandates/pi-chicago-laborers-annuity-benefit-fund-drops-hedge-fund-allocation/"},
+    {"title": "Intuit cuts Credit Karma revenue forecast — WiseVoter", "url": "https://wisevoter.com/world/us/2026/11/20/intuit-cuts-credit-karma-revenue-forecast"},
+    {"title": "Intuit Q1 earnings call highlights — Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/intuit-q1-earnings-call-highlights-140000164.html"},
+    {"title": "Urban Company raises ₹2,500 Cr via QIP — Inc42", "url": "https://inc42.com/buzz/urban-company-raises-%E2%82%B92500-cr-via-qip-draws-bids-worth-over-%E2%82%B915000-cr/"},
+    {"title": "Urban Company raises ₹2,500 crore through QIP; shares decline 5% — Upstox", "url": "https://upstox.com/news/market-news/stocks/urban-company-raises-2-500-crore-through-qip-issue-shares-decline-5/article-203756/"},
+    {"title": "Inc42 homepage (SatSure, Paytm items)", "url": "https://inc42.com/"}
+  ]
+}
