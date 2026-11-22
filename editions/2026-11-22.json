@@ -1,0 +1,177 @@
+{
+  "id": "2026-11-22",
+  "issue": 13,
+  "date": "Sunday, 22 November 2026",
+  "edition": "Morning Edition",
+  "ticker": [
+    {"name": "S&P 500", "value": "6,910.39", "change": "−3.70%", "dir": "down"},
+    {"name": "Nasdaq", "value": "22,617.73", "change": "−5.28%", "dir": "down"},
+    {"name": "Taiex", "value": "36,033.29", "change": "−6.23%", "dir": "down"},
+    {"name": "Nifty 50", "value": "25,800.60", "change": "+1.12%", "dir": "up"},
+    {"name": "Sensex", "value": "83,919.71", "change": "+1.08%", "dir": "up"},
+    {"name": "Brent", "value": "$92.49", "change": "", "dir": ""},
+    {"name": "Bitcoin", "value": "≈$59,950", "change": "", "dir": ""},
+    {"name": "USD/INR", "value": "92.68", "change": "", "dir": ""}
+  ],
+  "tickerNote": "Equity, Brent and rupee figures are Friday 20 Nov closes; bitcoin is a Saturday 21 Nov level after a two-year low of about $55,250",
+  "lead": {
+    "kicker": "Markets · Taiwan",
+    "headline": "Taiwan Bans Short Sales on Any Falling Stock as It Braces for Monday's Open",
+    "deck": "After the Taiex's worst week since 1991, regulators imposed their first blanket short-selling restriction since 2015, raised margin rules and told the state stabilisation fund to step up buying.",
+    "body": [
+      "Taiwan's Financial Supervisory Commission announced on Saturday that, from Monday, no stock that fell in the previous session may be sold short below its prior close. It is the first blanket restriction of its kind since 2015, and it widens a rule announced only on Thursday that applied to stocks down 3.5% or more. The minimum margin on short sales rises to 150% from 130%, and new put-warrant listings are suspended.",
+      "The regulator also asked lenders to stop lending shares and to recall or not renew existing loans, and it urged listed companies to keep buying back their own stock. Premier Cho Jung-tai asked the NT$500 billion (about US$15.2 billion) National Financial Stabilization Fund, which has been allowed to intervene since 6 November, to buy more actively, and asked the central bank to watch the Taiwan dollar.",
+      "The steps follow Friday's 6.23% plunge, which took the Taiex to 36,033.29, its lowest close in about seven months and roughly 28% below its October record. The island's market is heavily exposed to AI hardware makers, which have been hit hardest by the global sell-off that pushed the S&P 500 into correction and sent Nvidia down 14% on a report of an SEC accounting probe.",
+      "Officials stressed that the economy itself looks healthy: the finance ministry blamed global markets for the sell-off, and the economy ministry noted that October revenue at chip companies was up more than 60% from a year earlier. The weekend also brought fresh stress elsewhere, as bitcoin dropped to its lowest level in two years on Saturday before bouncing back near $60,000."
+    ]
+  },
+  "top": [
+    "Taiwan banned short sales below the prior close on any stock that fell the day before, its first blanket restriction since 2015.",
+    "Bitcoin fell to a two-year low of about $55,250 on Saturday before rebounding toward $60,000.",
+    "Indian start-ups raised $291.3 million across 22 deals last week, led by AI firms and D2C brands Style Union and Henfruit.",
+    "US markets face a holiday-shortened week with October PCE inflation data on Wednesday, while futures price a December Fed rate rise as near-certain.",
+    "Mahanadi Coalfields' ₹8,981-crore IPO closes on Monday after a slow start to bidding."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "Taiex 36,033.29 · −28.5% from 6 Oct record · margin 150%",
+          "headline": "Taipei Rolls Out Its Toughest Curbs in a Decade",
+          "body": "The new short-selling ban, higher margin requirement and halt to share lending take effect on Monday. The stabilisation fund has been asked to step up its purchases."
+        },
+        {
+          "fig": "Fed funds 3.75%–4.00% · Dec hike odds ≈99% · PCE Wed",
+          "headline": "Wall Street Faces Inflation Test in a Short Week",
+          "body": "October PCE data, the second estimate of third-quarter GDP and the Fed's Beige Book all arrive on Wednesday, before US markets close for Thanksgiving on Thursday. Core PCE inflation is expected to rise to 3.2% a year."
+        },
+        {
+          "fig": "Nifty +2.61% w/w · Sensex +2.85% w/w · Bank Nifty 64,635.20 +5.90% w/w",
+          "headline": "Indian Shares Log a Fourth Straight Weekly Gain",
+          "body": "Banks drove most of last week's rally, with the Bank Nifty touching a record, but midcaps were flat and smallcaps fell. Analysts see 26,000 as the Nifty's next resistance level."
+        },
+        {
+          "fig": "Brent $92.49 · EUR/USD 1.0968 · India FX reserves $705.34bn",
+          "headline": "Oil Eases as the Dollar Holds Near 19-Month Highs",
+          "body": "Brent ended Friday lower for the week, which helped support Indian markets. India's foreign-exchange reserves fell $14.21 billion in the week to 13 November."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "NVDA $125.53 · −23% on the week",
+          "headline": "Nvidia Ends Its Worst Week in Years Under a Cloud",
+          "body": "The SEC has not confirmed the accounting inquiry reported by Reuters, and the probe could end without charges. The company is still led by interim chief executive Colette Kress after Jensen Huang's resignation earlier this month."
+        },
+        {
+          "fig": "BTC low ≈$55,250 · rebound >8%",
+          "headline": "Bitcoin Hits a Two-Year Low in Weekend Trading",
+          "body": "The cryptocurrency broke below its September 2024 levels as the stock sell-off spilled over, then recovered to briefly top $60,000 on Saturday. Thin weekend trading likely made the swings bigger."
+        },
+        {
+          "fig": "ZS ≈+17% after hours · CRWD ≈−8%",
+          "headline": "Zscaler and CrowdStrike Head Into Monday on Deal Talk",
+          "body": "No new details emerged over the weekend on reported takeover talks between the two cybersecurity companies. Neither has confirmed the discussions."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "Zscaler value ≈$32bn",
+          "headline": "CrowdStrike–Zscaler Talks Remain Unconfirmed",
+          "body": "No price or terms have been reported, and any deal would likely need the backing of Zscaler founder Jay Chaudhry, its largest shareholder. A deal this size would also need antitrust approval."
+        },
+        {
+          "fig": "Tribe AUM ≈$2.7bn · close Q1 2027",
+          "headline": "Kraken Owner Payward to Buy Tribe Capital",
+          "body": "The crypto exchange's parent will fold the venture firm into its asset-management arm to build private-market products. Kraken co-CEO Arjun Sethi co-founded Tribe and is still its chairman."
+        },
+        {
+          "fig": "$4.5bn all-stock",
+          "headline": "Palo Alto Networks Agrees to Buy Applied Compute",
+          "body": "The cybersecurity company is buying the AI infrastructure start-up and expects the deal to close in its fiscal third quarter of 2027."
+        },
+        {
+          "fig": "23% stake · ₹65.8 cr cash",
+          "headline": "Mufin Green Finance Takes a Stake in BimaPay",
+          "body": "The EV-focused lender's board approved an all-cash purchase of a minority stake in the insurtech start-up."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "≈$700m · valuation ≈₹1 lakh crore",
+          "headline": "Davidson Kempner, Hillhouse and Värde Back MEIL",
+          "body": "Hyderabad's Megha Engineering & Infrastructures said it raised about $700 million through structured equity and a planned sale of road assets. Earlier reports linked the funding to a promoter stake buyout, which the company's statement did not mention."
+        },
+        {
+          "fig": "Short-sale margin 130% → 150%",
+          "headline": "Taiwan Squeezes Short Sellers Again",
+          "body": "The third round of curbs this month bans short sales below the prior close on falling stocks and asks lenders to recall borrowed shares, making it harder for funds to bet against Taiwanese tech names."
+        },
+        {
+          "fig": "Kroger stake 39m → 35m shares",
+          "headline": "Berkshire Trims Kroger in Its Latest Filing",
+          "body": "Berkshire Hathaway's third-quarter holdings report showed a smaller Kroger position and a near-doubling of its stake in homebuilder Lennar."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "$291.3m · 22 deals · 16–20 Nov",
+          "headline": "Start-up Funding Jumps Tenfold in a Week",
+          "body": "AI start-ups such as Dreamteam ($53 million) and Humyn Labs ($47 million) led, while D2C brands Style Union ($51.8 million, Series E) and egg maker Henfruit ($15 million, Series A) also raised money. Boba Bhai raised $18 million in a Series B."
+        },
+        {
+          "fig": "₹8,981 cr · ₹129–136 band · closes 23 Nov · lists 27 Nov",
+          "headline": "Mahanadi Coalfields IPO Enters Its Final Day",
+          "body": "The Coal India unit's offer was 0.38 times subscribed at the end of the first day, with institutional investors bidding more than retail buyers. Separately, Razorpay is reported to be filing updated IPO papers for a February 2027 listing, and Rediff filed for a ₹600-crore issue."
+        },
+        {
+          "fig": "≈60,000 eligible · decide by early Dec",
+          "headline": "Microsoft's Buyout Deadline Nears",
+          "body": "About a quarter of Microsoft's staff, including some in India, have been offered voluntary exit packages and must decide by early December. The company has not said how many it expects to accept."
+        },
+        {
+          "fig": "₹10,000 cr · 150 MW · Patna",
+          "headline": "CtrlS Plans a Data Centre in Bihar; SEBI Eyes Easier FPI Rules",
+          "body": "CtrlS Datacenters signed an agreement with the Bihar government for a facility due to start in 2029–30. SEBI proposed dropping an extra disclosure framework for foreign portfolio investors to cut compliance costs."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "FSC announces measures after stock market losses — Taipei Times", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/22/2003868166"},
+    {"title": "FSC tightens short-selling rules — Taipei Times", "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/20/2003868040"},
+    {"title": "Bitcoin falls to its lowest in two years — Reuters via Investing.com", "url": "https://www.investing.com/news/forex-news/bitcoin-falls-357-to-56814-5043137"},
+    {"title": "Forex and crypto forecast November 23–27, 2026 — NordFX", "url": "https://nordfx.com/market-news/forex-cryptocurrency-forecast-november-23-27-2026"},
+    {"title": "Indian stock market outlook next week, 23–27 Nov — Goodreturns", "url": "https://www.goodreturns.in/news/indian-stock-market-outlook-next-week-23-27-nov-sensex-nifty-may-extend-rally-amid-easing-crude-o-1548735.html"},
+    {"title": "Weekly roundup 21 November 2026 — Marketcalls", "url": "https://www.marketcalls.in/futures-and-options/weekly-market-roundup-21-november-2026.html"},
+    {"title": "After its worst week in 18 years, Nvidia now faces an SEC investigation — Motley Fool", "url": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/"},
+    {"title": "US regulator to probe Nvidia accounting — Manila Times", "url": "https://www.manilatimes.net/2026/11/22/business/foreign-business/us-regulator-to-probe-nvidia-accounting/2475446"},
+    {"title": "Nvidia announces CEO transition — Nvidia", "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"},
+    {"title": "CrowdStrike in talks to acquire Zscaler, sources say — The Star/Reuters", "url": "https://www.thestar.com.my/tech/tech-news/2026/11/21/crowdstrike-in-talks-to-acquire-zscaler-sources-say"},
+    {"title": "Zscaler stock jumps on report CrowdStrike in talks to buy — CNBC", "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html"},
+    {"title": "Kraken parent Payward to acquire Tribe Capital — The Block", "url": "https://www.theblock.co/news/business/2026-11-18-kraken-parent-payward-tribe-capital-443522"},
+    {"title": "Payward to acquire Tribe Capital — Payward press release", "url": "https://www.payward.com/press-release/payward-to-acquire-tribe-capital"},
+    {"title": "Palo Alto Networks buying AI startup for $4.5 billion — TechReport", "url": "https://techreport.com/news/business/palo-alto-networks-applied-compute-acquisition/"},
+    {"title": "From Dreamteam to Boba Bhai — Indian startups raised over $291 Mn this week — Inc42", "url": "https://inc42.com/buzz/from-dreamteam-to-boba-bhai-indian-startups-raised-over-291-mn-this-week"},
+    {"title": "MEIL raises $700 mn from global investment firms — Telangana Today", "url": "https://telanganatoday.com/meil-raises-usd-700-mn-from-global-investment-firms-through-structured-financing"},
+    {"title": "$700 mn Megha Engineering stake buyout could be one of India's biggest deals — ThePrint", "url": "https://theprint.in/india/700-mn-megha-engineering-stake-buyout-could-be-one-of-indias-biggest-deals-this-year/3029609/"},
+    {"title": "Buffett's Berkshire trims stake in Kroger — TheStreet", "url": "https://thestreet.com/investing/stocks/kr-kroger-warren-buffetts-berkshire-hathaway-trims-stake-in-surging-143-year-old-kroger-stock-in-q3-13f-filing"},
+    {"title": "Berkshire nearly doubled its stake in one homebuilder — 24/7 Wall St.", "url": "https://247wallst.com/investing/2026/11/16/warren-buffetts-berkshire-nearly-doubled-its-stake-in-one-homebuilder-last-quarter-it-now-owns-26-million-shares/"},
+    {"title": "India IPO daily market & IPO updates, 21 November 2026 — IndiaIPO", "url": "https://www.indiaipo.in/daily-reporter/india-ipo-daily-market-ipo-updates-21th-november-2026"},
+    {"title": "Mahanadi Coalfields IPO subscription status day 1 — HDFC Sky", "url": "https://hdfcsky.com/news/mahanadi-coalfields-ipo-subscription-status-day-1"},
+    {"title": "Mahanadi Coalfields IPO details — Chittorgarh", "url": "https://www.chittorgarh.com/ipo/mahanadi-coalfields-ipo/3247/"},
+    {"title": "Microsoft offers voluntary exit packages to about 60,000 employees — IBTimes", "url": "https://www.ibtimes.co.uk/microsoft-voluntary-exit-offer-60000-employees-1827935"}
+  ]
+}

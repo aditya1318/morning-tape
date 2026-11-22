@@ -1,6 +1,13 @@
 {
   "editions": [
     {
+      "id": "2026-11-22",
+      "issue": 13,
+      "date": "Sunday, 22 November 2026",
+      "edition": "Morning Edition",
+      "headline": "Taiwan Bans Short Sales on Any Falling Stock as It Braces for Monday's Open"
+    },
+    {
       "id": "2026-11-21",
       "issue": 12,
       "date": "Saturday, 21 November 2026",
