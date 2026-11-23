@@ -1,0 +1,176 @@
+{
+  "id": "2026-11-23",
+  "issue": 14,
+  "date": "Monday, 23 November 2026",
+  "edition": "Week-in-Review Edition",
+  "ticker": [
+    {"name": "S&P 500", "value": "6,910.39", "change": "−3.70%", "dir": "down"},
+    {"name": "Dow", "value": "", "change": "−1.93%", "dir": "down"},
+    {"name": "Nasdaq", "value": "22,617.73", "change": "−5.28%", "dir": "down"},
+    {"name": "Nifty 50", "value": "25,800.60", "change": "+1.12%", "dir": "up"},
+    {"name": "Sensex", "value": "83,919.71", "change": "+1.08%", "dir": "up"},
+    {"name": "Kospi", "value": "4,869.96", "change": "−5.21%", "dir": "down"},
+    {"name": "DAX", "value": "", "change": "−2.60%", "dir": "down"},
+    {"name": "Brent", "value": "$92.49", "change": "", "dir": ""}
+  ],
+  "tickerNote": "All figures are Friday 20 Nov closes. Early Monday, Brent was near $92.6 and bitcoin near $60,800; Japan is shut for a holiday",
+  "lead": {
+    "kicker": "Deals · India",
+    "headline": "Tata Steel Sells Its Tubes and Colour-Coated Steel Units to APL Apollo for Up to ₹28,000 Crore",
+    "deck": "Boards of both companies signed off on Sunday. APL Apollo gets factories, brands and distribution reach, and Tata Steel simplifies its downstream business.",
+    "body": [
+      "Tata Steel and APL Apollo Tubes told the stock exchanges that their boards approved two linked transactions on Sunday, 22 November, together worth up to ₹28,000 crore. APL Apollo will buy Tata Steel's tubes business for up to ₹11,700 crore in cash through a business transfer agreement, and all of Tata Steel Colors for ₹16,300 crore.",
+      "The tubes business includes plants at Jamshedpur, Hosur, Khopoli and Sahibabad, plus some cold-rolling and coated-steel lines at Khopoli. Tata Steel Colors, which makes colour-coated steel and building products, reported FY26 turnover of about ₹4,680 crore and a net profit of ₹85 crore. Tata Steel owns half of it directly and half through its subsidiary Tata Steel Downstream Products.",
+      "APL Apollo says the purchase will strengthen its lead in steel tubes and coated products and widen its distribution. Tata Steel describes the sale as a way to unlock value and simplify its downstream portfolio. The two deals depend on each other and are meant to close together, on or before 31 March 2028.",
+      "Approvals are still needed from the Competition Commission of India and from APL Apollo's shareholders, among others. Both stocks are likely to be in focus when Indian markets open on Monday. Markets are closed on Tuesday, 24 November, for a holiday."
+    ]
+  },
+  "top": [
+    "Tata Steel agreed to sell its tubes business and Tata Steel Colors to APL Apollo Tubes for up to ₹28,000 crore.",
+    "Asian shares fell early on Monday after the S&P 500 and Dow entered correction on Friday, while US stock futures rose about 2%.",
+    "Taiwan's stabilisation fund said it had begun buying as the island's new short-selling ban took effect.",
+    "Clariant and CD&R are in talks to buy US chemicals maker Ashland for about $3.4 billion, Bloomberg reported.",
+    "Goldman Sachs told clients hedge funds have done much of their selling, but warned that US stocks could fall further."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "S&P fut +1.9% · Nasdaq 100 fut +2.6% · Kospi early −2.6% to −4.3%",
+          "headline": "Asia Slides at the Open as US Futures Bounce",
+          "body": "Korean shares led early losses on Monday on worries about AI spending, and Hong Kong and Taiwan each fell more than 1% at points. US stock futures rose sharply after Friday's sell-off, and Japan was closed for a holiday."
+        },
+        {
+          "fig": "Taiex open 35,899.48 · intraday low 35,442.41 · −17.5% last week",
+          "headline": "Taipei's Fund Steps In on Day One of the Short-Sale Ban",
+          "body": "The National Financial Stabilization Fund confirmed it was buying as the index fell about 590 points soon after the open, before chipmaker TSMC turned higher. Last week was the Taiex's worst in 35 years."
+        },
+        {
+          "fig": "Nasdaq −5.28% Fri · DAX −2.60% · FTSE −1.02% · CAC −1.89%",
+          "headline": "Week in Review: Wall Street Enters Correction",
+          "body": "The S&P 500 fell for a seventh straight session on Friday, and both it and the Dow ended more than 10% below their record highs. The Nasdaq gave up all of its 2026 gains as chip stocks slumped."
+        },
+        {
+          "fig": "Fed funds 3.75%–4.00% · Dec hike priced near-certain · PCE Wed",
+          "headline": "A Short US Week With Inflation in Focus",
+          "body": "October PCE data and the Fed's Beige Book arrive on Wednesday, before markets close for Thanksgiving on Thursday. Futures still price a quarter-point Fed hike in December, and some officials have floated a bigger move."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "NVDA −14.01% · MU −13.89% · AMD −13.25% · Fri",
+          "headline": "Chipmakers Lead Friday's Rout",
+          "body": "Nvidia, Micron and AMD were the S&P 500's biggest losers after Reuters reported that SEC staff are looking at possible accounting issues at Nvidia. Reports say the inquiry is at an early stage, and no charges have been filed."
+        },
+        {
+          "fig": "IPO $83 · day-one close +17% · Fri −9.1%",
+          "headline": "Anthropic Gives Back Some of Its Debut Gains",
+          "body": "The AI company's record $81.3 billion listing closed about 17% above its offer price on Thursday, then fell 9.1% on Friday as the tech sell-off deepened."
+        },
+        {
+          "fig": "Maruti +0.31% prices · Welspun capex ₹3,200 cr · Waaree 700 MW",
+          "headline": "Indian Stocks to Watch on Monday",
+          "body": "Maruti Suzuki raised prices on some models from 22 November, and Welspun Living approved up to ₹3,200 crore in capital spending. Waaree Energies signed a power deal with SECI for a 700 MW solar project with battery storage."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "Up to ₹28,000 cr · close by 31 Mar 2028",
+          "headline": "APL Apollo Buys Tata Steel's Tubes and Colors Units",
+          "body": "The deal combines a ₹11,700-crore cash purchase of the tubes business with a ₹16,300-crore purchase of Tata Steel Colors. It still needs CCI and shareholder approval."
+        },
+        {
+          "fig": "≈$3.4bn · all cash",
+          "headline": "Clariant and CD&R in Talks for Ashland",
+          "body": "Bloomberg reported on Sunday that the Swiss chemicals maker and the private equity firm are negotiating a deal close to Ashland's Friday share price, which could be announced within days. Ashland put itself up for sale in July under pressure from activist investors."
+        },
+        {
+          "fig": "Reported ≈$7.5bn",
+          "headline": "Amazon Said to Be Close to Buying AI Start-up Decart",
+          "body": "A GuruFocus report on Sunday said talks with the maker of software that lets AI work move between different chips were advanced and could finish as soon as next week. Neither company has confirmed a deal, and earlier reports put the price at about $7 billion."
+        },
+        {
+          "fig": "100% stake · Bihar transmission project",
+          "headline": "Adani Energy Buys Vikramshila Transmission; Berger Buys Roeland",
+          "body": "Adani Energy Solutions is buying the Bihar grid project company from an REC unit; no price was given. Berger Paints agreed to buy Pune-based Roeland for up to ₹18.8 crore."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "Panic index 9.8/10 · long-short net leverage 42.3%",
+          "headline": "Goldman Says Hedge Funds Have Done Much of Their Selling",
+          "body": "The bank's trading desk told clients that funds cut global stock exposure for a third straight week, with short sales of US stocks the highest since June 2022. It also warned that high retail and mutual-fund exposure and selling by trend-following funds could push prices lower."
+        },
+        {
+          "fig": "Flagship closed to new money",
+          "headline": "Balyasny Shuts Its Door to New Capital",
+          "body": "Balyasny Asset Management closed its flagship fund to new investors for the foreseeable future, joining other large multi-strategy managers that have done the same."
+        },
+        {
+          "fig": "Accor · Vulcan · Martin Marietta",
+          "headline": "Parvus Wants Accor's CEO Out; TCI Builds Materials Bets",
+          "body": "Parvus called for the hotel group's chief executive to go after a €1.6 billion Ennismore deal. Chris Hohn's TCI disclosed new stakes in US aggregates producers Vulcan Materials and Martin Marietta."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "Raised $81.3bn · ≈980m shares at $83",
+          "headline": "Week in Review: Anthropic Sets an IPO Record",
+          "body": "Anthropic's Nasdaq listing last week became the largest IPO on record, and its underwriters can buy about 147 million more shares. It came in the middle of the worst week for AI stocks in years."
+        },
+        {
+          "fig": "₹2,500 cr QIP at ₹156 · bids >₹15,000 cr",
+          "headline": "Urban Company's Share Sale Draws Six Times the Demand",
+          "body": "The home-services company placed 16.02 crore shares with institutions. Last week also brought funding for D2C names Style Union (₹485 crore), Boba Bhai ($18 million) and Henfruit ($15 million)."
+        },
+        {
+          "fig": "₹8,981 cr · closes today · lists 27 Nov",
+          "headline": "Mahanadi Coalfields IPO Closes Today",
+          "body": "Bidding for the Coal India unit's offer ends on Monday. Indian markets are shut on Tuesday, 24 November."
+        },
+        {
+          "fig": "0.4% on P2M payments above ₹2,000",
+          "headline": "Proposed UPI Merchant Fee Could Be Delayed",
+          "body": "The plan may be put off until after the 2027 state elections, as traders' groups push back and the government, RBI and NPCI have yet to set a start date. For D2C brands that sell online, the delay would mean no new charge for now."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "Tata Steel, APL Apollo shares in focus after ₹28,000 crore deal — Upstox", "url": "https://upstox.com/news/market-news/stocks/tata-steel-apl-apollo-shares-in-focus-after-28-000-crore-deal-key-details-explained/article-203823/"},
+    {"title": "Taiwan shares open lower — Focus Taiwan", "url": "https://focustaiwan.tw/business/202611230001"},
+    {"title": "Taiwan's stabilization fund enters market as short-selling ban takes effect — BigGo Finance", "url": "https://finance.biggo.com/news/abc81f33-52c3-4d6e-acde-436002374931"},
+    {"title": "Asian stock markets tumble as AI bubble fears mount — Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount"},
+    {"title": "Global market today: Asian shares cautious despite US futures rebound — FVBB", "url": "https://fvbb.com/ns/global-market-today-asian-shares-cautious-as/332136"},
+    {"title": "Australian shares open lower as Anthropic debut fails to revive AI trade — Capital Brief", "url": "https://www.capitalbrief.com/briefing/australian-shares-to-open-lower-as-anthropic-debut-fails-to-revive-ai-trade-c555d12f-f591-46c6-b61c-6bf23c04208c/"},
+    {"title": "KOSPI quote — Google Finance", "url": "https://www.google.com/finance/quote/KOSPI:KRX"},
+    {"title": "Fed officials expect December rate hike — Arkansas Democrat-Gazette", "url": "https://www.arkansasonline.com/news/2026/nov/19/fed-officials-expect-december-rate-hike/"},
+    {"title": "Nvidia's accounting is a focus of US SEC investigation, sources say — The Daily Star/Reuters", "url": "https://www.thedailystar.net/news/world/news/nvidias-accounting-focus-us-sec-investigation-sources-say-4329306"},
+    {"title": "US SEC's Nvidia probe focuses on potential accounting irregularities — Business Standard", "url": "https://business-standard.com/amp/world-news/us-sec-s-nvidia-probe-focuses-on-potential-accounting-irregularities-126112200089_1.html"},
+    {"title": "Anthropic IPO takeaways — CNBC", "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"},
+    {"title": "Anthropic IPO live updates: shares close up 17% — Forbes", "url": "https://forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-shares-pop-34-to-open-at-11150"},
+    {"title": "Anthropic IPO: price, ticker, dates and deal terms — Wolf Financial", "url": "https://wolf.financial/blog/anthropic-ipo"},
+    {"title": "Stocks to watch, Nov 23 — Goodreturns", "url": "https://www.goodreturns.in/personal-finance/stocks-to-watch-tomorrow-nov-23-maruti-suzuki-adani-energy-waaree-energies-rvnl-indusind-bank-1548861.html"},
+    {"title": "Stocks to watch today, November 23, 2026 — ScanX", "url": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-november-23-2026-waaree-energies-ujjivan-small/56943020"},
+    {"title": "Clariant, CD&R in talks to buy Ashland — Global Banking & Finance/Reuters", "url": "https://www.globalbankingandfinance.com/clariant-cd-r-talks-buy-chemicals-firm-ashland-bloomberg/"},
+    {"title": "Amazon nears $7.5 billion acquisition of AI startup Decart — GuruFocus", "url": "https://www.gurufocus.com/news/9214179/amazon-amzn-nears-75-billion-acquisition-of-ai-startup-decart"},
+    {"title": "Amazon reportedly in talks to buy Decart AI for around $7B — TechRepublic", "url": "https://www.techrepublic.com/article/news-amazon-decart-ai-acquisition-talks/"},
+    {"title": "Goldman says US stock plunge offers buy-the-dip chance but warns of further downside — Bloomingbit", "url": "https://en.bloomingbit.io/feed/news/124991"},
+    {"title": "Hedge fund news — Hedgeweek", "url": "https://hedgeweek.com/news"},
+    {"title": "Startup roundup, third week of November 2026 — Local Samosa", "url": "https://www.localsamosa.com/news/startup-roundup-third-week-of-november-2026-12825532"},
+    {"title": "Mahanadi Coalfields IPO details — Chittorgarh", "url": "https://www.chittorgarh.com/ipo/mahanadi-coalfields-ipo/3247/"}
+  ]
+}
