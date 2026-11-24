@@ -1,0 +1,175 @@
+{
+  "id": "2026-11-24",
+  "issue": 15,
+  "date": "Tuesday, 24 November 2026",
+  "edition": "Morning Edition",
+  "ticker": [
+    {"name": "S&P 500", "value": "7,237.17", "change": "+4.73%", "dir": "up"},
+    {"name": "Dow", "value": "49,595.31", "change": "+3.01%", "dir": "up"},
+    {"name": "Nasdaq", "value": "24,089.56", "change": "+6.51%", "dir": "up"},
+    {"name": "Nifty 50", "value": "25,349.65", "change": "−1.75%", "dir": "down"},
+    {"name": "Sensex", "value": "82,435.99", "change": "−1.77%", "dir": "down"},
+    {"name": "Stoxx 600", "value": "637.32", "change": "+1.87%", "dir": "up"},
+    {"name": "FTSE 100", "value": "10,486.35", "change": "+1.35%", "dir": "up"},
+    {"name": "USD/INR", "value": "92.91", "change": "", "dir": ""}
+  ],
+  "tickerNote": "Monday 23 Nov closes; USD/INR is the provisional close. Indian markets ended before Wall Street's rally and are shut today for Guru Nanak Jayanti",
+  "lead": {
+    "kicker": "Markets · AI",
+    "headline": "Nvidia Brings Back Jensen Huang, and Wall Street Has Its Best Day Since April 2025",
+    "deck": "Nvidia stock jumped 31% after the board reversed course on its co-founder. The Nasdaq rose 6.5% and the S&P 500 climbed out of correction.",
+    "body": [
+      "Nvidia's board voted unanimously to reinstate Jensen Huang as president and chief executive, less than two weeks after accepting his resignation on 11 November. The board said input from senior US government officials left it confident that his return poses no national security risk. Interim chief executive Colette Kress returns to her role as finance chief, and Harvey Jones stays on as chair.",
+      "Nvidia shares rose 31.5% to $165.05 on Monday, adding roughly $950 billion in market value, CNBC reported. Record options volume came with the move. Memory and cloud names rallied too: Micron gained about 19% and CoreWeave about 22%.",
+      "The Nasdaq rose 6.51% to 24,089.56 and the S&P 500 gained 4.73% to 7,237.17. For both, it was the best session since 9 April 2025. The Dow added 1,448 points, or 3.01%. The rebound followed seven straight losing days for the S&P 500, which had ended Friday in correction.",
+      "Questions remain. The board said its own investigation will continue, and it has set up a committee of independent directors on national security and export controls. Senate Democrats have promised to investigate. In Asia on Tuesday, the Nikkei was up about 3% and the Kospi nearly 6% in early trade."
+    ]
+  },
+  "top": [
+    "Nvidia reinstated Jensen Huang as CEO, and its shares jumped 31%, leading Wall Street's biggest rally since April 2025.",
+    "CrowdStrike agreed to buy Zscaler in an all-stock deal worth about $44 billion.",
+    "The Sensex fell 1,484 points on Monday, led by banks and metals, before Wall Street's rebound; Indian markets are shut today.",
+    "Capita's chief executive left with immediate effect as the UK outsourcer cut its 2027 profit outlook and planned a £190 million share sale.",
+    "JPMorgan said hedge funds lost more than 3% in the week to 20 November, their worst week since April 2025."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "Nasdaq +6.51% · S&P 500 +4.73% · Dow +1,448 pts",
+          "headline": "Wall Street Roars Back From Correction",
+          "body": "Technology stocks in the S&P 500 rose about 9% as the Huang news revived the AI trade. The rally ended a seven-session losing run for the S&P 500."
+        },
+        {
+          "fig": "Sensex 82,435.99 (−1,483.72) · Nifty 25,349.65 (−450.95)",
+          "headline": "Indian Shares Slide Before the US Rebound",
+          "body": "Banks and metal stocks led Monday's losses as investors booked profits, while the Nifty IT index gained about 2%. The rupee weakened 29 paise to a provisional 92.91 per dollar, and markets are closed on Tuesday for Guru Nanak Jayanti."
+        },
+        {
+          "fig": "Stoxx 600 +1.87% · DAX ~+2.3% · CAC +1.55% · FTSE +1.35%",
+          "headline": "Chipmakers Lead Europe Higher",
+          "body": "ASML rose nearly 10% and STMicroelectronics more than 9%, and banks gained as euro zone bond yields eased. Gold-linked miners Fresnillo and Antofagasta climbed more than 5%."
+        },
+        {
+          "fig": "Nikkei +3.05% · Kospi +5.84% (early Tue)",
+          "headline": "Asia Follows Wall Street Up",
+          "body": "Tokyo reopened after a holiday with gains led by chip stocks, and Seoul's Kospi briefly rose more than 6% after falling 3.3% on Monday. Futures pointed to big gains in Taiwan too."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "NVDA +31.48% to $165.05 · ~$950 bn added",
+          "headline": "Nvidia's Record Rebound",
+          "body": "The chipmaker regained most of its recent losses after Huang's return, and more than 11 million of its options contracts changed hands, a record for the stock."
+        },
+        {
+          "fig": "CRWV ~+22% · NBIS ~+20% · DELL ~+20% · MU ~+19% · TSLA ~+11%",
+          "headline": "AI Infrastructure Names Rally Hardest",
+          "body": "Cloud providers CoreWeave and Nebius, server maker Dell and memory maker Micron posted some of the biggest gains. Tesla, Meta and Alphabet each rose 6% or more."
+        },
+        {
+          "fig": "ZS ~+18% · CRWD ~−9%",
+          "headline": "Zscaler Soars, CrowdStrike Slips on Their Deal",
+          "body": "Zscaler shares jumped on CrowdStrike's all-stock offer, and CrowdStrike fell as investors weighed the cost of the deal."
+        },
+        {
+          "fig": "Tata Steel, Axis Bank, HDFC Bank among Nifty laggards",
+          "headline": "Banks and Steel Drag Dalal Street",
+          "body": "Tata Steel was among the weakest Nifty stocks on the first trading day after it agreed to sell its tubes and colour-coated units to APL Apollo. PSU lenders also fell."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "~$44 bn · all-stock · ~$260.41 per ZS share · 34% premium",
+          "headline": "CrowdStrike Agrees to Buy Zscaler",
+          "body": "Zscaler holders would get 1.135 CrowdStrike shares for each share they own. The two cybersecurity groups' boards have approved the deal, which still needs Zscaler shareholder and regulatory clearance."
+        },
+        {
+          "fig": "Up to $725 m in cash",
+          "headline": "Lilly Buys a Huntington's Drug Developer",
+          "body": "Eli Lilly is buying Cambridge, England-based LoQus23 Therapeutics, whose oral MSH3 inhibitor has not yet entered human trials. The total includes an undisclosed upfront payment plus milestone payments."
+        },
+        {
+          "fig": "Up to ₹28,000 cr",
+          "headline": "Tata Steel–APL Apollo Deal Faces Approvals",
+          "body": "The linked sale of Tata Steel's tubes business and Tata Steel Colors still needs approval from the competition regulator and APL Apollo shareholders, and is due to close by 31 March 2028."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "Week to 20 Nov: −3%+ · November: ~−4%",
+          "headline": "Hedge Funds Log Their Worst Week Since April 2025",
+          "body": "JPMorgan data showed funds cutting leverage and moving into defensive sectors during the AI sell-off. Goldman said long/short equity funds' net exposure fell to its lowest since before the pandemic."
+        },
+        {
+          "fig": "NVD −63% in one session",
+          "headline": "Nvidia Rebound Crushes Leveraged Bears",
+          "body": "Bloomberg reported that funds offering twice the inverse of Nvidia's daily move suffered losses of up to 92% as the stock surged."
+        },
+        {
+          "fig": "Oasis stake 15.2% · £190 m raise",
+          "headline": "Oasis to Back Capita's Share Sale",
+          "body": "Oasis Management, Capita's largest shareholder, said it plans to take up at least its share of the UK outsourcer's planned equity raise."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "2027 adj. op. profit cut £85–95 m",
+          "headline": "Capita CEO Exits as Outlook Darkens",
+          "body": "Adolfo Hernandez left the company and its board with immediate effect, and finance chief Pablo Andres takes over. Capita blamed pension-scheme contract costs and contract exits for the lower 2027 forecast."
+        },
+        {
+          "fig": "Effective 31 Dec 2026",
+          "headline": "Adyen Co-Founder to Step Down as Co-CEO",
+          "body": "Pieter van der Does will leave the payments firm's co-CEO role at the end of the year and stay on as an adviser, leaving Ingo Uytdehaage as sole chief executive."
+        },
+        {
+          "fig": "Home Depot: McPhail CEO from 23 Nov",
+          "headline": "Home Depot's New Chief Takes Charge",
+          "body": "Former finance chief Richard McPhail became chief executive on Monday, and Edward Decker stays on as board chair."
+        },
+        {
+          "fig": "$291.3 m · 22 deals · 16–20 Nov",
+          "headline": "Consumer Brands Drive a Strong Week for Indian Startups",
+          "body": "D2C fashion label Style Union raised about $51.8 million, tea chain Boba Bhai raised $18 million in a Series B, and branded-egg firm Henfruit raised $15 million, according to Inc42's weekly tally."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "Stock market today: Live updates — CNBC", "url": "https://cnbc.com/2026/11/23/stock-market-today-live-updates.html"},
+    {"title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31% — CNBC", "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"},
+    {"title": "Nvidia 8-K press release, 23 November 2026 — SEC", "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm"},
+    {"title": "Nvidia brings Huang back after US govt 'input' — Dawn", "url": "https://www.dawn.com/news/2046666/nvidia-brings-huang-back-after-us-govt-input"},
+    {"title": "Nvidia board unanimously reinstates Jensen Huang — PBS NewsHour", "url": "https://www.pbs.org/newshour/nation/nvidia-board-unanimously-reinstates-jensen-huang-as-ceo-and-chairman"},
+    {"title": "Stock Market Today, Nov. 23: Markets Rebound From Correction — The Motley Fool", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"},
+    {"title": "Stock Market News for Nov 23, 2026 — Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-23-073600160.html"},
+    {"title": "Japanese, South Korean stocks rally as Huang returns — Gulf News", "url": "https://gulfnews.com/business/markets/japanese-skorean-stocks-surge-after-jensen-huangs-return-to-nvidia-1.500758625"},
+    {"title": "European stocks close up nearly 2% as chipmakers lead rebound — MLQ.ai", "url": "https://mlq.ai/news/european-stocks-close-up-nearly-2-as-chipmakers-lead-a-rebound-from-the-ai-rout/"},
+    {"title": "Why Sensex and Nifty are falling today — ETV Bharat", "url": "https://www.etvbharat.com/en/business/stock-market-crash-why-sensex-and-are-falling-today-enn26112303257"},
+    {"title": "Stock Market Close: Sensex tanks 1,484 pts — Business Standard", "url": "https://www.business-standard.com/markets/news/stock-market-live-november-23-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126112300084_1.html"},
+    {"title": "CrowdStrike to acquire Zscaler in $43.9 billion deal — Cybersecurity News", "url": "https://cybersecuritynews.com/crowdstrike-acquire-zscaler/"},
+    {"title": "CrowdStrike agrees to buy Zscaler in $44B all-stock deal — 456x Research", "url": "https://456xresearch.substack.com/p/crowdstrike-agrees-to-buy-zscaler"},
+    {"title": "Lilly buys Huntington's drug developer LoQus23 — BioPharma Dive", "url": "https://www.biopharmadive.com/news/lilly-loqus-huntingtons-drug-acquisition-deal/875448/"},
+    {"title": "Hedge funds suffer worst weekly losses since April 2025 — Hedgeweek", "url": "https://hedgeweek.com/news/hedge-funds-suffer-worst-weekly-losses-since-april-2025-amid-ai-selloff"},
+    {"title": "Hedge funds cut risk as AI stocks take a hit — Finimize", "url": "https://finimize.com/content/hedge-funds-cut-risk-as-ai-stocks-take-a-hit"},
+    {"title": "Nvidia surge crushes short-leveraged funds — Bloomberg", "url": "https://bloomberg.com/news/articles/2026-11-23/nvidia-s-big-rebound-hammers-leveraged-funds-betting-on-a-fall"},
+    {"title": "Capita CEO steps down as firm plans £190m equity raise — Investing.com", "url": "https://uk.investing.com/news/stock-market-news/capita-ceo-steps-down-as-firm-plans-190m-equity-raise-93CH-4998418"},
+    {"title": "Adyen co-founder Pieter van der Does to step down as co-CEO — Startup Fortune", "url": "https://startupfortune.com/adyen-co-founder-pieter-van-der-does-to-step-down-as-co-ceo-at-the-end-of-2026/"},
+    {"title": "Home Depot, Aon, Bright Horizons rework top jobs — Boardroom Alpha", "url": "https://www.boardroomalpha.com/research/home-depot-aon-weekly-executive-moves-nov-20-2026"},
+    {"title": "From Dreamteam to Boba Bhai — Indian startups raised over $291 Mn this week — Inc42", "url": "https://inc42.com/buzz/from-dreamteam-to-boba-bhai-indian-startups-raised-over-291-mn-this-week/"}
+  ]
+}

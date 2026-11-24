@@ -1,6 +1,13 @@
 {
   "editions": [
     {
+      "id": "2026-11-24",
+      "issue": 15,
+      "date": "Tuesday, 24 November 2026",
+      "edition": "Morning Edition",
+      "headline": "Nvidia Brings Back Jensen Huang, and Wall Street Has Its Best Day Since April 2025"
+    },
+    {
       "id": "2026-11-23",
       "issue": 14,
       "date": "Monday, 23 November 2026",
