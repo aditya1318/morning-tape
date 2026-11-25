@@ -1,0 +1,188 @@
+{
+  "id": "2026-11-25",
+  "issue": 16,
+  "date": "Wednesday, 25 November 2026",
+  "edition": "Morning Edition",
+  "ticker": [
+    {"name": "S&P 500", "value": "7,201.09", "change": "−0.50%", "dir": "down"},
+    {"name": "Dow", "value": "50,018.70", "change": "+0.85%", "dir": "up"},
+    {"name": "Nasdaq", "value": "23,733.54", "change": "−1.48%", "dir": "down"},
+    {"name": "Nifty 50", "value": "25,349.65", "change": "", "dir": ""},
+    {"name": "Stoxx 600", "value": "632.69", "change": "−0.67%", "dir": "down"},
+    {"name": "FTSE 100", "value": "10,467.54", "change": "−0.13%", "dir": "down"},
+    {"name": "Nikkei 225", "value": "58,644.63", "change": "+3.91%", "dir": "up"},
+    {"name": "Brent", "value": "$91.40", "change": "+2.3%", "dir": "up"}
+  ],
+  "tickerNote": "Tuesday 24 Nov closes. Indian markets were shut for Guru Nanak Jayanti, so the Nifty shows Monday's close",
+  "lead": {
+    "kicker": "Markets · AI",
+    "headline": "Chip Stocks Hand Back the Huang Rally as Anthropic Sinks Below Its IPO Price",
+    "deck": "The Philadelphia semiconductor index fell 7.9% a day after its surge. Money rotated into health care and retailers, lifting the Dow above 50,000.",
+    "body": [
+      "The AI trade went into reverse on Tuesday, a day after Nvidia's reinstatement of Jensen Huang set off Wall Street's best session since April 2025. Nvidia fell 5.9%, the Philadelphia semiconductor index dropped 7.9% and the technology sector lost 2.8%, Reuters reported. Investors weighed the governance and political questions around Huang's return, and Chinese state media said it was unlikely to ease US export curbs.",
+      "Anthropic shares closed down 6.5% at $81.90, below the $83 price of last week's $81.3 billion offering, which CNBC calls the largest ever. The stock opened at $111.50 on its 19 November debut and has slid since. It took four trading days to break its offer price. Wedbush, Canaccord Genuity and Oppenheimer all started coverage with positive ratings this week.",
+      "The Nasdaq fell 1.48% to 23,733.54 and the S&P 500 slipped 0.50% to 7,201.09. The Dow rose 423 points, or 0.85%, to 50,018.70, as investors moved into health care and retailers after strong results from Abercrombie & Fitch, Dollar Tree and Best Buy. Consumer confidence rose to its highest in nearly two years.",
+      "Attention now turns to Wednesday's PCE inflation report. CME FedWatch put the odds of a December rate hike at about 97%. Traders are also watching for new US tariffs on 16 trading partners, India among them, expected after a probe into excess factory capacity."
+    ]
+  },
+  "top": [
+    "Chip stocks fell sharply a day after Nvidia's rebound, and Anthropic closed below its $83 IPO price.",
+    "Sanofi agreed to buy Insmed for about $41 billion in cash, the biggest biopharma deal of the year.",
+    "The US is set to announce new tariffs on 16 trading partners, India among them, after a probe into excess capacity.",
+    "Abercrombie & Fitch jumped about 20% and Dollar Tree 11% after both raised their profit forecasts.",
+    "Gold fell more than 2% and silver more than 5%, while Brent rose 2.3% after new tanker attacks near the Strait of Hormuz."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "Nasdaq −1.48% · S&P 500 −0.50% · Dow +0.85% to 50,018.70",
+          "headline": "Wall Street Splits as Tech Retreats",
+          "body": "The tech-heavy indices gave back part of Monday's gains, but the Dow closed above 50,000 as health care led the S&P 500's sectors. Fed funds futures price in a December rate hike, and PCE inflation data is due on Wednesday."
+        },
+        {
+          "fig": "Stoxx 600 −0.67% · DAX −1.3% · CAC −0.01% · FTSE −0.13%",
+          "headline": "Europe Loses Its Chip Momentum",
+          "body": "Tech and mining, Monday's best sectors, were Tuesday's worst. Infineon fell more than 9% and Aixtron about 16%, while health care rose almost 2% on Sanofi's deal."
+        },
+        {
+          "fig": "Nikkei +3.91% · Kospi +6.3% · Hang Seng −0.73%",
+          "headline": "Asia Rallies, Except Hong Kong",
+          "body": "Japan and South Korea caught up with Monday's US rebound as Samsung Electronics and SK Hynix each gained 6.7%, and TSMC rose 9.9%. Hong Kong slipped after the US blacklisted an Alibaba unit over suspected chip diversion."
+        },
+        {
+          "fig": "Brent $91.40 (+2.3%) · Gold ~$3,552 (−2.25%) · Silver ~$40.79 (−5.2%)",
+          "headline": "Oil Climbs, Precious Metals Slide",
+          "body": "New tanker attacks near the Strait of Hormuz lifted crude, Kitco reported. Gold traded near a 14-month low, and the 10-year Treasury yield eased toward 4.90%."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "NVDA −5.9% · SOX −7.9%, all 30 members down",
+          "headline": "Nvidia Leads a Broad Chip Sell-Off",
+          "body": "Nvidia gave back part of Monday's 31% jump, and every stock in the Philadelphia semiconductor index fell. Neocloud names such as CoreWeave and Nebius also declined during the session."
+        },
+        {
+          "fig": "ANT −6.5% to $81.90 · IPO price $83",
+          "headline": "Anthropic Breaks Its Offer Price",
+          "body": "The AI developer fell below its listing price less than a week after its record debut. Reuters said the drop was on course to erase close to $200 billion of market value from Tuesday's session."
+        },
+        {
+          "fig": "ANF ~+20% · DLTR +11.2% · BBY ~+3%",
+          "headline": "Retailers Rally on Raised Forecasts",
+          "body": "Abercrombie & Fitch raised its full-year profit outlook, and Dollar Tree beat estimates, though part of its higher forecast comes from tariff refunds. Best Buy posted 6.1% comparable-sales growth and raised its guidance."
+        },
+        {
+          "fig": "SAN.PA +9.7% · Clariane +35%",
+          "headline": "Sanofi and Clariane Top Europe's Gainers",
+          "body": "Sanofi rose on its Insmed deal. French care-home operator Clariane jumped after its two largest shareholders said they plan a tender offer."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "~$41 bn · $175 per share in cash · 46% premium to unaffected price",
+          "headline": "Sanofi Agrees to Buy Insmed",
+          "body": "The French drugmaker is buying the US maker of the lung drugs Brinsupri and Arikayce, to help replace growth when Dupixent loses key patents. It expects the deal to close in the first half of 2027 and to add to earnings per share by the end of 2028."
+        },
+        {
+          "fig": "~$3 bn · all-stock · 0.0831 new shares per EagleRock share",
+          "headline": "Texas Pacific Land to Merge With EagleRock",
+          "body": "Current Texas Pacific Land holders would own about 86% of the combined Permian land and water company. The board also raised its buyback authorisation to $500 million."
+        },
+        {
+          "fig": "$450 m",
+          "headline": "OpenTable Buys Australia's me&u",
+          "body": "The restaurant-booking platform agreed to acquire the Australian order-and-pay hospitality tech firm. The deal is due to complete in the first half of 2027, subject to approvals."
+        },
+        {
+          "fig": "$130 m cash · completed",
+          "headline": "Digi International Closes Disruptive Technologies Purchase",
+          "body": "The IoT firm completed the deal after receiving a required UK regulatory approval."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "Kospi +6.3% · TSMC +9.9%",
+          "headline": "Short Covering Fuels Asia's Tech Rally",
+          "body": "Analysts quoted by the Financial Times said hedge funds and systematic strategies closing out shorts built during the tech sell-off drove part of Tuesday's surge in Asian chip stocks."
+        },
+        {
+          "fig": "~$1 bn award · Sina take-private at $43.30/share",
+          "headline": "Oasis, Boothbay Face a Hard Fight to Collect From Sina",
+          "body": "Sina has told a Cayman court that paying a record appraisal award to the funds could make it insolvent, Hedgeweek reported. It has appealed and asked for other creditors, including Weibo, to rank ahead of the investors."
+        },
+        {
+          "fig": "3 launch strategies · daily liquidity",
+          "headline": "Kairos Opens a Multi-Manager UCITS Fund",
+          "body": "Milan-based Kairos Partners launched a fund that allocates to outside managers, starting with long/short equity, trend-following and systematic macro."
+        },
+        {
+          "fig": "",
+          "headline": "Hong Kong Proposes Tax Breaks for Pod Managers",
+          "body": "Draft guidance would let performance bonuses paid to individual portfolio managers at multi-manager funds qualify for tax concessions, based on their own portfolio's returns."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "16 economies · Section 301 · possible 15–25% extra duty",
+          "headline": "New US Tariffs Loom for India and 15 Others",
+          "body": "The Trump administration is set to release findings from its probe into excess industrial capacity, with new import duties expected. A former Commerce official told Reuters that rates could be stacked on the 10–12.5% duties imposed in July, and India has argued its capacity reflects expected demand, not subsidies."
+        },
+        {
+          "fig": "Conference Board index: near 2-year high",
+          "headline": "US Consumer Confidence Rises",
+          "body": "The Conference Board's November index rose to its highest level in nearly two years, as retailers reported strong holiday-quarter starts."
+        },
+        {
+          "fig": "₹1,000 cr target · ₹400 cr greenshoe",
+          "headline": "Ex-Infosys Executives Launch a Deeptech Fund",
+          "body": "CortexSpark Ventures, founded by Vinay Peshwa and Sanjay Khanduri, plans to back about 20 startups in areas such as spacetech, defence tech and robotics, with average cheques of $4–5 million."
+        },
+        {
+          "fig": "₹22.36 cr",
+          "headline": "Avaana Capital Backs Cosine Robots",
+          "body": "The Bengaluru robotics startup raised the round with participation from WEH Ventures and angel investors. Separately, Cashfree launched a wallet that lets users authorise AI agents to make payments."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "Nasdaq, S&P 500 close lower, giving up some Nvidia-fueled gains — NBC News / Reuters", "url": "https://www.nbcnews.com/business/markets/stocks-lower-after-nvidia-fueled-gains-rcna611211"},
+    {"title": "Markets today: Nvidia and other AI stocks fall, dragging Wall Street — BNN Bloomberg", "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/11/24/tech-stocks-wane-a-day-after-a-huang-rally-as-anthropic-tumbles-below-its-initial-offering-price/"},
+    {"title": "Stock market today, Tuesday November 24 — Yahoo Finance", "url": "https://ca.finance.yahoo.com/news/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"},
+    {"title": "Anthropic closes below $83 IPO price, but analysts are still largely positive — CNBC", "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"},
+    {"title": "Anthropic shares tumble below $83 IPO price — Investing.com / Reuters", "url": "https://www.investing.com/news/economy-news/anthropic-breaks-below-83-ipo-price-as-debut-rally-unravels-5047654"},
+    {"title": "European stocks close lower as Infineon and miners slide; Sanofi jumps — MLQ.ai", "url": "https://mlq.ai/news/european-stocks-close-lower-as-infineon-and-miners-slide-sanofi-jumps-on-its-41-billion-insmed-deal/"},
+    {"title": "Hedge funds cover tech shorts as Nvidia comeback sparks Asian rally — Hedgeweek", "url": "https://hedgeweek.com/news/hedge-funds-cover-tech-shorts-as-nvidia-comeback-sparks-asian-rally"},
+    {"title": "Hang Seng falls 0.73% after US blacklists Alibaba unit — BBN Times", "url": "https://www.bbntimes.com/companies/hong-kong-stock-exchange-today-hang-seng-falls-0-73-to-22-219-65-after-us-blacklists-alibaba-unit"},
+    {"title": "Closing Look — Tuesday, November 24, 2026 — Capp Notes", "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-24"},
+    {"title": "Gold, silver extend losses as tech stocks slide — Kitco", "url": "https://www.kitco.com/news/article/2026-11-24/gold-silver-extend-losses-tech-stocks-slide-fed-inflation-test-looms-kitco"},
+    {"title": "Sanofi, with $41B Insmed buy, inks year's biggest biopharma acquisition — BioPharma Dive", "url": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/"},
+    {"title": "Sanofi to Acquire Insmed — Insmed investor release", "url": "https://investor.insmed.com/2026-11-24-Sanofi-to-Acquire-Insmed-in-Strategic-Step-that-Strengthens-Long-Term-Future"},
+    {"title": "Texas Pacific Land agrees $3bn all-stock acquisition of EagleRock — Offshore Technology", "url": "https://www.offshore-technology.com/news/texas-pacific-land-3bn-acquisition-eaglerock/"},
+    {"title": "OpenTable to buy Australia's me&u for $450M — Dealroom", "url": "https://dealroom.co/news/175461-opentable-to-buy-australia-s-me-u-for-450m/"},
+    {"title": "Digi International completes acquisition of Disruptive Technologies — Quantisnow", "url": "https://www.quantisnow.com/insight/digi-international-completes-acquisition-of-disruptive-technologies-expanding-smartsense-physical-world-6805486"},
+    {"title": "Retail stocks soar on strong earnings — TipRanks", "url": "https://www.tipranks.com/news/retail-stocks-bby-dltr-dks-anf-kss-and-burl-soar-on-strong-earnings-today"},
+    {"title": "Abercrombie lifts annual sales and profit forecast — PiQ Markets", "url": "https://piqmarkets.com/story/abercrombie-lifts-annual-sales-and-profit-forecast-shares-rise-22"},
+    {"title": "Hedge funds face uncertainty over $1bn Cayman Islands appraisal award — Hedgeweek", "url": "https://hedgeweek.com/news/hedge-funds-face-uncertainty-over-1bn-cayman-islands-appraisal-award"},
+    {"title": "Kairos launches daily-liquid fund allocating to external managers — Hedgeweek", "url": "https://hedgeweek.com/news/kairos-launches-daily-liquid-fund-allocating-to-external-managers"},
+    {"title": "Hong Kong tax breaks to benefit top hedge fund portfolio managers — Hedgeweek", "url": "https://hedgeweek.com/news/hong-kong-tax-breaks-to-benefit-top-hedge-fund-portfolio-managers"},
+    {"title": "Trump administration set to unveil new tariffs after probe on excess factory capacity — US News / Reuters", "url": "https://www.usnews.com/news/top-news/articles/2026-11-24/trump-administration-set-to-unveil-new-tariffs-after-probe-on-excess-factory-capacity-sources-say"},
+    {"title": "US Section 301 probe: new tariffs on 16 trading partners expected — IndexBox", "url": "https://www.indexbox.io/blog/trump-administration-to-unveil-section-301-excess-capacity-probe-findings-new-tariffs-on-16-trading-partners/"},
+    {"title": "Ex-Infosys executives' CortexSpark Ventures launches ₹1,000 Cr deeptech fund — Inc42", "url": "https://inc42.com/buzz/ex-infosys-executives-cortexspark-ventures-launches-%E2%82%B91000-cr-deeptech-fund/"},
+    {"title": "Startup news and updates: Daily roundup (November 24, 2026) — YourStory", "url": "https://yourstory.com/2026/11/startup-news-updates-daily-roundup-november-24-2026"}
+  ]
+}
