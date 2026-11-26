@@ -1,6 +1,13 @@
 {
   "editions": [
     {
+      "id": "2026-11-26",
+      "issue": 17,
+      "date": "Thursday, 26 November 2026",
+      "edition": "Morning Edition",
+      "headline": "Wall Street Claws Back From a 1,100-Point Dow Plunge as Hot Inflation Locks In a December Hike"
+    },
+    {
       "id": "2026-11-25",
       "issue": 16,
       "date": "Wednesday, 25 November 2026",

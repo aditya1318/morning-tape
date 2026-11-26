@@ -1,0 +1,169 @@
+{
+  "id": "2026-11-26",
+  "issue": 17,
+  "date": "Thursday, 26 November 2026",
+  "edition": "Morning Edition",
+  "ticker": [
+    {"name": "S&P 500", "value": "7,182.78", "change": "−0.25%", "dir": "down"},
+    {"name": "Dow", "value": "50,182.95", "change": "+0.33%", "dir": "up"},
+    {"name": "Nasdaq", "value": "23,585.80", "change": "−0.62%", "dir": "down"},
+    {"name": "Nifty 50", "value": "25,819.25", "change": "+1.85%", "dir": "up"},
+    {"name": "Sensex", "value": "83,938.28", "change": "+1.82%", "dir": "up"},
+    {"name": "Stoxx 600", "value": "626.03", "change": "−1.06%", "dir": "down"},
+    {"name": "Kospi", "value": "", "change": "−6.16%", "dir": "down"},
+    {"name": "Brent", "value": "$94.61", "change": "+3.51%", "dir": "up"}
+  ],
+  "tickerNote": "Wednesday 25 Nov closes. US markets are shut on Thursday for Thanksgiving and close early on Friday",
+  "lead": {
+    "kicker": "Markets · Inflation",
+    "headline": "Wall Street Claws Back From a 1,100-Point Dow Plunge as Hot Inflation Locks In a December Hike",
+    "deck": "The Nasdaq was down as much as 4.6% before a late rebound. Core PCE came in above forecasts, and Washington proposed new tariffs on 14 economies, India among them.",
+    "body": [
+      "US stocks swung wildly on Wednesday before ending mixed. The Dow fell more than 1,100 points at its low, then closed up 164 points, or 0.33%, at 50,182.95. The S&P 500 had been down as much as 3.2% and finished 0.25% lower at 7,182.78, while the Nasdaq trimmed a 4.6% intraday slide to a 0.62% loss at 23,585.80.",
+      "The trigger was inflation. The PCE price index rose 3.8% in October from a year earlier, and the core measure rose 3.3%, a little above the 3.2% consensus. Core prices rose 0.3% for a third straight month. Markets priced the chance of a December Fed rate hike at roughly 93–98%. Treasury yields still eased, with the 10-year down about 6 basis points to 4.85%, and third-quarter GDP was revised up to 4.3% annualised.",
+      "The AI sell-off continued underneath. Nvidia fell 3.91% and is down 27% for November, after S&P Global put its AA credit rating on watch for a possible downgrade over governance concerns tied to Jensen Huang's brief ouster and return. Oracle lost 5.1%, Micron 4.5% and Sandisk 5.6%. Energy led the sectors as Brent jumped 3.5% to $94.61 after Houthi forces said they struck Saudi Arabia's Ras Tanura refinery.",
+      "Trade added to the uncertainty. The US Trade Representative proposed new Section 301 tariffs on 14 economies over what it calls structural excess capacity, with rates of up to 25% for India and up to 20% for China. Trade Representative Jamieson Greer told CNBC the duties are likely months away and should not fully stack on existing ones. US markets are closed on Thursday for Thanksgiving."
+    ]
+  },
+  "top": [
+    "The Dow erased a 1,100-point drop to close higher, but hot core PCE inflation cemented bets on a December Fed hike.",
+    "The US proposed new Section 301 tariffs on 14 economies, with rates of up to 25% for India; comments are due 5 January.",
+    "S&P Global put Nvidia's AA credit rating on watch for a downgrade over board oversight and succession risk.",
+    "Sensex jumped 1,502 points and the Nifty 1.85% on foreign buying and FMCG strength, a day after Asia's AI rout.",
+    "Leopold Aschenbrenner's Situational Awareness fund told investors it lost 65% in the third quarter, the WSJ reported."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "Core PCE +3.3% y/y · Headline +3.8% · Q3 GDP revised to 4.3%",
+          "headline": "Inflation Runs Hot, Hike Bets Firm Up",
+          "body": "October's PCE data came in slightly above expectations, leaving futures pricing a December rate hike as near-certain. Yields still fell, with the 2-year at 4.61% and the 10-year at 4.85%."
+        },
+        {
+          "fig": "Sensex +1,502.29 to 83,938.28 · Nifty +469.60 to 25,819.25",
+          "headline": "Indian Stocks Roar Back After the Holiday",
+          "body": "Private banks, financials and consumer staples led the rebound, helped by foreign buying and softer crude in Asian hours. Metals and media lagged, and the smallcap index slipped 0.44%."
+        },
+        {
+          "fig": "Stoxx 600 −1.06% · DAX −1.26% · CAC −0.75%",
+          "headline": "Europe Gives Up Early Gains",
+          "body": "European shares opened higher on autos and consumer names but turned lower as the AI sell-off on Wall Street deepened and the US inflation print hardened rate-hike expectations."
+        },
+        {
+          "fig": "Kospi −6.16% · Nikkei −2.78% · Brent $94.61 (+3.51%)",
+          "headline": "Asia's Chipmakers Tumble, Oil Jumps",
+          "body": "Samsung fell 9.9%, SK Hynix 10.3% and SoftBank 14.8% as the AI rout hit Asia. Oil rallied after the reported attack on Saudi Arabia's Ras Tanura refinery."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "NVDA −3.91% · −27% in November",
+          "headline": "S&P Puts Nvidia's Rating on Watch",
+          "body": "The agency cited board independence and key-man risk after Huang's ouster and reinstatement, and cut its governance assessment to neutral. Moody's left its rating unchanged."
+        },
+        {
+          "fig": "HPQ +11.49% · DE +4.44% · CNH +8.00%",
+          "headline": "HP Leads the Day's Gainers",
+          "body": "HP beat fiscal fourth-quarter estimates, gave an upbeat outlook and raised its dividend. Deere rose despite an earnings miss and a soft 2027 forecast, lifting fellow farm-equipment maker CNH."
+        },
+        {
+          "fig": "AMBA −19.77% · NTNX −15.19% · URBN −10.33%",
+          "headline": "Weak Guidance Sinks Ambarella and Nutanix",
+          "body": "Ambarella's revenue guidance fell far short, which it tied to memory-chip shortages. Nutanix guided below forecasts and announced CEO Rajiv Ramaswami's planned exit, and Urban Outfitters missed on comparable sales."
+        },
+        {
+          "fig": "HUL, Tata Consumer, Nestle India among top Nifty gainers",
+          "headline": "Staples Lead Mumbai, Steelmakers Lag",
+          "body": "Hindustan Unilever, Tata Consumer and HDFC Life were among the Nifty's best performers. Tata Steel, Hindalco and JSW Steel were among the weakest as the metal index fell 2%."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "350,000 boe/day · 3 refineries · 2,000+ fuel stations",
+          "headline": "Eldridge-Led Group Agrees to Take Over Lukoil's Foreign Assets",
+          "body": "A US-led consortium will swap restricted Russian shares for all of Lukoil International, which operates in 11 countries. The deal needs OFAC approval, and the proceeds will sit in a restricted account until sanctions lift or five years pass."
+        },
+        {
+          "fig": "5 directors per side · Morgan Stanley, Goldman, Evercore advising",
+          "headline": "Tesla and SpaceX Form Merger Committees",
+          "body": "Both boards have set up special committees to negotiate a possible all-stock combination, Reuters reported, though no deal has been agreed. Defence contracts and Tesla's exposure to China could draw regulatory scrutiny."
+        },
+        {
+          "fig": "$40 m valuation",
+          "headline": "Vivakor to Buy Direct Midstream",
+          "body": "The energy services company disclosed an agreement to acquire all of the membership interests in Direct Midstream."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "Q3 −65% after fees · +88.5% year to September",
+          "headline": "Situational Awareness Reveals a Brutal Quarter",
+          "body": "Leopold Aschenbrenner's AI-focused fund told investors it nearly collapsed in the summer on leveraged bets, according to the Wall Street Journal. It has reshaped its portfolio and is hiring a chief risk officer."
+        },
+        {
+          "fig": "SOFR call open interest +1.3 m contracts in November",
+          "headline": "Funds Hedge Against a Fed Overshoot",
+          "body": "Hedge funds are buying protection against the risk that rate hikes hurt growth and force the Fed back to easing, Hedgeweek reported, citing Bloomberg. Treasury options positioning has tilted toward calls."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "India up to 25% · 17% with a trade pact · China up to 20%",
+          "headline": "US Proposes Overcapacity Tariffs on 14 Economies",
+          "body": "The USTR's Section 301 plan covers China, the EU, Japan and India, with public comments due by 5 January 2027. Greer said the duties are largely already expected by trading partners and are unlikely to start for a couple of months."
+        },
+        {
+          "fig": "~₹297 cr · Series A · led by A91 Partners",
+          "headline": "AidenAI Raises About $32 Million",
+          "body": "The enterprise AI startup closed one of the larger Indian rounds of the day. Separately, JioStar carried out a second round of layoffs, Inc42 reported."
+        },
+        {
+          "fig": "$12 m adjusted EBITDA · H1 FY27",
+          "headline": "PayU India Turns Profitable on an Adjusted Basis",
+          "body": "The payments firm reported positive adjusted EBITDA for the first half of the fiscal year. US firm VU Venture Partners also entered India, with seed and Series A cheques of $100,000 to $1 million."
+        },
+        {
+          "fig": "₹22.6 cr · pre-Series A",
+          "headline": "Silver Jewellery Brand Zavya Raises Funds",
+          "body": "The Gurugram D2C brand's round was led by Daksham Growth Ventures. Skincare brand Numour is reportedly in talks to raise about $3.1 million led by Sharrp Ventures."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "Closing Look — Wednesday, November 25, 2026 — Capp Notes", "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-25"},
+    {"title": "Stock Market Today, Nov. 25: Dow Erases 1,100-Point Loss — Yahoo Finance / Motley Fool", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-25-221745503.html"},
+    {"title": "Stock Market Today, Nov. 25: Nvidia Slides 3.9% — Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-25-220645995.html"},
+    {"title": "Closing Bell 25 November 2026: Sensex and Nifty 50 rebound — Kotak Neo", "url": "https://www.kotakneo.com/news/market-news/sensex-nifty-recover-on-fii-buying-and-lower-crude-prices/"},
+    {"title": "BSE Sensex jumps to 83,938.28 — BBN Times", "url": "https://www.bbntimes.com/financial/bse-sensex-jumps-to-83-938-28-as-fmcg-rally-and-rupee-strength-defy-asia-s-ai-rout"},
+    {"title": "European stocks close down 1% as chipmakers slide — MLQ.ai", "url": "https://mlq.ai/news/european-stocks-close-down-1-as-chipmakers-slide-with-a-4-nasdaq-drop-carmakers-hold-gains-on-eu-hybrid-caps/"},
+    {"title": "U.S. unveils new Section 301 tariffs targeting China, EU and others — CNBC", "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"},
+    {"title": "USTR proposes Section 301 tariffs on 14 economies — Baker McKenzie Global Import Blog", "url": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"},
+    {"title": "S&P places Nvidia rating on CreditWatch Negative — Virginia Business", "url": "https://virginiabusiness.com/sp-global-nvidia-rating-creditwatch-negative-governance-risks/"},
+    {"title": "S&P puts Nvidia on credit watch, Moody's leaves it unchanged — Benzinga", "url": "https://www.benzinga.com/markets/tech/26/11/63659241/sp-global-ratings-nvidia-negative-credit-watch-moodys-jensen-huang-return"},
+    {"title": "Consortium deal moves Lukoil energy assets — Main Street", "url": "https://wearemainstreet.org/world/2026/11/25/consortium-acquire-lukoil-international-energy-portfolio"},
+    {"title": "SpaceX, Tesla set up teams of directors to negotiate possible merger — Business Standard / Reuters", "url": "https://business-standard.com/world-news/spacex-tesla-set-up-teams-of-directors-to-negotiate-possible-merger-126112500251_1.html"},
+    {"title": "Vivakor agrees to acquire Direct Midstream at $40M valuation — Kalkine", "url": "https://kalkine.com/news/announcements/vivakor-agrees-to-acquire-direct-midstream-at-40m-valuation"},
+    {"title": "Situational Awareness lost 65% in third quarter, WSJ says — Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-26/situational-awareness-ai-65-hedge-fund-third-quarter-wsj-says"},
+    {"title": "Situational Awareness hedge fund told investors it lost 65% in third quarter — PiQ Markets", "url": "https://piqmarkets.com/story/situational-awareness-hedge-fund-told-investors-it-lost-65-in-third-quarter"},
+    {"title": "Hedge funds increase rate-cut hedges amid fears of Fed policy overshooting — Hedgeweek", "url": "https://hedgeweek.com/news/hedge-funds-increase-rate-cut-hedges-amid-fears-of-fed-policy-overshooting"},
+    {"title": "Layoffs at JioStar, AidenAI nets $32 Mn & more — Inc42", "url": "https://inc42.com/buzz/layoffs-at-jiostar-aidenai-nets-32-mn-more"},
+    {"title": "PayU India turns adjusted EBITDA profitable in H1 FY27 — Inc42", "url": "https://inc42.com/buzz/payu-india-turns-adjusted-ebitda-profitable-in-h1-fy27"},
+    {"title": "OpenAI, SpaceX backer VU Venture Partners enters Indian startup market — Inc42", "url": "https://inc42.com/buzz/openai-spacex-backer-vu-venture-partners-enters-indian-startup-market"},
+    {"title": "Startup News — Get Into D2C", "url": "https://getintod2c.in/startup-news/"}
+  ]
+}
