@@ -1,0 +1,175 @@
+{
+  "id": "2026-11-27",
+  "issue": 18,
+  "date": "Friday, 27 November 2026",
+  "edition": "Morning Edition",
+  "ticker": [
+    {"name": "Sensex", "value": "84,328.59", "change": "+0.46%", "dir": "up"},
+    {"name": "Nifty 50", "value": "25,884.50", "change": "+0.25%", "dir": "up"},
+    {"name": "Stoxx 600", "value": "637.50", "change": "+1.83%", "dir": "up"},
+    {"name": "DAX", "value": "25,231.42", "change": "+2.14%", "dir": "up"},
+    {"name": "FTSE 100", "value": "10,609.30", "change": "+1.75%", "dir": "up"},
+    {"name": "Nikkei 225", "value": "57,499.16", "change": "+0.86%", "dir": "up"},
+    {"name": "Kospi", "value": "4,711.18", "change": "+0.29%", "dir": "up"},
+    {"name": "USD/INR", "value": "92.44", "change": "Rupee −24 paise", "dir": "down"}
+  ],
+  "tickerNote": "Thursday 26 Nov closes for India, Europe and Asia. US markets were shut for Thanksgiving; Wall Street reopens for a shortened session on Friday",
+  "lead": {
+    "kicker": "Deals · Europe",
+    "headline": "Altria Weighs a Cash Bid for Imperial Brands as Europe Rallies on a Softer Tariff Read",
+    "deck": "Imperial jumped 13% after the Marlboro maker confirmed it is studying an offer. The Stoxx 600 gained 1.8% as investors judged Washington's new tariff plan milder than feared.",
+    "body": [
+      "Altria confirmed on Thursday that it is considering a possible offer for Imperial Brands, the UK maker of Winston and JPS cigarettes, and said any bid would likely be entirely in cash. It stressed that no agreement has been reached. Altria also said it is talking to an unnamed third party about that party buying part of Imperial's business. Bloomberg reported that Japan Tobacco is weighing a bid, though reports differ on whether it is the third party and on how the assets would be split.",
+      "Imperial's shares closed 13.27% higher at 3,432 pence after rising as much as about 17.6% during the day. Imperial said it has not received an approach and that its board would consider any proposal. Under UK takeover rules, Altria has until 5 p.m. London time on 24 December to make a firm offer or walk away. RBC analysts said a joint bid could help sidestep antitrust objections.",
+      "The deal news landed on a strong day for European stocks. The Stoxx 600 rose 1.83% to 637.50, Germany's DAX gained 2.14% and Italy's FTSE MIB 2.36%, with every one of its 40 members higher. Investors read the US Trade Representative's proposed tariffs on 14 economies as less damaging than first feared: the plan aims to cap duties for the EU, Japan, South Korea, Taiwan and Switzerland at 15%, including existing levies, and the tariffs are not expected before a 25 January hearing. Chipmakers led a tech rebound, with ASML up 3.23% and Infineon up 3.57%.",
+      "Elsewhere, Asian markets steadied after Wednesday's chip rout, and Indian benchmarks posted a second day of gains led by IT stocks, though higher crude kept the mood cautious. Brent traded around $95–96 a barrel during European hours after Houthi claims of a strike on a Saudi refinery and Iranian reports of mines in the Strait of Hormuz. OPEC+ meets on Sunday."
+    ]
+  },
+  "top": [
+    "Altria said it is weighing a likely all-cash bid for Imperial Brands, sending Imperial's shares up 13%; Japan Tobacco is reportedly also studying a bid.",
+    "European stocks rose 1.8% as investors judged the new US tariff plan, with a proposed 15% cap for the EU and Japan, milder than feared.",
+    "The Bank of Korea raised its base rate by 25 basis points to 3.25%, its highest since November 2024, citing a chip-led growth boom.",
+    "UniCredit cleared its last regulatory hurdle for Commerzbank and asked for a shareholder meeting to install CEO Andrea Orcel as chair.",
+    "Flipkart CEO Kalyan Krishnamurthy is stepping down after more than 11 years, and PhonePe has reportedly restarted its IPO process."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "Stoxx 600 +1.83% · DAX +2.14% · CAC +1.61% · FTSE MIB +2.36%",
+          "headline": "Europe Rallies as Tariff Fears Fade",
+          "body": "Markets treated the US tariff proposal as a lighter hit than expected, since it caps duties for major allies at levels already agreed in trade deals. Tech led the gains after the sector's index had lost about 12% so far in November."
+        },
+        {
+          "fig": "Sensex +390.31 to 84,328.59 · Nifty IT +3.66% · Nifty FMCG −0.94%",
+          "headline": "IT Stocks Carry Mumbai to a Second Day of Gains",
+          "body": "HCL Technologies, TCS and Infosys were among the Nifty's top gainers, while Asian Paints, Bajaj Finance and Nestle India lagged. Late selling trimmed early gains, and the rupee weakened 24 paise to a provisional 92.44 per dollar on higher crude and the proposed 25% US tariff on Indian goods."
+        },
+        {
+          "fig": "Bank of Korea 3.00% → 3.25% · Nikkei +0.86% · Kospi +0.29%",
+          "headline": "Seoul Hikes Again as Asia Steadies",
+          "body": "The Bank of Korea raised rates for the third time this half, citing stronger growth and inflation that is expected to stay above target, and lifted its 2026 growth forecast to 3.9%. Asian indices had risen about 2% early on but gave back most of the gains, while the Hang Seng closed 1.19% higher."
+        },
+        {
+          "fig": "Successor to Lagarde · first meeting 18 March",
+          "headline": "Euro Zone Picks Hernández de Cos to Lead the ECB",
+          "body": "Euro zone countries chose Spain's Pablo Hernández de Cos to succeed Christine Lagarde, who steps down early on 7 February. EU leaders are expected to give final approval at their December summit."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "Imperial Brands +13.27% to 3,432p",
+          "headline": "Bid Talk Lifts Imperial Brands",
+          "body": "The tobacco group had its biggest gain in years after Altria confirmed it is studying an offer. Commerzbank was one of Europe's few decliners, down 2.55%, as UniCredit moved to overhaul its board."
+        },
+        {
+          "fig": "Kioxia +12.57% · SoftBank +7.32% · SK Hynix +2.23%",
+          "headline": "Kioxia Soars on an Nvidia Memory Tie-Up",
+          "body": "The Japanese memory maker said it is working with Nvidia to explore expanding effective GPU memory to petabyte scale. Chip stocks across the region bounced after Wednesday's heavy losses."
+        },
+        {
+          "fig": "Siemens Energy India: Q4 profit +81.5% · Shaily +16.13%",
+          "headline": "Earnings Beats Drive Indian Mid-Cap Movers",
+          "body": "Siemens Energy India rallied after revenue rose 30.4% and new orders nearly doubled, and Shaily Engineering Plastics jumped after a 63% rise in second-quarter profit. Jupiter Wagons gained on a planned metro-train joint venture with South Korea's Woojin."
+        },
+        {
+          "fig": "LG Electronics India −2.94%",
+          "headline": "LG Electronics India Slips on Stake-Sale Plan",
+          "body": "The South Korean parent plans to sell up to 2% of the Indian unit to meet minimum public shareholding rules, adding to the supply of shares."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "Likely all-cash · put-up-or-shut-up deadline 24 Dec",
+          "headline": "Altria Circles Imperial Brands",
+          "body": "Altria is weighing a bid and is in talks with a third party about acquiring part of Imperial's business, with Japan Tobacco reported to be considering a move. Imperial said it has received no approach."
+        },
+        {
+          "fig": "9 of 10 shareholder seats targeted · Berlin holds ~13%",
+          "headline": "UniCredit Moves to Take Over Commerzbank's Boardroom",
+          "body": "After Poland's regulator approved its control of mBank, UniCredit said it has every clearance needed to complete its Commerzbank offer. It asked for an extraordinary meeting to replace most shareholder representatives and propose Andrea Orcel as chair, pending a fit-and-proper review."
+        },
+        {
+          "fig": "₩390 bn for 87.3% · closing by 31 Dec",
+          "headline": "APR Buys the Company Behind Dr. Melaxin",
+          "body": "South Korean beauty group APR agreed to acquire a majority stake in Brand501, operator of the Dr. Melaxin skincare brand, through a mix of existing shares and a new share issue. It is a sizeable bet on a direct-to-consumer K-beauty label."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "Long/short YTD ~17% → 7% · ETF shorts +19 pts in a week",
+          "headline": "Funds Cut Stock Exposure for a Fifth Straight Week",
+          "body": "Goldman Sachs prime brokerage data showed hedge fund clients trimming equity exposure again and sharply adding ETF shorts, the third-largest weekly jump in a decade. Meanwhile, ETFs and mutual funds drew about $150 billion of inflows over the past month."
+        },
+        {
+          "fig": "India SIF assets ₹42,670 cr · 4x since March",
+          "headline": "Hedge-Fund Strategies Go Retail",
+          "body": "CNBC reported that managers are courting everyday investors through listed funds, ETFs and interval funds with lower fees and minimums. India's Specialized Investment Funds, with a ₹10 lakh minimum, are among the fastest-growing examples."
+        },
+        {
+          "fig": "Oatly 22.3% · GoodRx 30.9% · AlTi Global 32%",
+          "headline": "Big Holders Disclose Stakes in Fresh 13D Filings",
+          "body": "Platin disclosed a 22.3% stake in Oatly, Francisco Partners a 30.9% position in GoodRx and Allianz a 32% holding in AlTi Global in Schedule 13D filings on Thursday."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "11+ years at the helm · interim oversight by CPTO and board",
+          "headline": "Flipkart CEO Kalyan Krishnamurthy Steps Down",
+          "body": "Flipkart said the business grew more than fivefold under his leadership, and Chief Product and Technology Officer Balaji Thiagarajan will help run the company in the interim. Separately, Uber named former Zomato food-delivery chief Rakesh Ranjan as its president for India and South Asia from 4 January."
+        },
+        {
+          "fig": "Valuation of up to ₹1.5 lakh crore",
+          "headline": "PhonePe Revives Its IPO Plan",
+          "body": "The Walmart-backed payments company has restarted its listing process after an eight-month pause and may file papers within two weeks, according to reports."
+        },
+        {
+          "fig": "Bloom ₹700 cr · Green Aero $14 m · XEBO.ai $10.5 m · Vegapay $10 m",
+          "headline": "Hotels, Defence Tech and Fintech Lead Indian Funding",
+          "body": "Hotel chain Bloom raised ₹700 crore from Kedaara Capital, partly to expand into Southeast Asia, and Green Aero's Series A was led by Crane Ventures to build indigenous jet engines and drones."
+        },
+        {
+          "fig": "₹90 cr debt · BlackSoil",
+          "headline": "GIVA Taps Debt for Store Expansion",
+          "body": "The D2C jewellery brand took debt funding from BlackSoil to grow its retail footprint, following an equity round earlier this month."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "Europe's Stoxx 600 gains 1.8%; Imperial Brands jumps 13% on Altria bid talk — MLQ.ai", "url": "https://mlq.ai/news/europes-stoxx-600-gains-18-imperial-brands-jumps-13-on-altria-bid-talk/"},
+    {"title": "Europe Market Wrap 26 November — The Edge", "url": "https://edgeconsultancykw.com/europe-market-wrap-26-november-2026/"},
+    {"title": "Stock Markets Today, November 26, 2026: European and Asian stocks rally as tariff fears ease — Eurasia Business News", "url": "https://eurasiabusinessnews.com/2026/11/27/stock-markets-today-november-26-2026-european-and-asian-stocks-rally-as-tariff-fears-ease/"},
+    {"title": "Altria weighs a cash bid for Imperial Brands as Japan Tobacco eyes a deal — MLQ.ai", "url": "https://mlq.ai/news/altria-weighs-a-cash-bid-for-imperial-brands-as-japan-tobacco-eyes-a-deal/"},
+    {"title": "Altria and Japan Tobacco consider takeover of Imperial Brands — MarketScreener", "url": "https://www.marketscreener.com/news/altria-and-japan-tobacco-consider-takeover-of-imperial-brands-ce7851d8d081ff25"},
+    {"title": "Closing Bell, 26 November 2026: Sensex and Nifty end higher — Kotak Neo", "url": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-manage-to-close-higher-despite-paring-early-gains/"},
+    {"title": "Indian benchmarks end higher for a second day as IT stocks surge — QNC News", "url": "https://qncnews.com/2026/11/26/indian-benchmarks-end-higher-for-a-second-day-as-it-stocks-surge-3-66-per-cent-in-mumbai/"},
+    {"title": "Why these stocks are rising and falling today — 5paisa", "url": "https://www.5paisa.com/blog/stocks-rising-falling-today-26-november-2026"},
+    {"title": "Top gainers today 26 Nov 2026: Shaily surges 16.13% — Multibagg", "url": "https://www.multibagg.ai/market-pulse/articles/top-gainers-india-today-cmwxfzj9v00092doghomjvys0"},
+    {"title": "Rupee retreats after 65-paise rally, settles at 92.44 — Telangana Today", "url": "https://telanganatoday.com/rupee-retreats-after-65-paise-rally-settles-at-92-44-against-dollar"},
+    {"title": "Japan, South Korea stocks pare gains; Kioxia surges with Nvidia — TradingKey", "url": "https://www.tradingkey.com/analysis/stocks/more/262323392-japan-south-korea-stocks-kospi-nikkei-softbank-sk-hynix-samsung-kioxia-tradingkey"},
+    {"title": "South Korea raises rate to 3.25% as chip boom lifts growth outlook — bne IntelliNews", "url": "https://www.intellinews.com/south-korea-raises-rate-to-3-25-as-chip-boom-lifts-growth-outlook-488561"},
+    {"title": "Bank of Korea raises base rate to 3.25% — SBS News", "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008864381"},
+    {"title": "Orcel prepares for hands-on Commerzbank remake in chairman role — Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-26/unicredit-asks-commerzbank-to-convene-egm-after-final-approval"},
+    {"title": "Commerzbank to assess UniCredit request for EGM and board overhaul — EuropaWire", "url": "https://news.europawire.eu/commerzbank-to-assess-unicredit-request-for-extraordinary-shareholder-meeting-and-board-overhaul/eu-press-release/2026/11/26/14/53/04/189822/"},
+    {"title": "APR to buy 87.3% of Dr. Melaxin operator for 390 billion won — Matrix News", "url": "https://web.matrixnews.in/news/q2cj2x5jzs7dc/apr-to-buy-87-3-percent-of-dr-melaxin-operator-for-390-billion-won"},
+    {"title": "Hedge funds cut equity exposure for fifth week as inflows hit $150bn — Hedgeweek", "url": "https://hedgeweek.com/news/hedge-funds-cut-equity-exposure-for-fifth-week-as-inflows-hit-150bn"},
+    {"title": "Hedge funds are no longer just for the rich — CNBC", "url": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html"},
+    {"title": "Stock trades filed Nov 26, 2026 — AlphaYou", "url": "https://alphayou.net/moves/2026-11-26"},
+    {"title": "Startup News Evening Dispatch, 26 November 2026 — TICE", "url": "https://www.tice.news/tice-dispatch/startup-news-evening-dispatch-november-26-2026-12843293"},
+    {"title": "Startup news and updates: daily roundup (November 26, 2026) — YourStory", "url": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-26-2026"}
+  ]
+}
