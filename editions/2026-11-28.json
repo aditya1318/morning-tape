@@ -1,0 +1,176 @@
+{
+  "id": "2026-11-28",
+  "issue": 19,
+  "date": "Saturday, 28 November 2026",
+  "edition": "Morning Edition",
+  "ticker": [
+    {"name": "S&P 500", "value": "7,297.49", "change": "+1.60%", "dir": "up"},
+    {"name": "Dow", "value": "50,774.94", "change": "+1.18%", "dir": "up"},
+    {"name": "Nasdaq", "value": "24,129.50", "change": "+2.31%", "dir": "up"},
+    {"name": "Sensex", "value": "83,339.26", "change": "−1.17%", "dir": "down"},
+    {"name": "Nifty 50", "value": "25,607.20", "change": "−1.07%", "dir": "down"},
+    {"name": "Stoxx 600", "value": "643.85", "change": "+1.08%", "dir": "up"},
+    {"name": "Nikkei 225", "value": "58,711.11", "change": "+2.11%", "dir": "up"},
+    {"name": "Shanghai Comp.", "value": "3,606.49", "change": "+3.73%", "dir": "up"}
+  ],
+  "tickerNote": "Friday 27 Nov closes. Wall Street traded a shortened post-Thanksgiving session ending at 1 p.m. ET; US changes are measured from Wednesday's close",
+  "lead": {
+    "kicker": "Markets · Global",
+    "headline": "Wall Street Caps Its Best Week Since April 2025 as Beijing Sparks China's Biggest Rally in Two Years",
+    "deck": "The S&P 500 rose 1.6% in a short Black Friday session as chip and AI stocks bounced. In Shanghai, a rare midday pledge from China's cabinet lifted stocks 3.7%. Indian shares went the other way, with the Sensex falling nearly 1,000 points on oil and IT selling.",
+    "body": [
+      "US stocks finished a turbulent, holiday-shortened week with a broad rally on Friday. The S&P 500 gained 1.60% to 7,297.49, the Dow added 591.99 points to 50,774.94 and the Nasdaq climbed 2.3% to 24,129.50, with about four in five S&P stocks rising. The S&P ended the four-session week up 5.6%, its best week since April 2025, just a week after the index had fallen more than 10% below its record. It is still on course for a losing November.",
+      "Beaten-down chip and AI names led again. SanDisk jumped almost 16%, Micron gained more than 7% and Broadcom 3.8%, while Amazon rose about 4% as holiday shopping got under way. Trading was thin, and analysts warned that light volume can exaggerate moves. Treasury yields rose, with the 10-year near 4.94%, as markets braced for a possible Federal Reserve rate hike in December after a hot October inflation reading.",
+      "Much of the lift came from China. In a rare midday statement, a State Council meeting chaired by Premier Li Qiang called on state-backed funds to do more to steady the market. It also urged listed companies to raise dividends and buy back more shares, and said Central Huijin would act more fully as a quasi-stabilisation fund. The Shanghai Composite closed 3.73% higher at 3,606.49, its biggest one-day gain since October 2024, while the tech-heavy STAR 50 surged about 15%. South Korea's Kospi rose 4.34% and Japan's Nikkei 2.11%. Gold and copper also rallied, with copper gaining as much as 6.5% at one point.",
+      "India missed out. The Sensex fell 989.34 points, or 1.17%, to 83,339.26 and the Nifty dropped 1.07% to 25,607.20, ending a four-week winning streak. High crude prices after attacks on Saudi energy sites and tankers, a weaker rupee, rising bond yields and doubts over an India–US trade deal all weighed on stocks. IT majors led the losses. Some analysts also said the rebound in Asian AI stocks could pull foreign money away from India. OPEC+ meets on Sunday."
+    ]
+  },
+  "top": [
+    "The S&P 500 gained 1.6% on Black Friday to end its best week since April 2025, led by a rebound in chip stocks.",
+    "China's cabinet promised more state support for the stock market, and the Shanghai Composite had its best day in two years, rising 3.7%.",
+    "The Sensex fell 989 points as oil, a weaker rupee and IT selling ended Indian stocks' four-week winning streak.",
+    "Haleon is reported to be in early talks to buy a controlling stake in HealthKart, valuing the supplements brand at up to $1.4 billion.",
+    "Puig agreed to pay about €1.2 billion in cash for 75% of Artessence, the owner of Parfums de Marly and Initio."
+  ],
+  "sections": [
+    {
+      "title": "World Markets",
+      "items": [
+        {
+          "fig": "S&P 500 +1.60% · Dow +591.99 · Nasdaq +2.3% · S&P week +5.6%",
+          "headline": "A Short Session Ends a Big Week on Wall Street",
+          "body": "Stocks rose for a second straight week after a correction, with tech leading and nine of 11 S&P sectors higher. Analysts said the gains came from sentiment and positioning, since there was no major data or earnings."
+        },
+        {
+          "fig": "Shanghai +3.73% · CSI 300 +4.2% · STAR 50 ~+15% · Kospi +4.34% · Nikkei +2.11%",
+          "headline": "Beijing's 'National Team' Pledge Lights Up Asia",
+          "body": "The State Council statement came after Chinese stocks had sunk to 16-month lows, about 18% below their May peak. Analysts said the bounce will need better fundamentals to last."
+        },
+        {
+          "fig": "Stoxx 600 643.85 (+1.08%) · FTSE MIB +1.89% · DAX +0.90% · FTSE 100 +0.84%",
+          "headline": "Europe Builds on Thursday's Tariff Relief",
+          "body": "Every major European index rose for the day and the week, led by basic resources (+3.5%) and banks (+2.0%). The FTSE 100 gained 3.41% on the week."
+        },
+        {
+          "fig": "Sensex −989.34 · Nifty −277.30 · Nifty IT −1.88% · Nifty Metal +1.40%",
+          "headline": "Dalal Street Posts Its First Weekly Fall in Five",
+          "body": "Brent touched about $98 during Indian hours, and the rupee slid toward 92.9 per dollar. Mid-caps and small-caps still edged up, and metal stocks rose with global commodity prices."
+        }
+      ]
+    },
+    {
+      "title": "Stocks in the News",
+      "items": [
+        {
+          "fig": "SanDisk +15.96% · Micron +7.6% · Broadcom +3.8% · Amazon ~+4%",
+          "headline": "Memory and AI Stocks Lead the Black Friday Bounce",
+          "body": "Investors went back into the chip and AI names that had led November's sell-off. Nvidia lagged after reports that it has asked partners to pause some server shipments to Southeast Asia."
+        },
+        {
+          "fig": "XP ~+18% · Bradesco ~+15–16%",
+          "headline": "Brazilian Stocks Soar on Lula's Finance Minister Pick",
+          "body": "President Lula chose Bradesco chairman Luiz Carlos Trabuco to become finance minister from January 2027. Investors took it as a sign of a more market-friendly approach to fiscal policy."
+        },
+        {
+          "fig": "Vertex −5.24% · Alvotech −12.35% · Kinetik ~+9%",
+          "headline": "Regulatory Setbacks Hit Two Drugmakers",
+          "body": "Vertex fell after the FDA extended its review of povetacicept to 28 February 2027, and Alvotech slid after a US court blocked its planned copy of Janssen's Simponi for now. Kinetik rose on a Bloomberg report of takeover talks with Targa Resources."
+        },
+        {
+          "fig": "HCL Tech −2.81% · Infosys −2.55% · TCS −2.46% · BEL +1.56%",
+          "headline": "IT Majors Drag the Sensex",
+          "body": "India's software exporters gave back Thursday's gains, and Shriram Finance and Bajaj Auto were also among the Nifty's biggest losers. Bharat Electronics, JSW Steel and Titan led the few gainers."
+        }
+      ]
+    },
+    {
+      "title": "Deals & Acquisitions",
+      "items": [
+        {
+          "fig": "≈€1.2 bn cash for 75% · closing expected Q2 2027",
+          "headline": "Puig Buys Into Niche Perfume With Parfums de Marly Deal",
+          "body": "The Spanish beauty group is buying a majority of Artessence, which owns the Parfums de Marly and Initio brands, while the founder keeps 25% under put and call options. Puig expects to stay within its 2x leverage limit even with its earlier ISDIN deal."
+        },
+        {
+          "fig": "Reported valuation $1.2–1.4 bn · Avendus advising",
+          "headline": "Haleon Eyes Control of HealthKart",
+          "body": "The Centrum maker is in early talks to buy a controlling stake in the Indian supplements brand, according to Mint and Inc42. HealthKart is also weighing an IPO, and neither company has confirmed the talks."
+        },
+        {
+          "fig": "Kinetik ~+9% · Targa ~−1%",
+          "headline": "Targa Said to Be in Talks for Kinetik",
+          "body": "Bloomberg reported that Targa Resources is in talks to buy the Permian pipeline operator, which has been exploring a sale since September. No deal has been reached."
+        }
+      ]
+    },
+    {
+      "title": "Hedge Funds",
+      "items": [
+        {
+          "fig": "CTA buy triggers ~3% above spot · S&P 200-day ~7,350",
+          "headline": "Trend Followers Sit at Maximum Short on Tech",
+          "body": "Goldman Sachs models show trend-following funds at maximum short positions in the Nasdaq 100 and Russell 2000. Goldman traders said a move back above the S&P's 200-day average could force them to buy back those positions."
+        },
+        {
+          "fig": "Net exposure down >30% from 12-month high · 6 weeks of chip selling",
+          "headline": "Funds Have Pulled Back the Most Since 2020",
+          "body": "JPMorgan data put hedge fund net exposure at levels last seen in late 2018 and March 2020, after six straight weeks of selling US chip stocks. Goldman's prime brokerage data show managers rotating from AI hardware suppliers into megacaps such as Amazon, Microsoft, Alphabet and Meta."
+        },
+        {
+          "fig": "Moebius ≈$2 bn · QRT ≈$60 bn AUM",
+          "headline": "QRT to Fold Its Crypto Fund Into Its Flagship",
+          "body": "Qube Research & Technologies plans to merge its Moebius crypto hedge fund into the main Qube strategy at the start of 2027, Bloomberg reported. Bitcoin is down more than 20% in November."
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "items": [
+        {
+          "fig": "340 roles · Q2 adjusted EBITDA loss ₹895 cr",
+          "headline": "Swiggy Cuts Jobs at Instamart",
+          "body": "The quick-commerce unit is cutting support and corporate roles to remove overlap and make more use of generative AI, Reuters reported. Affected staff get severance, faster ESOP vesting and health cover until May 2027."
+        },
+        {
+          "fig": "Malaysia · Singapore · Thailand · Indonesia",
+          "headline": "Nvidia Pauses Some Server Shipments to Southeast Asia",
+          "body": "The WSJ and FT reported that Nvidia told partners such as Dell and Super Micro to hold AI server shipments while it checks export-rule compliance, after Washington closed a loophole that let Chinese firms rent compute there. Nvidia has not confirmed the pause."
+        },
+        {
+          "fig": "Two-year term · Lenskart, Zepto, Minimalist, Groww founders",
+          "headline": "DPIIT Brings D2C Founders Onto Its Startup Council",
+          "body": "The government re-formed its National Startup Advisory Council. Its members include Minimalist co-founder Mohit Yadav, Lenskart's Peyush Bansal and Zoho's Sridhar Vembu. Separately, Flipkart said CEO Kalyan Krishnamurthy's last day will be 4 December."
+        },
+        {
+          "fig": "Matters.AI ₹115 cr · M $9 m",
+          "headline": "Cybersecurity and AI Lead the Day's Indian Funding",
+          "body": "Matters.AI raised a pre-Series A round led by Tanglin Venture Partners. Kabeer Biswas's AI startup M raised a $9 million follow-on round led by RTP Global, bringing its total funding to $20 million."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "S&P 500 rises 1.60% to 7,297.49 on Black Friday, capping its best week since April 2025 — BBN Times", "url": "https://www.bbntimes.com/financial/s-p-500-rises-1-60-to-7-297-49-on-black-friday-capping-its-best-week-since-april-2025"},
+    {"title": "Global shares mostly rise ahead of Wall Street's reopening after Thanksgiving — AP via KSAT", "url": "https://www.ksat.com/business/2026/11/27/asian-shares-mostly-rise-ahead-of-wall-streets-reopening-after-thanksgiving/"},
+    {"title": "Stocks surge in holiday-shortened session — Political.org", "url": "https://political.org/2026/11/27/stocks-surge-in-holiday-shortened-session-dow-gains-592-points-nasdaq-jumps-2-3/"},
+    {"title": "Stock Market Today, November 27, 2026 — Stock Titan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-27-2026"},
+    {"title": "U.S. Stock Market Today, November 27, 2026 — Eurasia Business News", "url": "https://eurasiabusinessnews.com/2026/11/27/u-s-stock-market-today-november-27-2026-tech-rebounds-in-shortened-black-friday-session/"},
+    {"title": "Stocks making the biggest moves midday: XP, Newmont, Sandisk & more — CNBC", "url": "https://www.cnbc.com/2026/11/27/stocks-moving-the-most-today-live-updates.html"},
+    {"title": "China stocks surge most in 2 years as State Council urges state-backed funds to steady markets — Global Times", "url": "https://www.globaltimes.cn/page/202611/1375174.shtml"},
+    {"title": "China stocks surge after rare midsession pledge to steady market — Seoul Economic Daily", "url": "https://en.sedaily.com/world/2026/11/28/china-stocks-surge-after-rare-midsession-pledge-to-steady"},
+    {"title": "Japan, South Korea stock indexes close higher on Nov. 27 — TokenPost", "url": "https://www.tokenpost.com/news/investing/63299"},
+    {"title": "Europe Market Wrap 27 November — The Edge", "url": "https://edgeconsultancykw.com/europe-market-wrap-27-november-2026/"},
+    {"title": "BT Closing Bell: Sensex plunges 989 pts, Nifty ends at 25,607 — Business Today", "url": "https://www.businesstoday.in/markets/stocks/story/bt-closing-bell-sensex-plunges-989-pts-nifty-ends-at-25607-what-fridays-market-fall-reflects-569980-2026-11-27"},
+    {"title": "Closing Bell, 27 November 2026: Sensex, Nifty fall as IT stocks face selling — Kotak Neo", "url": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-fall-amid-domestic-and-global-headwinds/"},
+    {"title": "Bradesco chair named finance minister sends Brazilian stocks surging — Premarket Daily", "url": "https://premarketdaily.com/2026/11/27/bradesco-chair-named-finance-minister-sends-brazilian-stocks-surging-18/"},
+    {"title": "Puig buys 75% of Parfums de Marly owner Artessence — Pollar", "url": "https://pollar.news/en/event/puig-buys-parfums-de-marly-stake"},
+    {"title": "Haleon in talks to acquire controlling stake in HealthKart — Inc42", "url": "https://inc42.com/buzz/haleon-in-talks-to-acquire-controlling-stake-in-healthkart-at-1-4-bn-valuation-report/"},
+    {"title": "Haleon in early talks to buy controlling stake in HealthKart — Matrix News", "url": "https://web.matrixnews.in/news/ufa2sq5pcwwwo/haleon-in-early-talks-to-buy-controlling-stake-in-healthkart"},
+    {"title": "Nasdaq futures jump in Black Friday tech rebound as Beijing unleashes the 'national team'", "url": "https://ifttt.itbehere.com/2026/11/27/nasdaq-futures-jump-2-5-in-black-friday-tech-rebound-as-beijing-unleashes-the-national-team/"},
+    {"title": "Hedge funds prioritise capital preservation over year-end stock rally, says Goldman Sachs — Dimsum Daily", "url": "https://www.dimsumdaily.hk/hedge-funds-prioritise-capital-preservation-over-year-end-stock-rally-says-goldman-sachs/"},
+    {"title": "QRT to merge $2bn crypto hedge fund into flagship Qube strategy — Hedgeweek", "url": "https://hedgeweek.com/news/qrt-to-merge-2bn-crypto-hedge-fund-into-flagship-qube-strategy"},
+    {"title": "Swiggy cuts 340 Instamart roles as quick-commerce unit restructures — Business Standard", "url": "https://www.business-standard.com/companies/news/swiggy-instamart-cuts-340-jobs-restructuring-gen-ai-profitability-126112700516_1.html"},
+    {"title": "Nvidia halts server shipments to four Southeast Asian countries over export compliance review — The AI Insider", "url": "https://theaiinsider.tech/2026/11/27/nvidia-halts-server-shipments-to-four-southeast-asian-countries-over-export-compliance-review/"},
+    {"title": "Startup News Today: DPIIT, Flipkart, HealthKart & AI funding — TICE", "url": "https://tice.news/tice-dispatch/startup-news-november-27-2026-dpiit-flipkart-healthkart-12845984"}
+  ]
+}
